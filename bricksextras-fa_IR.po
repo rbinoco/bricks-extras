@@ -2458,7 +2458,7 @@ msgstr "متن کمکی"
 
 #: components/classes/x-media-playlist.php:654
 msgid "Here you can add subtitles/captions to the media player."
-msgstr ""
+msgstr "در اینجا می‌توانید زیرنویس‌ها/عنوان‌ها را به پخش‌کننده رسانه اضافه کنید."
 
 #: components/classes/x-calendar.php:740
 msgid "Hidden days"
@@ -2843,32 +2843,32 @@ msgstr "آمادگی ورودی"
 
 #: components/classes/x-ws-forms.php:1546
 msgid "Inputs"
-msgstr ""
+msgstr "ورودی‌ها"
 
 #: includes/BricksExtrasInteractive.php:163
 msgid "Interactions are not visible when editing in the builder"
-msgstr ""
+msgstr "تعاملات هنگام ویرایش در سازنده نمایان نیستند"
 
 #: includes/BricksExtrasInteractive.php:132
 msgid "Interactive"
-msgstr ""
+msgstr "تعاملی"
 
 #: components/classes/x-interactive-cursor.php:47 
 #: includes/BricksExtrasMain.php:318
 msgid "Interactive Cursor"
-msgstr ""
+msgstr "مکان‌نمای تعاملی"
 
 #: components/classes/x-lottie.php:133
 msgid "Interactivity"
-msgstr ""
+msgstr "تعاملی‌بودن"
 
 #: components/classes/x-ws-forms.php:1761
 msgid "International dropdown"
-msgstr ""
+msgstr "کشویی بین‌المللی"
 
 #: components/classes/x-ws-forms.php:1698
 msgid "International phone Inputs"
-msgstr ""
+msgstr "ورودی‌های تلفن بین‌المللی"
 
 #: components/classes/x-calendar.php:239 
 #: components/classes/x-toast-notification.php:490
@@ -2877,31 +2877,31 @@ msgstr "فاصله"
 
 #: components/classes/x-pro-slider.php:1788
 msgid "Intervals"
-msgstr ""
+msgstr "فاصله‌ها"
 
 #: components/classes/x-ws-forms.php:1932
 msgid "Invalid feedback text"
-msgstr ""
+msgstr "متن بازخورد نامعتبر"
 
 #: includes/BricksExtrasLicense.php:421
 msgid "Invalid license."
-msgstr ""
+msgstr "مجوز نامعتبر."
 
 #: components/classes/x-ws-forms.php:554
 msgid "Inverted color"
-msgstr ""
+msgstr "رنگ معکوس"
 
 #: includes/BricksExtrasConditions.php:895 includes/BricksExtrasHelpers.php:396
 msgid "Is child"
-msgstr ""
+msgstr "فرزند است"
 
 #: includes/BricksExtrasConditions.php:921 includes/BricksExtrasHelpers.php:400
 msgid "Is parent"
-msgstr ""
+msgstr "والد است"
 
 #: includes/BricksExtrasInteractions.php:497
 msgid "Item Index"
-msgstr ""
+msgstr "شاخص آیتم"
 
 #: includes/BricksExtrasInteractions.php:65
 msgid "Item added"
@@ -2910,7 +2910,7 @@ msgstr "آیتم افزوده شد"
 #: components/classes/x-media-playlist.php:792 
 #: components/classes/x-media-playlist.php:798
 msgid "Item description goes here"
-msgstr ""
+msgstr "توضیح آیتم در اینجا قرار می‌گیرد"
 
 #: includes/BricksExtrasInteractions.php:66
 msgid "Item removed"
@@ -2918,11 +2918,11 @@ msgstr "آیتم حذف شد"
 
 #: components/classes/x-media-playlist.php:80
 msgid "Item styles"
-msgstr ""
+msgstr "سبک‌های آیتم"
 
 #: components/classes/x-qr-code.php:162
 msgid "Kanji"
-msgstr ""
+msgstr "کانجی"
 
 #: components/classes/x-dynamic-lightbox.php:433 
 #: components/classes/x-page-tour.php:971 
@@ -2932,20 +2932,20 @@ msgstr "ناوبری صفحه‌کلید"
 
 #: components/classes/x-panorama-viewer.php:287
 msgid "Keyboard controls"
-msgstr ""
+msgstr "کنترل‌های صفحه‌کلید"
 
 #: components/traits/media-player-trait.php:4324
 msgid "Kind"
-msgstr ""
+msgstr "نوع"
 
 #: includes/BricksExtrasInteractions.php:458
 msgid "Label Number"
-msgstr ""
+msgstr "شماره برچسب"
 
 #: components/classes/x-dynamic-chart.php:699 
 #: components/classes/x-dynamic-chart.php:830
 msgid "Label rotation"
-msgstr ""
+msgstr "چرخش برچسب"
 
 #: components/classes/x-panorama-viewer.php:102
 msgid "Labels"
@@ -2953,7 +2953,7 @@ msgstr "برچسب‌ها"
 
 #: components/classes/x-ws-forms.php:383
 msgid "Labels and field values"
-msgstr ""
+msgstr "برچسب‌ها و مقادیر فیلد"
 
 #: includes/BricksExtrasHelpers.php:408 includes/BricksExtrasHelpers.php:412 
 #: includes/BricksExtrasHelpers.php:416 includes/BricksExtrasHelpers.php:420
@@ -2962,11 +2962,11 @@ msgstr "زبان"
 
 #: components/classes/x-calendar.php:847
 msgid "Last time slot in timeline views (e.g., 22:00:00)"
-msgstr ""
+msgstr "آخرین شکاف زمانی در نمایش‌های خط‌زمانی (مثلاً 22:00:00)"
 
 #: components/classes/x-pro-slider.php:2159
 msgid "Layout if slider not active"
-msgstr ""
+msgstr "طرح‌بندی اگر اسلایدر فعال نباشد"
 
 #: components/classes/x-media-player-audio.php:261 
 #: components/classes/x-media-player-audio.php:266 
@@ -2974,29 +2974,29 @@ msgstr ""
 #: components/classes/x-media-player.php:871 
 #: components/classes/x-pro-slider.php:788
 msgid "Lazy load"
-msgstr ""
+msgstr "بارگذاری تنبل"
 
 #: components/classes/x-dynamic-lightbox.php:500 
 #: components/classes/x-pro-slider.php:782
 msgid "Lazy loading"
-msgstr ""
+msgstr "بارگذاری تنبل"
 
 #: components/classes/x-calendar.php:693
 msgid "Leave at 0 for auto"
-msgstr ""
+msgstr "برای خودکار 0 باقی بگذارید"
 
 #: components/classes/x-page-tour-step.php:97
 msgid "Leave blank for step centered in viewport"
-msgstr ""
+msgstr "برای مرحله‌ای در مرکز دید، خالی بگذارید"
 
 #: components/classes/x-image-hotspot-marker.php:601
 msgid "Leave blank if wanting to inherit from parent Image Hotspots settings"
-msgstr ""
+msgstr "اگر می‌خواهید از تنظیمات Image Hotspots والد به ارث برید، خالی بگذارید"
 
 #: components/classes/x-dynamic-chart.php:1293 
 #: components/classes/x-dynamic-chart.php:1303
 msgid "Leave empty to inherit color"
-msgstr ""
+msgstr "برای به ارث بردن رنگ، خالی بگذارید"
 
 #: components/classes/x-color-scheme-toggle.php:742 
 #: components/classes/x-color-scheme-toggle.php:745
@@ -3010,7 +3010,7 @@ msgstr "چپ"
 #: components/classes/x-page-tour-step.php:119 
 #: components/classes/x-popover.php:566
 msgid "Left End"
-msgstr ""
+msgstr "انتهای چپ"
 
 #. Popover positioning: left-top corner
 #: components/classes/x-copy-to-clipboard.php:403 
@@ -3019,28 +3019,28 @@ msgstr ""
 #: components/classes/x-page-tour-step.php:118 
 #: components/classes/x-popover.php:565
 msgid "Left Start"
-msgstr ""
+msgstr "شروع چپ"
 
 #: includes/BricksExtrasMain.php:350 includes/BricksExtrasMain.php:366
 msgid "Legacy"
-msgstr ""
+msgstr "قدیمی"
 
 #: components/classes/x-ws-forms.php:147
 msgid "Legal"
-msgstr ""
+msgstr "حقوقی"
 
 #: components/classes/x-dynamic-chart.php:1082
 msgid "Legend"
-msgstr ""
+msgstr "افسانه"
 
 #: components/classes/x-dynamic-chart.php:114
 msgid "Legends"
-msgstr ""
+msgstr "افسانه‌ها"
 
 #: components/classes/x-read-more-less.php:193 
 #: components/classes/x-read-more-less.php:217
 msgid "Less"
-msgstr ""
+msgstr "کمتر"
 
 #: includes/BricksExtrasConditions.php:548
 msgid "Level"
@@ -3048,11 +3048,11 @@ msgstr "سطح"
 
 #: includes/BricksExtrasConditions.php:567
 msgid "Level ID"
-msgstr ""
+msgstr "شناسه سطح"
 
 #: includes/VideoProvidersPage.php:96
 msgid "Library ID can only contain letters, numbers, dashes, and underscores."
-msgstr ""
+msgstr "شناسه کتابخانه می‌تواند فقط شامل حروف، اعداد، خط‌تیره و زیرخط باشد."
 
 #: includes/BricksExtrasLicense.php:264 includes/Plugin.php:241
 msgid "License"
@@ -3060,7 +3060,7 @@ msgstr "مجوز"
 
 #: includes/BricksExtrasLicense.php:284
 msgid "License Key"
-msgstr ""
+msgstr "کلید مجوز"
 
 #: components/classes/x-color-scheme-toggle.php:169 
 #: components/classes/x-color-scheme-toggle.php:1478 
@@ -3076,19 +3076,19 @@ msgstr "نماد روشن"
 
 #: includes/BricksExtrasInteractions.php:59
 msgid "Lightbox closed"
-msgstr ""
+msgstr "جعبه نور بسته شد"
 
 #: includes/BricksExtrasInteractions.php:58
 msgid "Lightbox opened"
-msgstr ""
+msgstr "جعبه نور باز شد"
 
 #: components/classes/x-ws-forms.php:638
 msgid "Lighter Color"
-msgstr ""
+msgstr "رنگ روشن‌تر"
 
 #: components/classes/x-ws-forms.php:812
 msgid "Lightest color"
-msgstr ""
+msgstr "روشن‌ترین رنگ"
 
 #: components/classes/x-before-after-image.php:190 
 #: components/classes/x-content-timeline.php:92 
@@ -3103,11 +3103,11 @@ msgstr "خط"
 #: components/classes/x-pro-slider-control.php:1300 
 #: components/classes/x-pro-slider-control.php:1341
 msgid "Line width"
-msgstr ""
+msgstr "عرض خط"
 
 #: components/classes/x-calendar.php:879 components/classes/x-calendar.php:881
 msgid "Link to URL"
-msgstr ""
+msgstr "پیوند به URL"
 
 #: components/classes/x-calendar.php:958
 msgid "List"
@@ -3115,66 +3115,66 @@ msgstr "لیست"
 
 #: components/classes/x-calendar.php:955
 msgid "List Button"
-msgstr ""
+msgstr "دکمه فهرست"
 
 #: components/classes/x-calendar.php:1075
 msgid "List Day Text"
-msgstr ""
+msgstr "متن روز فهرست"
 
 #: includes/BricksExtrasQueryLoop.php:491
 msgid "List Indentifier"
-msgstr ""
+msgstr "شناسه فهرست"
 
 #: components/classes/x-calendar.php:795 components/classes/x-calendar.php:797
 msgid "List Item (dot)"
-msgstr ""
+msgstr "آیتم فهرست (نقطه)"
 
 #: includes/WPGridBuilderStyler.php:141
 msgid "List background"
-msgstr ""
+msgstr "پس‌زمینه فهرست"
 
 #: includes/WPGridBuilderStyler.php:173
 msgid "List background (focused)"
-msgstr ""
+msgstr "پس‌زمینه فهرست (متمرکز)"
 
 #: includes/WPGridBuilderStyler.php:205
 msgid "List background (selected)"
-msgstr ""
+msgstr "پس‌زمینه فهرست (انتخاب‌شده)"
 
 #: includes/BricksExtrasInteractions.php:69
 msgid "List count full (over maximum)"
-msgstr ""
+msgstr "شمارش فهرست کامل (بیشتر از حداکثر)"
 
 #: includes/BricksExtrasInteractions.php:68
 msgid "List count reaches X"
-msgstr ""
+msgstr "شمارش فهرست به X می‌رسد"
 
 #: components/classes/x-favorite.php:194
 msgid "List identifier"
-msgstr ""
+msgstr "شناسه فهرست"
 
 #: components/classes/x-table-of-contents.php:510 
 #: components/classes/x-table-of-contents.php:526 
 #: components/classes/x-table-of-contents.php:541 
 #: components/classes/x-table-of-contents.php:557
 msgid "List style type"
-msgstr ""
+msgstr "نوع سبک فهرست"
 
 #: components/classes/x-favorite.php:195
 msgid "List that is being saved to"
-msgstr ""
+msgstr "فهرستی که در حال ذخیره کردن است"
 
 #: includes/WPGridBuilderStyler.php:157
 msgid "List typography"
-msgstr ""
+msgstr "تایپوگرافی فهرست"
 
 #: includes/WPGridBuilderStyler.php:189
 msgid "List typography (focused)"
-msgstr ""
+msgstr "تایپوگرافی فهرست (متمرکز)"
 
 #: includes/WPGridBuilderStyler.php:221
 msgid "List typography (selected)"
-msgstr ""
+msgstr "تایپوگرافی فهرست (انتخاب‌شده)"
 
 #: components/classes/x-media-control.php:135 
 #: components/classes/x-media-control.php:210 
@@ -3187,82 +3187,82 @@ msgstr ""
 #: components/traits/media-player-trait.php:3276 
 #: components/traits/media-player-trait.php:3881
 msgid "Live"
-msgstr ""
+msgstr "زنده"
 
 #: components/classes/x-media-player.php:878
 msgid "Loading UI"
-msgstr ""
+msgstr "رابط کاربری بارگذاری"
 
 #: components/classes/x-media-player-audio.php:251 
 #: components/classes/x-media-player.php:856
 msgid "Loading media"
-msgstr ""
+msgstr "رسانه در حال بارگذاری"
 
 #: components/classes/x-dynamic-chart.php:846
 msgid "Logarithmic"
-msgstr ""
+msgstr "لگاریتمی"
 
 #: components/classes/x-favorite.php:132 components/classes/x-favorite.php:135
 msgid "Logged in users"
-msgstr ""
+msgstr "کاربران وارد شده"
 
 #: components/classes/x-favorite.php:681
 msgid "Login to enable"
-msgstr ""
+msgstr "برای فعال‌سازی وارد شوید"
 
 #: components/classes/x-favorite.php:1566
 msgid "Login to enable "
-msgstr ""
+msgstr "برای فعال‌سازی وارد شوید "
 
 #: components/classes/x-media-control.php:530 
 #: components/classes/x-media-control.php:2920 
 #: components/traits/media-player-trait.php:491 
 #: components/traits/media-player-trait.php:1168
 msgid "Loop"
-msgstr ""
+msgstr "حلقه"
 
 #: components/traits/media-player-trait.php:4849
 msgid "Loop back to start after reaching the end"
-msgstr ""
+msgstr "بازگشت به شروع پس از رسیدن به انتها"
 
 #: includes/BricksExtrasDynamicTags.php:74
 msgid "Loop index"
-msgstr ""
+msgstr "شاخص حلقه"
 
 #: includes/BricksExtrasConditions.php:1309 
 #: includes/BricksExtrasHelpers.php:424
 msgid "Loop item number"
-msgstr ""
+msgstr "شماره آیتم حلقه"
 
 #: components/classes/x-toast-notification.php:458
 msgid "Looped intervals"
-msgstr ""
+msgstr "بازه‌های حلقه‌ای"
 
 #: components/classes/x-lottie.php:59 includes/BricksExtrasMain.php:323
 msgid "Lottie"
-msgstr ""
+msgstr "لاتی"
 
 #: components/classes/x-lottie.php:247
 msgid "Lottie version"
-msgstr ""
+msgstr "نسخه Lottie"
 
 #: components/classes/x-media-control.php:2450 
 #: components/classes/x-media-control.php:2463 
 #: components/traits/media-player-trait.php:668
 msgid "Low volume"
-msgstr ""
+msgstr "صدای کم"
 
 #: components/classes/x-panorama-viewer.php:256
 msgid "Lower values = less sensitive scrolling"
-msgstr ""
+msgstr "مقادیر پایین‌تر = اسکرول کمتر حساس"
 
 #: components/classes/x-pro-slider.php:1741
 msgid "Makes slides clickable to navigate another slider."
-msgstr ""
+msgstr "اسلایدها را برای ناوبری به اسلایدر دیگری قابل کلیک می‌کند."
 
 #: components/classes/x-social-share.php:63
 msgid "Manage Share buttons"
-msgstr ""
+msgstr "مدیریت دکمه‌های اشتراک‌گذاری"
 
 #: components/classes/x-media-player-audio.php:381 
 #: components/classes/x-media-player-audio.php:417 
@@ -3274,93 +3274,93 @@ msgstr ""
 #: components/classes/x-media-player.php:505 
 #: components/classes/x-media-player.php:562
 msgid "Manage controls for this zone"
-msgstr ""
+msgstr "مدیریت کنترل‌ها برای این منطقه"
 
 #: components/classes/x-notification-bar.php:180 
 #: components/classes/x-page-tour.php:168 
 #: components/classes/x-pro-alert.php:289
 msgid "Manual (if using with code)"
-msgstr ""
+msgstr "دستی (اگر با کد استفاده کنید)"
 
 #: components/classes/x-dynamic-chart.php:325 
 #: components/classes/x-dynamic-chart.php:330
 msgid "Manually"
-msgstr ""
+msgstr "دستی"
 
 #: components/classes/x-toast-notification.php:310 
 #: components/classes/x-toast-notification.php:402
 msgid "Margin"
-msgstr ""
+msgstr "حاشیه"
 
 #: components/classes/x-content-timeline.php:895
 msgid "Marker "
-msgstr ""
+msgstr "نشانگر "
 
 #: components/classes/x-content-timeline.php:905
 msgid "Marker inner"
-msgstr ""
+msgstr "داخل نشانگر"
 
 #: components/classes/x-image-hotspot-marker.php:86 
 #: components/classes/x-image-hotspots.php:93
 msgid "Marker style"
-msgstr ""
+msgstr "سبک نشانگر"
 
 #: components/classes/x-calendar.php:692
 msgid "Max events to show per day"
-msgstr ""
+msgstr "حداکثر رویدادهای نمایشی در روز"
 
 #: includes/BricksExtrasInteractive.php:409
 msgid "Max glare"
-msgstr ""
+msgstr "حداکثر درخشندگی"
 
 #: components/classes/x-favorite.php:203
 msgid "Max. number of posts in list"
-msgstr ""
+msgstr "حداکثر تعداد نوشته‌ها در فهرست"
 
 #: components/classes/x-toast.php:132
 msgid "Max. visible toasts"
-msgstr ""
+msgstr "حداکثر اعلان‌های قابل مشاهده"
 
 #: components/classes/x-favorite.php:608 components/classes/x-favorite.php:1577
 msgid "Maximum Reached"
-msgstr ""
+msgstr "حداکثر رسیده"
 
 #: components/classes/x-pro-slider.php:833
 msgid "Maximum number pages that can be flicked"
-msgstr ""
+msgstr "حداکثر تعداد صفحات قابل تغییر"
 
 #: components/classes/x-favorite.php:247 components/classes/x-favorite.php:250
 msgid "Maximum reached"
-msgstr ""
+msgstr "حداکثر رسیده"
 
 #: includes/BricksExtrasInteractive.php:341
 msgid "Maximum rotation"
-msgstr ""
+msgstr "چرخش حداکثر"
 
 #: components/classes/x-media-control.php:47 
 #: components/classes/x-media-control.php:109 includes/BricksExtrasMain.php:339
 msgid "Media Control"
-msgstr ""
+msgstr "کنترل رسانه"
 
 #: components/classes/x-media-player-audio.php:258 
 #: components/classes/x-media-player.php:863
 msgid "Media Loading"
-msgstr ""
+msgstr "بارگذاری رسانه"
 
 #: components/classes/x-media-player-audio.php:71 
 #: components/classes/x-media-player.php:74 includes/BricksExtrasMain.php:328 
 #: includes/BricksExtrasMain.php:333
 msgid "Media Player"
-msgstr ""
+msgstr "پخش‌کننده رسانه"
 
 #: components/classes/x-media-playlist.php:59 includes/BricksExtrasMain.php:345
 msgid "Media Playlist"
-msgstr ""
+msgstr "فهرست پخش رسانه"
 
 #: components/traits/media-player-trait.php:235 
 #: components/traits/media-player-trait.php:237
 msgid "Media Source URL"
-msgstr ""
+msgstr "URL منبع رسانه"
 
 #: components/classes/x-media-control.php:223 
 #: components/classes/x-media-control.php:225 
@@ -3371,14 +3371,14 @@ msgstr ""
 #: components/traits/media-player-trait.php:1851 
 #: components/traits/media-player-trait.php:1886
 msgid "Media source URL"
-msgstr ""
+msgstr "URL منبع رسانه"
 
 #: components/classes/x-media-playlist.php:167 
 #: components/classes/x-media-playlist.php:203 
 #: components/traits/media-player-trait.php:1847 
 #: components/traits/media-player-trait.php:1882
 msgid "Media sources"
-msgstr ""
+msgstr "منابع رسانه"
 
 #: components/classes/x-media-playlist.php:114 
 #: components/classes/x-media-playlist.php:176 
@@ -3386,148 +3386,148 @@ msgstr ""
 #: components/traits/media-player-trait.php:1856 
 #: components/traits/media-player-trait.php:1891
 msgid "Media type"
-msgstr ""
+msgstr "نوع رسانه"
 
 #: includes/BricksExtrasConditions.php:108
 msgid "Member Conditions"
-msgstr ""
+msgstr "شرایط عضویت"
 
 #: includes/BricksExtrasConditions.php:448
 msgid "Member Level"
-msgstr ""
+msgstr "سطح عضویت"
 
 #: includes/BricksExtrasConditions.php:469
 msgid "Member Level ID"
-msgstr ""
+msgstr "شناسه سطح عضویت"
 
 #: includes/BricksExtrasConditions.php:495
 msgid "Member access group"
-msgstr ""
+msgstr "گروه دسترسی عضو"
 
 #: includes/BricksExtrasConditions.php:514
 msgid "Member access group ID"
-msgstr ""
+msgstr "شناسه گروه دسترسی عضو"
 
 #: includes/BricksExtrasConditions.php:340
 msgid "Membership level"
-msgstr ""
+msgstr "سطح عضویت"
 
 #: includes/BricksExtrasConditions.php:363
 msgid "Membership level ID"
-msgstr ""
+msgstr "شناسه سطح عضویت"
 
 #: includes/BricksExtrasDynamicTags.php:101
 msgid "Menu Item Classes"
-msgstr ""
+msgstr "کلاس‌های آیتم منو"
 
 #: includes/BricksExtrasDynamicTags.php:96
 msgid "Menu Item Description"
-msgstr ""
+msgstr "توضیح آیتم منو"
 
 #: includes/BricksExtrasDynamicTags.php:111
 msgid "Menu Item ID"
-msgstr ""
+msgstr "شناسه آیتم منو"
 
 #: includes/BricksExtrasDynamicTags.php:86
 msgid "Menu Item Label"
-msgstr ""
+msgstr "برچسب آیتم منو"
 
 #: includes/BricksExtrasDynamicTags.php:106
 msgid "Menu Item Target"
-msgstr ""
+msgstr "هدف آیتم منو"
 
 #: includes/BricksExtrasDynamicTags.php:91
 msgid "Menu Item URL"
-msgstr ""
+msgstr "URL آیتم منو"
 
 #: includes/BricksExtrasQueryLoop.php:377
 msgid "Menu Items Filter"
-msgstr ""
+msgstr "فیلتر آیتم‌های منو"
 
 #: components/classes/x-media-control.php:534
 msgid "Menu Placement"
-msgstr ""
+msgstr "موقعیت منو"
 
 #: includes/BricksExtrasInteractions.php:224
 msgid "Menu collapse"
-msgstr ""
+msgstr "جمع‌کردن منو"
 
 #: includes/BricksExtrasInteractions.php:223
 msgid "Menu expanded"
-msgstr ""
+msgstr "منو گسترش‌یافته"
 
 #: components/classes/x-media-control.php:1841 
 #: components/classes/x-media-control.php:2478 
 #: components/classes/x-media-control.php:2486
 msgid "Menu items"
-msgstr ""
+msgstr "آیتم‌های منو"
 
 #: components/classes/x-slide-menu.php:122 
 #: includes/BricksExtrasQueryLoop.php:349
 msgid "Menu name, menu slug or menu ID"
-msgstr ""
+msgstr "نام منو، slug منو یا شناسه منو"
 
 #: components/classes/x-media-control.php:547 
 #: components/classes/x-media-control.php:557
 msgid "Menu offset"
-msgstr ""
+msgstr "جابه‌جایی منو"
 
 #: components/traits/media-player-trait.php:2562
 msgid "Menus"
-msgstr ""
+msgstr "منوها"
 
 #: components/classes/x-content-timeline.php:88 
 #: components/classes/x-content-timeline.php:953
 msgid "Meta content"
-msgstr ""
+msgstr "محتوای متا"
 
 #: components/classes/x-content-timeline.php:182 
 #: components/classes/x-content-timeline.php:244
 msgid "Meta content align"
-msgstr ""
+msgstr "تراز محتوای متا"
 
 #: components/classes/x-content-timeline.php:942
 msgid "Meta inner"
-msgstr ""
+msgstr "درون متا"
 
 #: components/classes/x-content-timeline.php:951
 msgid "Meta text"
-msgstr ""
+msgstr "متن متا"
 
 #: components/classes/x-content-timeline.php:147
 msgid "Meta width"
-msgstr ""
+msgstr "عرض متا"
 
 #: components/classes/x-ws-forms.php:122 components/classes/x-ws-forms.php:3077
 msgid "Meter"
-msgstr ""
+msgstr "ابزار اندازه‌گیری"
 
 #: components/classes/x-reading-progress-bar.php:111 
 #: components/classes/x-reading-progress-bar.php:123
 msgid "Middle of viewport"
-msgstr ""
+msgstr "وسط دید"
 
 #: components/classes/x-table-of-contents.php:200
 msgid "Minimum headings found to display"
-msgstr ""
+msgstr "حداقل سرفصل‌های یافت‌شده برای نمایش"
 
 #: components/classes/x-pro-slider.php:817
 msgid "Minimum threshold for dragging"
-msgstr ""
+msgstr "حداقل آستانه برای کشیدن"
 
 #: components/classes/x-countdown.php:248 
 #: components/classes/x-countdown.php:300 
 #: includes/BricksExtrasInteractions.php:303
 msgid "Minutes"
-msgstr ""
+msgstr "دقیقه"
 
 #: includes/Plugin.php:239
 msgid "Misc"
-msgstr ""
+msgstr "متفرقه"
 
 #: includes/MiscPage.php:55
 msgid "Miscellaneous"
-msgstr ""
+msgstr "متفرقه"
 
 #: components/classes/x-countdown.php:196 
 #: components/classes/x-pro-modal-nestable.php:52 
@@ -3542,11 +3542,11 @@ msgstr "مودال"
 
 #: includes/BricksExtrasInteractions.php:138
 msgid "Modal closed"
-msgstr ""
+msgstr "مودال بسته شد"
 
 #: includes/BricksExtrasInteractions.php:137
 msgid "Modal opened"
-msgstr ""
+msgstr "مودال باز شد"
 
 #: components/classes/x-calendar.php:707 components/classes/x-calendar.php:745
 msgid "Monday"
@@ -3558,116 +3558,116 @@ msgstr "ماه"
 
 #: components/classes/x-calendar.php:928
 msgid "Month Button"
-msgstr ""
+msgstr "دکمه ماه"
 
 #: components/classes/x-calendar.php:313 components/classes/x-calendar.php:343 
 #: components/classes/x-calendar.php:373 components/classes/x-calendar.php:410 
 #: components/classes/x-calendar.php:439 components/classes/x-calendar.php:468 
 #: components/classes/x-calendar.php:652 components/classes/x-calendar.php:661
 msgid "Month Grid"
-msgstr ""
+msgstr "شبکه ماه"
 
 #: components/classes/x-calendar.php:320 components/classes/x-calendar.php:350 
 #: components/classes/x-calendar.php:380 components/classes/x-calendar.php:417 
 #: components/classes/x-calendar.php:446 components/classes/x-calendar.php:475 
 #: components/classes/x-calendar.php:658
 msgid "Month List"
-msgstr ""
+msgstr "فهرست ماه"
 
 #: components/classes/x-toggle-switch.php:840
 msgid "Monthly"
-msgstr ""
+msgstr "ماهانه"
 
 #: components/classes/x-color-scheme-toggle.php:290 
 #: components/classes/x-color-scheme-toggle.php:373
 msgid "Moon eclipse size"
-msgstr ""
+msgstr "اندازه خسوف ماه"
 
 #: components/classes/x-color-scheme-toggle.php:311 
 #: components/classes/x-color-scheme-toggle.php:394
 msgid "Moon rotation"
-msgstr ""
+msgstr "چرخش ماه"
 
 #: components/classes/x-read-more-less.php:184 
 #: components/classes/x-read-more-less.php:208
 msgid "More"
-msgstr ""
+msgstr "بیشتر"
 
 #: components/classes/x-calendar.php:1284
 msgid "More Link Background"
-msgstr ""
+msgstr "پس‌زمینه پیوند بیشتر"
 
 #: components/classes/x-calendar.php:1297
 msgid "More Link Text"
-msgstr ""
+msgstr "متن پیوند بیشتر"
 
 #: components/classes/x-color-scheme-toggle.php:272
 msgid "Morphing icon presets"
-msgstr ""
+msgstr "پیش‌تنظیم‌های نماد تغییر‌شکل"
 
 #: components/classes/x-color-scheme-toggle.php:264 
 #: components/classes/x-color-scheme-toggle.php:266
 msgid "Morphing icons"
-msgstr ""
+msgstr "نمادهای تغییر‌شکل"
 
 #: components/classes/x-panorama-viewer.php:237
 msgid "Mouse wheel Zoom"
-msgstr ""
+msgstr "تغییر اندازه چرخ ماوس"
 
 #: components/classes/x-ws-forms.php:2649
 msgid "Move Down Button"
-msgstr ""
+msgstr "دکمه حرکت به پایین"
 
 #: components/classes/x-ws-forms.php:2588
 msgid "Move Up Button"
-msgstr ""
+msgstr "دکمه حرکت به بالا"
 
 #: components/classes/x-dynamic-table.php:1453
 msgid "Move cell content onto new line"
-msgstr ""
+msgstr "انتقال محتوای سلول به خط جدید"
 
 #: components/classes/x-image-hotspot-marker.php:654 
 #: components/classes/x-image-hotspots.php:759
 msgid "Move focus inside popover content"
-msgstr ""
+msgstr "انتقال تمرکز به محتوای تاشو"
 
 #: components/classes/x-toggle-switch.php:810 
 #: components/classes/x-toggle-switch.php:812
 msgid "Move focus to next tab"
-msgstr ""
+msgstr "انتقال تمرکز به برگه بعدی"
 
 #: components/classes/x-offcanvas-nestable.php:268 
 #: components/classes/x-offcanvas.php:278
 msgid "Move focus to offcanvas"
-msgstr ""
+msgstr "انتقال تمرکز به بیرون‌از‌بوم"
 
 #: components/traits/media-player-trait.php:4840
 msgid "Move to next item in playlist when media ends"
-msgstr ""
+msgstr "حرکت به آیتم بعدی در فهرست پخش هنگام پایان رسانه"
 
 #: components/classes/x-panorama-viewer.php:261
 msgid "Movement friction"
-msgstr ""
+msgstr "اصطکاک حرکت"
 
 #: includes/WPGridBuilderStyler.php:2042
 msgid "Multiple Selection remove icon"
-msgstr ""
+msgstr "نماد حذف انتخاب چندگانه"
 
 #: includes/WPGridBuilderStyler.php:1956
 msgid "Multiple Selection values"
-msgstr ""
+msgstr "مقادیر انتخاب چندگانه"
 
 #: components/classes/x-media-playlist.php:204
 msgid "Multiple file types"
-msgstr ""
+msgstr "انواع فایل چندگانه"
 
 #: components/classes/x-toggle-switch.php:114
 msgid "Multiple labels"
-msgstr ""
+msgstr "برچسب‌های چندگانه"
 
 #: components/classes/x-popover.php:682
 msgid "Multiple triggers for the same tooltip"
-msgstr ""
+msgstr "تعدادی تریگر برای یک ابزار راهنما"
 
 #: components/classes/x-media-control.php:319 
 #: components/classes/x-media-control.php:2713 
@@ -3678,53 +3678,53 @@ msgstr "بی‌صدا"
 #: components/classes/x-media-control.php:2394 
 #: components/classes/x-media-control.php:2407
 msgid "Muted"
-msgstr ""
+msgstr "بی‌صدا"
 
 #: components/classes/x-pro-slider.php:693
 msgid "Navigation by mouse wheel"
-msgstr ""
+msgstr "ناوبری توسط چرخ ماوس"
 
 #: components/classes/x-pro-slider.php:792 
 #: components/classes/x-pro-slider.php:796
 msgid "Nearby"
-msgstr ""
+msgstr "نزدیک"
 
 #: components/classes/x-panorama-viewer.php:589
 msgid "Nest content inside viewer to inform the user to click to load"
-msgstr ""
+msgstr "تودرتو کردن محتوا در بیننده برای آگاه‌کردن کاربر از کلیک برای بارگذاری"
 
 #: components/classes/x-image-hotspots.php:137
 msgid "Nest in the Image Hotspot Marker element"
-msgstr ""
+msgstr "تودرتو در عنصر نشانگر Image Hotspot"
 
 #: components/classes/x-breadcrumbs.php:600
 msgid "Nest taxonomies"
-msgstr ""
+msgstr "تودرتو‌کردن طبقه‌بندی‌ها"
 
 #: components/classes/x-nestable-table.php:59 includes/BricksExtrasMain.php:361
 msgid "Nestable Table"
-msgstr ""
+msgstr "جدول قابل تودرتو"
 
 #: components/classes/x-slide-menu.php:540 
 #: components/classes/x-slide-menu.php:544
 msgid "Nested"
-msgstr ""
+msgstr "تودرتو"
 
 #: components/classes/x-image-hotspots.php:130
 msgid "Nested Hotspots"
-msgstr ""
+msgstr "نقاط داغ تودرتو"
 
 #: components/classes/x-fluent-form.php:120
 msgid "Net Promotor Score"
-msgstr ""
+msgstr "امتیاز تروج کننده خالص"
 
 #: components/classes/x-calendar.php:1088
 msgid "Neutral Background"
-msgstr ""
+msgstr "پس‌زمینه بی‌طرفانه"
 
 #: components/classes/x-calendar.php:1101
 msgid "Neutral Text"
-msgstr ""
+msgstr "متن بی‌طرفانه"
 
 #: components/classes/x-notification-bar.php:177 
 #: components/classes/x-page-tour.php:165 
@@ -3733,7 +3733,7 @@ msgstr ""
 #: components/classes/x-pro-modal.php:348 
 #: components/classes/x-toast-notification.php:529
 msgid "Never show again"
-msgstr ""
+msgstr "دیگر هرگز نشان نده"
 
 #: components/classes/x-calendar.php:307 components/classes/x-calendar.php:337 
 #: components/classes/x-calendar.php:367 components/classes/x-calendar.php:404 
@@ -3748,7 +3748,7 @@ msgstr "بعدی"
 
 #: components/classes/x-calendar.php:982
 msgid "Next Button"
-msgstr ""
+msgstr "دکمه بعدی"
 
 #: components/classes/x-pro-slider-control.php:1728
 msgid "Next Slide"
@@ -3758,59 +3758,59 @@ msgstr "اسلاید بعدی"
 #: components/classes/x-calendar.php:369 components/classes/x-calendar.php:406 
 #: components/classes/x-calendar.php:435 components/classes/x-calendar.php:464
 msgid "Next Year"
-msgstr ""
+msgstr "سال بعد"
 
 #: components/classes/x-calendar.php:1000
 msgid "Next Year Button"
-msgstr ""
+msgstr "دکمه سال بعد"
 
 #: components/classes/x-media-control.php:137 
 #: components/classes/x-media-control.php:342 
 #: components/traits/media-player-trait.php:169
 msgid "Next item"
-msgstr ""
+msgstr "آیتم بعدی"
 
 #: components/classes/x-pro-slider.php:2237
 msgid "Next slide"
-msgstr ""
+msgstr "اسلاید بعدی"
 
 #: components/classes/x-page-tour.php:1089
 msgid "Next step is useful for multi-page tours"
-msgstr ""
+msgstr "مرحله بعدی برای تورهای چند صفحه‌ای مفید است"
 
 #: components/classes/x-calendar.php:1018
 msgid "No Events Text"
-msgstr ""
+msgstr "متن بدون رویداد"
 
 #: components/classes/x-calendar.php:1021
 msgid "No events to display"
-msgstr ""
+msgstr "هیچ رویدادی برای نمایش وجود ندارد"
 
 #: includes/BricksExtrasLicense.php:524
 msgid "No license key found. Please enter your license key and activate."
-msgstr ""
+msgstr "هیچ کلید مجوزی یافت نشد. لطفاً کلید مجوز خود را وارد کنید و فعال کنید."
 
 #: components/classes/x-dynamic-table.php:519 
 #: components/classes/x-dynamic-table.php:1552
 msgid "No matching records found"
-msgstr ""
+msgstr "هیچ رکورد مطابق یافت نشد"
 
 #: components/classes/x-panorama-scene.php:393
 msgid "No panorama image selected"
-msgstr ""
+msgstr "هیچ تصویر پانوراما انتخاب‌نشده است"
 
 #: includes/BricksExtrasConditions.php:538 
 #: includes/BricksExtrasConditions.php:561
 msgid "Non-Members"
-msgstr ""
+msgstr "غیراعضا"
 
 #: includes/BricksExtrasConditions.php:691
 msgid "Not present"
-msgstr ""
+msgstr "حاضر نیست"
 
 #: components/classes/x-media-player.php:978
 msgid "Notice: Your message here"
-msgstr ""
+msgstr "توجه: پیام شما در اینجا"
 
 #: components/classes/x-countdown.php:196
 msgid "Notification"
@@ -3818,11 +3818,11 @@ msgstr "اطلاع‌رسانی"
 
 #: includes/BricksExtrasInteractions.php:99
 msgid "Notification Dismissed"
-msgstr ""
+msgstr "اعلان رد شد"
 
 #: includes/BricksExtrasInteractions.php:98
 msgid "Notification Open"
-msgstr ""
+msgstr "اعلان باز"
 
 #: components/classes/x-toast-notification.php:429
 msgid ""
@@ -3831,40 +3831,40 @@ msgstr ""
 
 #: components/classes/x-calendar.php:819
 msgid "Now Indicator Color"
-msgstr ""
+msgstr "رنگ نشانگر الآن"
 
 #: components/classes/x-toast-notification.php:483
 msgid "Number of Page Views"
-msgstr ""
+msgstr "تعداد بازدید صفحه"
 
 #: components/classes/x-pro-modal-nestable.php:177 
 #: components/classes/x-pro-modal.php:212 
 #: components/classes/x-toast-notification.php:455
 msgid "Number of page views"
-msgstr ""
+msgstr "تعداد بازدید صفحه"
 
 #: components/classes/x-pro-slider.php:386
 msgid "Number of slides to move"
-msgstr ""
+msgstr "تعداد اسلایدها برای حرکت"
 
 #: components/classes/x-pro-slider.php:188
 msgid "Number of slides to show"
-msgstr ""
+msgstr "تعداد اسلایدها برای نمایش"
 
 #: components/classes/x-media-control.php:521 
 #: components/classes/x-media-control.php:2919 
 #: components/traits/media-player-trait.php:484 
 #: components/traits/media-player-trait.php:1167
 msgid "Off"
-msgstr ""
+msgstr "خاموش"
 
 #: components/classes/x-toast-notification.php:420
 msgid "Off - Do not announce"
-msgstr ""
+msgstr "خاموش - اعلان نکنید"
 
 #: components/classes/x-offcanvas.php:52
 msgid "OffCanvas"
-msgstr ""
+msgstr "بیرون‌از‌بوم"
 
 #: components/classes/x-offcanvas-nestable.php:267 
 #: components/classes/x-offcanvas-nestable.php:271 
@@ -3876,42 +3876,42 @@ msgstr ""
 #: components/classes/x-offcanvas.php:579 includes/BricksExtrasMain.php:366 
 #: includes/BricksExtrasMain.php:371
 msgid "Offcanvas"
-msgstr ""
+msgstr "بیرون‌از‌بوم"
 
 #: includes/BricksExtrasInteractions.php:160
 msgid "Offcanvas closed"
-msgstr ""
+msgstr "بیرون‌از‌بوم بسته شد"
 
 #: includes/BricksExtrasInteractions.php:159
 msgid "Offcanvas opened"
-msgstr ""
+msgstr "بیرون‌از‌بوم باز شد"
 
 #: components/classes/x-favorite.php:741 
 #: components/classes/x-image-hotspot-marker.php:636 
 #: components/classes/x-image-hotspots.php:739 
 #: components/classes/x-popover.php:611
 msgid "Offset distance"
-msgstr ""
+msgstr "فاصله جابه‌جایی"
 
 #: components/classes/x-toast.php:150
 msgid "Offset from viewport (px)"
-msgstr ""
+msgstr "جابه‌جایی از دید (px)"
 
 #: components/classes/x-favorite.php:729 
 #: components/classes/x-image-hotspot-marker.php:626 
 #: components/classes/x-image-hotspots.php:728 
 #: components/classes/x-popover.php:600
 msgid "Offset skidding"
-msgstr ""
+msgstr "جابه‌جایی سر‌خوری"
 
 #: components/classes/x-pro-slider.php:659
 msgid "Omit end"
-msgstr ""
+msgstr "پایان را حذف کنید"
 
 #: components/classes/x-media-player-audio.php:262 
 #: components/classes/x-media-player.php:867
 msgid "On click"
-msgstr ""
+msgstr "با کلیک"
 
 #: components/classes/x-media-control.php:987 
 #: components/classes/x-media-control.php:1001 
@@ -3920,11 +3920,11 @@ msgstr ""
 #: components/traits/media-player-trait.php:3940 
 #: components/traits/media-player-trait.php:3953
 msgid "On edge"
-msgstr ""
+msgstr "در لبه"
 
 #: includes/BricksExtrasConditions.php:2152
 msgid "On hold"
-msgstr ""
+msgstr "در انتظار"
 
 #: components/classes/x-pro-modal-nestable.php:172 
 #: components/classes/x-pro-modal-nestable.php:173 
@@ -3933,119 +3933,119 @@ msgstr ""
 #: components/classes/x-toast-notification.php:450 
 #: components/classes/x-toast-notification.php:451
 msgid "On page load"
-msgstr ""
+msgstr "هنگام بارگذاری صفحه"
 
 #: components/classes/x-media-player-audio.php:263 
 #: components/classes/x-media-player.php:868
 msgid "On play"
-msgstr ""
+msgstr "هنگام پخش"
 
 #: components/classes/x-pro-alert.php:288 
 #: components/classes/x-pro-modal-nestable.php:313 
 #: components/classes/x-pro-modal.php:349 
 #: components/classes/x-toast-notification.php:530
 msgid "Only allow to show after:"
-msgstr ""
+msgstr "فقط اجازه نمایش بعد از:"
 
 #: components/classes/x-notification-bar.php:178 
 #: components/classes/x-page-tour.php:167
 msgid "Only allow to show again after:"
-msgstr ""
+msgstr "فقط اجازه نمایش دوباره بعد از:"
 
 #: components/classes/x-pro-slider.php:1775
 msgid "Only control slider by clicking slides"
-msgstr ""
+msgstr "فقط کنترل اسلایدر با کلیک کردن اسلایدها"
 
 #: components/classes/x-popover.php:701
 msgid "Only for if not using multiple triggers"
-msgstr ""
+msgstr "فقط برای اگر از تریگرهای متعدد استفاده نکنید"
 
 #: components/traits/media-player-trait.php:4606
 msgid "Only if video was already playing"
-msgstr ""
+msgstr "فقط اگر ویدیو قبلاً در حال پخش بود"
 
 #: components/classes/x-pro-modal-nestable.php:341 
 #: components/classes/x-pro-modal.php:377 
 #: components/classes/x-toast-notification.php:557
 msgid "Only show once per page visit"
-msgstr ""
+msgstr "فقط یک بار در بازدید از صفحه نشان دهید"
 
 #: components/classes/x-pro-modal-nestable.php:350 
 #: components/classes/x-pro-modal.php:386 
 #: components/classes/x-toast-notification.php:566
 msgid "Only show once per session"
-msgstr ""
+msgstr "فقط یک بار در هر جلسه نشان دهید"
 
 #: components/classes/x-media-player.php:991
 msgid "Only visible after play"
-msgstr ""
+msgstr "فقط بعد از پخش قابل مشاهده"
 
 #: components/classes/x-media-player.php:990 
 #: components/classes/x-media-player.php:995
 msgid "Only visible before play"
-msgstr ""
+msgstr "فقط قبل از پخش قابل مشاهده"
 
 #: components/classes/x-media-player.php:993
 msgid "Only visible before player ready to play"
-msgstr ""
+msgstr "فقط قبل از آماده‌بودن پخش‌کننده برای پخش قابل مشاهده"
 
 #: components/classes/x-media-player.php:992
 msgid "Only visible when player ready to play"
-msgstr ""
+msgstr "فقط وقتی پخش‌کننده آماده برای پخش است قابل مشاهده"
 
 #: components/classes/x-back-to-top.php:411
 msgid "Only visible when scrolling up"
-msgstr ""
+msgstr "فقط هنگام اسکرول به بالا قابل مشاهده"
 
 #: components/classes/x-pro-slider.php:1851
 msgid "Only when slider in view"
-msgstr ""
+msgstr "فقط زمانی که اسلایدر قابل مشاهده باشد"
 
 #: components/classes/x-calendar.php:878
 msgid "Open Popup"
-msgstr ""
+msgstr "باز کردن پاپ‌آپ"
 
 #: components/classes/x-pro-accordion.php:134
 msgid "Open and scroll to accordion item if URL hash matches accordion item ID"
-msgstr ""
+msgstr "باز کردن و اسکرول به آیتم آکاردئون اگر هش URL با شناسه آیتم آکاردئون مطابقت داشته باشد"
 
 #: components/classes/x-calendar.php:909
 msgid "Open in New Tab"
-msgstr ""
+msgstr "باز کردن در برگه جدید"
 
 #: components/classes/x-burger-trigger.php:235 
 #: components/classes/x-burger-trigger.php:319
 msgid "Open menu"
-msgstr ""
+msgstr "باز کردن منو"
 
 #: components/classes/x-dynamic-chart.php:943
 msgid "Open on direct hover only"
-msgstr ""
+msgstr "فقط با هور مستقیم باز کنید"
 
 #: components/classes/x-pro-accordion.php:131
 msgid "Open on hash link"
-msgstr ""
+msgstr "باز کردن با پیوند هش"
 
 #: components/classes/x-dynamic-chart.php:944
 msgid "Open on hover nearby"
-msgstr ""
+msgstr "باز کردن با هور نزدیک"
 
 #: components/classes/x-header-search.php:646
 msgid "Open search"
-msgstr ""
+msgstr "باز کردن جستجو"
 
 #: components/classes/x-tabs.php:856
 msgid "Open via URL parameter"
-msgstr ""
+msgstr "باز کردن از طریق پارامتر URL"
 
 #: components/classes/x-media-control.php:231 
 #: components/traits/media-player-trait.php:242
 msgid "Option ID"
-msgstr ""
+msgstr "شناسه گزینه"
 
 #: components/classes/x-color-scheme-toggle.php:973
 msgid "Option icons"
-msgstr ""
+msgstr "نمادهای گزینه"
 
 #: components/classes/x-calendar.php:182
 msgid "Optional"
@@ -4053,7 +4053,7 @@ msgstr "اختیاری"
 
 #: components/classes/x-media-player-audio.php:513
 msgid "Optionally add extra download options for the media"
-msgstr ""
+msgstr "به‌صورت اختیاری گزینه‌های بارگیری اضافی برای رسانه اضافه کنید"
 
 #: components/classes/x-media-playlist.php:751
 msgid ""
@@ -4062,121 +4062,121 @@ msgstr ""
 
 #: includes/BricksExtrasConditions.php:1117
 msgid "Order pay"
-msgstr ""
+msgstr "پرداخت سفارش"
 
 #: includes/BricksExtrasConditions.php:1118
 msgid "Order received"
-msgstr ""
+msgstr "سفارش دریافت شد"
 
 #: components/classes/x-media-control.php:299 components/classes/x-tabs.php:451
 msgid "Orientation"
-msgstr ""
+msgstr "جهت‌گیری"
 
 #: components/classes/x-pro-slider.php:265
 msgid "Overall height of slider. Required for for vertical sliders"
-msgstr ""
+msgstr "ارتفاع کل اسلایدر. برای اسلایدرهای عمودی الزامی است"
 
 #: components/classes/x-dynamic-chart.php:416
 msgid "Overlap"
-msgstr ""
+msgstr "همپوشانی"
 
 #: components/classes/x-header-row.php:154 
 #: includes/BricksExtrasHeaderExtras.php:83
 msgid "Overlay Header"
-msgstr ""
+msgstr "سرصفحه پوشش"
 
 #: components/classes/x-page-tour.php:1061
 msgid "Overrides the show again settings until the user completes or cancels"
-msgstr ""
+msgstr "تنظیمات نمایش دوباره را تا زمان تکمیل یا انصراف کاربر نادیده می‌گیرد"
 
 #: components/classes/x-media-control.php:140 
 #: components/classes/x-media-control.php:399 
 #: components/classes/x-media-control.php:408 
 #: components/traits/media-player-trait.php:176
 msgid "PIP"
-msgstr ""
+msgstr "تصویر در تصویر"
 
 #: components/classes/x-toast-notification.php:290 
 #: components/classes/x-toast-notification.php:382
 msgid "Padding"
-msgstr ""
+msgstr "فضای داخلی"
 
 #: components/classes/x-dynamic-table.php:1434 
 #: components/classes/x-nestable-table.php:493
 msgid "Padding behind the label"
-msgstr ""
+msgstr "فضای داخلی پشت برچسب"
 
 #: components/classes/x-calendar.php:1049
 msgid "Page Background"
-msgstr ""
+msgstr "پس‌زمینه صفحه"
 
 #: components/classes/x-page-tour.php:59 includes/BricksExtrasMain.php:377
 msgid "Page Tour"
-msgstr ""
+msgstr "تور صفحه"
 
 #: components/classes/x-page-tour-step.php:57 
 #: components/classes/x-page-tour.php:1122 includes/BricksExtrasMain.php:382
 msgid "Page Tour Step"
-msgstr ""
+msgstr "مرحله تور صفحه"
 
 #: components/classes/x-pro-modal-nestable.php:176 
 #: components/classes/x-pro-modal.php:211 
 #: components/classes/x-toast-notification.php:454
 msgid "Page exit intent"
-msgstr ""
+msgstr "هدف خروج صفحه"
 
 #: includes/BricksExtrasConditions.php:1198 
 #: includes/BricksExtrasHelpers.php:444
 msgid "Page parent"
-msgstr ""
+msgstr "والد صفحه"
 
 #: includes/BricksExtrasConditions.php:1132 
 #: includes/BricksExtrasHelpers.php:428
 msgid "Page type"
-msgstr ""
+msgstr "نوع صفحه"
 
 #: components/classes/x-pro-slider-control.php:190
 msgid "Pages to move"
-msgstr ""
+msgstr "صفحات برای حرکت"
 
 #: components/classes/x-panorama-scene.php:65 
 #: components/classes/x-panorama-viewer.php:1115 
 #: includes/BricksExtrasMain.php:393
 msgid "Panorama Scene"
-msgstr ""
+msgstr "صحنه پانوراما"
 
 #: components/classes/x-panorama-viewer.php:71 
 #: includes/BricksExtrasMain.php:388
 msgid "Panorama Viewer"
-msgstr ""
+msgstr "بیننده پانوراما"
 
 #: components/classes/x-panorama-scene.php:114
 msgid "Panorama image"
-msgstr ""
+msgstr "تصویر پانوراما"
 
 #: components/classes/x-panorama-viewer.php:309
 msgid "Panorama viewer"
-msgstr ""
+msgstr "بیننده پانوراما"
 
 #: includes/BricksExtrasInteractive.php:171
 msgid "Parallax scroll effect"
-msgstr ""
+msgstr "اثر اسکرول Parallax"
 
 #: includes/BricksExtrasQueryLoop.php:395
 msgid "Parent Menu Item ID"
-msgstr ""
+msgstr "شناسه آیتم منوی والد"
 
 #: includes/BricksExtrasDynamicTags.php:79
 msgid "Parent loop index"
-msgstr ""
+msgstr "شاخص حلقه والد"
 
 #: components/classes/x-ws-forms.php:3970
 msgid "Password Visibilty Icon"
-msgstr ""
+msgstr "نماد نمایش رمز ورود"
 
 #: includes/BricksExtrasLicense.php:271
 msgid "Paste your key in the License Key field"
-msgstr ""
+msgstr "کلید خود را در فیلد کلید مجوز جای‌گذاری کنید"
 
 #: components/classes/x-media-control.php:138 
 #: components/classes/x-media-control.php:139 
@@ -4199,15 +4199,15 @@ msgstr "توقف"
 
 #: components/traits/media-player-trait.php:4632
 msgid "Pause if scroll out of view"
-msgstr ""
+msgstr "در صورت اسکرول خارج از دید متوقف کنید"
 
 #: components/classes/x-pro-slider.php:681
 msgid "Pause media player when slider moves"
-msgstr ""
+msgstr "هنگام حرکت اسلایدر پخش‌کننده رسانه را متوقف کنید"
 
 #: components/traits/media-player-trait.php:4678
 msgid "Pause other players when playback starts"
-msgstr ""
+msgstr "هنگام شروع پخش سایر پخش‌کننده‌ها را متوقف کنید"
 
 #: includes/BricksExtrasConditions.php:348 
 #: includes/BricksExtrasConditions.php:371
@@ -4216,20 +4216,20 @@ msgstr "در انتظار"
 
 #: includes/BricksExtrasConditions.php:2150
 msgid "Pending payment"
-msgstr ""
+msgstr "پرداخت در انتظار"
 
 #: components/classes/x-lottie.php:214
 msgid "Percentage distance from the bottom of viewport for animation to start"
-msgstr ""
+msgstr "فاصله درصدی از پایین دید برای شروع انیمیشن"
 
 #: components/classes/x-lottie.php:203
 msgid "Percentage distance from the top of viewport for animation to start"
-msgstr ""
+msgstr "فاصله درصدی از بالای دید برای شروع انیمیشن"
 
 #: components/classes/x-before-after-image.php:185 
 #: components/classes/x-before-after-image.php:757
 msgid "Percentage of image visible"
-msgstr ""
+msgstr "درصد تصویر قابل مشاهده"
 
 #: includes/BricksExtrasInteractive.php:391
 msgid "Perspective"
@@ -4237,25 +4237,25 @@ msgstr "منظور"
 
 #: components/classes/x-ws-forms.php:1624
 msgid "Phone input"
-msgstr ""
+msgstr "ورودی تلفن"
 
 #: components/classes/x-ws-forms.php:107
 msgid "Phone number"
-msgstr ""
+msgstr "شماره تلفن"
 
 #: components/classes/x-dynamic-chart.php:400
 msgid "Pie"
-msgstr ""
+msgstr "پای"
 
 #: components/classes/x-ws-forms.php:595
 msgid "Placeholders, help text, and disabled field values."
-msgstr ""
+msgstr "نگهداران جای، متن کمک و مقادیر فیلد غیرفعال."
 
 #: components/classes/x-media-control.php:2239 
 #: components/traits/media-player-trait.php:501 
 #: components/traits/media-player-trait.php:540
 msgid "Placement"
-msgstr ""
+msgstr "موقعیت"
 
 #: components/classes/x-media-control.php:138 
 #: components/classes/x-media-control.php:139 
@@ -4285,32 +4285,32 @@ msgstr "پخش"
 #: components/traits/media-player-trait.php:442 
 #: components/traits/media-player-trait.php:1169
 msgid "Playback"
-msgstr ""
+msgstr "پخش"
 
 #: includes/BricksExtrasInteractions.php:119
 msgid "Playback position from end"
-msgstr ""
+msgstr "موقعیت پخش از انتها"
 
 #: includes/BricksExtrasInteractions.php:118
 msgid "Playback position from start"
-msgstr ""
+msgstr "موقعیت پخش از شروع"
 
 #: components/classes/x-media-player-audio.php:89
 msgid "Player UI"
-msgstr ""
+msgstr "رابط کاربری پخش‌کننده"
 
 #: components/classes/x-media-player.php:92
 msgid "Player UI Type"
-msgstr ""
+msgstr "نوع رابط کاربری پخش‌کننده"
 
 #: components/traits/media-player-trait.php:2071
 msgid "Player border radius"
-msgstr ""
+msgstr "شعاع مرز پخش‌کننده"
 
 #: components/classes/x-media-playlist.php:338 
 #: includes/BricksExtrasInteractions.php:129
 msgid "Playing"
-msgstr ""
+msgstr "در حال پخش"
 
 #: components/traits/media-player-trait.php:169 
 #: components/traits/media-player-trait.php:173
@@ -4319,34 +4319,34 @@ msgstr "لیست پخش"
 
 #: components/traits/media-player-trait.php:4832
 msgid "Playlist Behavior"
-msgstr ""
+msgstr "رفتار فهرست پخش"
 
 #: components/traits/media-player-trait.php:4780
 msgid "Playlist mode"
-msgstr ""
+msgstr "حالت فهرست پخش"
 
 #: components/classes/x-media-player-audio.php:141 
 #: components/classes/x-media-player.php:162 
 #: components/traits/media-player-trait.php:4773
 msgid "Playlists"
-msgstr ""
+msgstr "فهرست‌های پخش"
 
 #: components/traits/media-player-trait.php:4620
 msgid "Plays video from start when user clicks play"
-msgstr ""
+msgstr "ویدیو را از شروع پخش می‌کند زمانی که کاربر روی پخش کلیک کند"
 
 #: components/classes/x-media-player.php:807
 msgid "Playsinline"
-msgstr ""
+msgstr "پخش درخط"
 
 #: components/classes/x-dynamic-chart.php:508
 msgid "Point"
-msgstr ""
+msgstr "نقطه"
 
 #: components/classes/x-toast-notification.php:418 
 #: components/classes/x-toast-notification.php:422
 msgid "Polite - Announce when convenient"
-msgstr ""
+msgstr "مودبانه - اعلام کنید زمانی که مناسب باشد"
 
 #: components/classes/x-popover.php:65
 msgid "Popover"
@@ -4354,11 +4354,11 @@ msgstr "Popover"
 
 #: includes/BricksExtrasMain.php:399
 msgid "Popover / Tooltips"
-msgstr ""
+msgstr "تاشو / ابزارهای راهنما"
 
 #: components/classes/x-page-tour-step.php:73
 msgid "Popover Styling"
-msgstr ""
+msgstr "سبک‌سازی تاشو"
 
 #: components/classes/x-popover.php:642
 msgid ""
@@ -4368,53 +4368,53 @@ msgstr ""
 
 #: includes/BricksExtrasInteractions.php:182
 msgid "Popover closed"
-msgstr ""
+msgstr "تاشو بسته شد"
 
 #: components/classes/x-image-hotspots.php:200 
 #: components/classes/x-popover.php:848 components/classes/x-popover.php:850
 msgid "Popover content"
-msgstr ""
+msgstr "محتوای تاشو"
 
 #: components/classes/x-image-hotspots.php:234 
 #: components/classes/x-image-hotspots.php:241
 msgid "Popover content here .."
-msgstr ""
+msgstr "محتوای تاشو در اینجا .."
 
 #: includes/BricksExtrasInteractions.php:181
 msgid "Popover opened"
-msgstr ""
+msgstr "تاشو باز شد"
 
 #: components/classes/x-image-hotspot-marker.php:91 
 #: components/classes/x-image-hotspots.php:98
 msgid "Popover style"
-msgstr ""
+msgstr "سبک تاشو"
 
 #. %s is the video provider name
 #: components/classes/x-media-player.php:934 
 #: includes/VideoProvidersPage.php:232
 msgid "Populate captions from %s"
-msgstr ""
+msgstr "پر کردن زیرنویس‌ها از %s"
 
 #: components/classes/x-panorama-scene.php:125
 msgid "Populate hotspots from query results or add manually below"
-msgstr ""
+msgstr "پر کردن نقاط داغ از نتایج پرس‌وجو یا اضافه کردن دستی در زیر"
 
 #: components/classes/x-dynamic-table.php:140 
 #: components/classes/x-dynamic-table.php:144
 msgid "Populate rows with a query loop"
-msgstr ""
+msgstr "پر کردن ردیف‌ها با حلقه پرس‌وجو"
 
 #: components/classes/x-dynamic-table.php:137
 msgid "Populate table rows"
-msgstr ""
+msgstr "پر کردن ردیف‌های جدول"
 
 #: components/classes/x-calendar.php:888
 msgid "Popup Template"
-msgstr ""
+msgstr "الگوی پاپ‌آپ"
 
 #: components/traits/media-player-trait.php:4735
 msgid "Portal setting menus to footer"
-msgstr ""
+msgstr "منوهای تنظیمات Portal به پایین‌صفحه"
 
 #: components/classes/x-toast.php:116
 msgid "Position"
@@ -4423,7 +4423,7 @@ msgstr "موقعیت"
 #: components/classes/x-media-player-audio.php:507 
 #: components/classes/x-media-player.php:399
 msgid "Position above bottom controls"
-msgstr ""
+msgstr "موقعیت بالای کنترل‌های پایینی"
 
 #: includes/BricksExtrasHeaderExtras.php:84
 msgid ""
@@ -4432,49 +4432,49 @@ msgstr ""
 
 #: components/classes/x-slide-menu.php:537
 msgid "Positioning"
-msgstr ""
+msgstr "موقعیت‌گیری"
 
 #: includes/BricksExtrasConditions.php:762 includes/BricksExtrasHelpers.php:436
 msgid "Post ancestor"
-msgstr ""
+msgstr "جد نوشته"
 
 #: includes/BricksExtrasConditions.php:837 includes/BricksExtrasHelpers.php:432
 msgid "Post category"
-msgstr ""
+msgstr "دسته‌بندی نوشته"
 
 #: includes/BricksExtrasConditions.php:806 includes/BricksExtrasHelpers.php:440
 msgid "Post comment count"
-msgstr ""
+msgstr "تعداد نظرات نوشته"
 
 #: includes/BricksExtrasConditions.php:1066 
 #: includes/BricksExtrasHelpers.php:448
 msgid "Post publish date"
-msgstr ""
+msgstr "تاریخ انتشار نوشته"
 
 #: includes/BricksExtrasDynamicTags.php:52
 msgid "Post reading time"
-msgstr ""
+msgstr "زمان خواندن نوشته"
 
 #: includes/BricksExtrasQueryLoop.php:143
 msgid "Post should be in the same taxonomy term"
-msgstr ""
+msgstr "نوشته باید در همان عبارت طبقه‌بندی باشد"
 
 #: includes/BricksExtrasConditions.php:872 includes/BricksExtrasHelpers.php:452
 msgid "Post tag"
-msgstr ""
+msgstr "برچسب نوشته"
 
 #: includes/BricksExtrasDynamicTags.php:57
 msgid "Post terms list"
-msgstr ""
+msgstr "فهرست عبارات نوشته"
 
 #: includes/BricksExtrasHelpers.php:456
 msgid "Post type"
-msgstr ""
+msgstr "نوع نوشته"
 
 #: includes/BricksExtrasConditions.php:716 
 #: includes/BricksExtrasConditions.php:1091
 msgid "Posts page (blog)"
-msgstr ""
+msgstr "صفحه نوشته‌ها (وبلاگ)"
 
 #: components/classes/x-copy-to-clipboard.php:386 
 #: components/classes/x-favorite.php:690 
@@ -4483,35 +4483,35 @@ msgstr ""
 #: components/classes/x-page-tour-step.php:105 
 #: components/classes/x-popover.php:548
 msgid "Preferred placement"
-msgstr ""
+msgstr "موقعیت ترجیحی"
 
 #: components/classes/x-pro-slider.php:802
 msgid "Preload number"
-msgstr ""
+msgstr "تعداد پیش‌بارگذاری"
 
 #: includes/BricksExtrasConditions.php:690 
 #: includes/BricksExtrasConditions.php:693
 msgid "Present"
-msgstr ""
+msgstr "حاضر"
 
 #: components/classes/x-color-scheme-toggle.php:277 
 #: components/classes/x-color-scheme-toggle.php:281
 msgid "Preset 1 (CSS)"
-msgstr ""
+msgstr "پیش‌تنظیم 1 (CSS)"
 
 #: components/classes/x-color-scheme-toggle.php:278
 msgid "Preset 2 (CSS)"
-msgstr ""
+msgstr "پیش‌تنظیم 2 (CSS)"
 
 #: components/classes/x-color-scheme-toggle.php:279
 msgid "Preset 3 (SVG)"
-msgstr ""
+msgstr "پیش‌تنظیم 3 (SVG)"
 
 #: components/classes/x-page-tour.php:978 
 #: components/classes/x-pro-modal-nestable.php:888 
 #: components/classes/x-pro-modal.php:815
 msgid "Press Esc to close"
-msgstr ""
+msgstr "برای بستن Esc را فشار دهید"
 
 #: components/classes/x-calendar.php:306 components/classes/x-calendar.php:336 
 #: components/classes/x-calendar.php:366 components/classes/x-calendar.php:403 
@@ -4523,32 +4523,32 @@ msgstr "قبلی"
 #: components/classes/x-calendar.php:368 components/classes/x-calendar.php:405 
 #: components/classes/x-calendar.php:434 components/classes/x-calendar.php:463
 msgid "Prev Year"
-msgstr ""
+msgstr "سال قبل"
 
 #: components/classes/x-dynamic-table.php:369
 msgid "Prevent column from being sortable"
-msgstr ""
+msgstr "جلوگیری از مرتب‌کردن ستون"
 
 #: components/classes/x-table-of-contents.php:492
 msgid "Prevent nested counters"
-msgstr ""
+msgstr "جلوگیری از شمارنده‌های تودرتو"
 
 #: components/classes/x-countdown.php:213
 msgid "Prevent redirect for admins"
-msgstr ""
+msgstr "جلوگیری از تغییر مسیر برای مدیران"
 
 #: components/classes/x-offcanvas-nestable.php:318 
 #: components/classes/x-offcanvas.php:328
 msgid "Prevent scroll when open"
-msgstr ""
+msgstr "جلوگیری از اسکرول هنگام باز"
 
 #: components/classes/x-dynamic-table.php:480
 msgid "Prevent text wrap"
-msgstr ""
+msgstr "جلوگیری از پیچیدگی متن"
 
 #: components/classes/x-before-after-image.php:723
 msgid "Preview touch area"
-msgstr ""
+msgstr "منطقه لمس پیش‌نمایش"
 
 #: components/classes/x-dynamic-table.php:1558 
 #: components/classes/x-media-control.php:337 
@@ -4559,7 +4559,7 @@ msgstr "قبلی"
 
 #: components/classes/x-calendar.php:973 components/classes/x-ws-forms.php:2466
 msgid "Previous Button"
-msgstr ""
+msgstr "دکمه قبلی"
 
 #: components/classes/x-pro-slider-control.php:1727
 msgid "Previous Slide"
@@ -4567,17 +4567,17 @@ msgstr "اسلاید قبلی"
 
 #: components/classes/x-calendar.php:991
 msgid "Previous Year Button"
-msgstr ""
+msgstr "دکمه سال قبل"
 
 #: components/classes/x-media-control.php:142 
 #: components/classes/x-media-control.php:333 
 #: components/traits/media-player-trait.php:173
 msgid "Previous item"
-msgstr ""
+msgstr "آیتم قبلی"
 
 #: components/classes/x-pro-slider.php:2238
 msgid "Previous slide"
-msgstr ""
+msgstr "اسلاید قبلی"
 
 #: components/classes/x-social-share.php:110
 msgid "Print"
@@ -4585,50 +4585,50 @@ msgstr "چاپ"
 
 #: components/classes/x-social-share.php:160
 msgid "Print color adjust"
-msgstr ""
+msgstr "تنظیم رنگ چاپ"
 
 #: components/classes/x-breadcrumbs.php:663
 msgid "Priority Category"
-msgstr ""
+msgstr "دسته‌بندی اولویت"
 
 #: components/classes/x-pro-accordion.php:51 includes/BricksExtrasMain.php:404
 msgid "Pro Accordion"
-msgstr ""
+msgstr "آکاردئون Pro"
 
 #: components/classes/x-pro-alert.php:58 includes/BricksExtrasMain.php:409
 msgid "Pro Alert"
-msgstr ""
+msgstr "هشدار Pro"
 
 #: components/classes/x-countdown.php:55 includes/BricksExtrasMain.php:414
 msgid "Pro Countdown"
-msgstr ""
+msgstr "شمارش معکوس Pro"
 
 #: components/classes/x-offcanvas-nestable.php:58
 msgid "Pro OffCanvas"
-msgstr ""
+msgstr "بیرون‌از‌بوم Pro"
 
 #: components/classes/x-pro-slider.php:57 includes/BricksExtrasMain.php:419
 msgid "Pro Slider"
-msgstr ""
+msgstr "اسلایدر Pro"
 
 #: components/classes/x-pro-slider-control.php:47 
 #: includes/BricksExtrasMain.php:424
 msgid "Pro Slider Control"
-msgstr ""
+msgstr "کنترل اسلایدر Pro"
 
 #: components/classes/x-pro-slider-gallery.php:46 
 #: includes/BricksExtrasMain.php:429
 msgid "Pro Slider Gallery"
-msgstr ""
+msgstr "گالری اسلایدر Pro"
 
 #: components/classes/x-pro-slider-control.php:1455 
 #: components/classes/x-pro-slider-control.php:1459
 msgid "Pro Slider Gallery Caption"
-msgstr ""
+msgstr "عنوان گالری اسلایدر Pro"
 
 #: components/classes/x-tabs.php:58 includes/BricksExtrasMain.php:435
 msgid "Pro Tabs"
-msgstr ""
+msgstr "برگه‌های Pro"
 
 #: includes/BricksExtrasConditions.php:2151
 msgid "Processing"
@@ -4636,93 +4636,93 @@ msgstr "در حال پردازش"
 
 #: includes/BricksExtrasConditions.php:723
 msgid "Product Category/Product Tag"
-msgstr ""
+msgstr "دسته‌بندی محصول/برچسب محصول"
 
 #: includes/BricksExtrasConditions.php:2352 
 #: includes/BricksExtrasHelpers.php:544
 msgid "Product allows backorders"
-msgstr ""
+msgstr "محصول سفارش‌های عقب‌مانده را مجاز می‌کند"
 
 #: includes/BricksExtrasConditions.php:2332 
 #: includes/BricksExtrasHelpers.php:556
 msgid "Product cross-sells count"
-msgstr ""
+msgstr "تعداد فروش متقاطع محصول"
 
 #: includes/BricksExtrasConditions.php:2378 
 #: includes/BricksExtrasHelpers.php:548
 msgid "Product has category"
-msgstr ""
+msgstr "محصول دارای دسته‌بندی است"
 
 #: includes/BricksExtrasConditions.php:2402 
 #: includes/BricksExtrasHelpers.php:552
 msgid "Product has tag"
-msgstr ""
+msgstr "محصول دارای برچسب است"
 
 #: includes/BricksExtrasConditions.php:1852 
 #: includes/BricksExtrasConditions.php:1871 
 #: includes/BricksExtrasHelpers.php:560
 msgid "Product in cart"
-msgstr ""
+msgstr "محصول در سبد خریدها"
 
 #: includes/BricksExtrasConditions.php:2449 
 #: includes/BricksExtrasConditions.php:2467 
 #: includes/BricksExtrasHelpers.php:564
 msgid "Product in cart has a coupon applied"
-msgstr ""
+msgstr "محصول در سبد خریدها کوپن اعمال‌شده دارد"
 
 #: includes/BricksExtrasConditions.php:2170 
 #: includes/BricksExtrasHelpers.php:568
 msgid "Product in stock"
-msgstr ""
+msgstr "محصول در انبار"
 
 #: includes/BricksExtrasConditions.php:2060 
 #: includes/BricksExtrasHelpers.php:576
 msgid "Product is downloadable"
-msgstr ""
+msgstr "محصول قابل بارگیری است"
 
 #: includes/BricksExtrasConditions.php:2034 
 #: includes/BricksExtrasHelpers.php:580
 msgid "Product is virtual"
-msgstr ""
+msgstr "محصول مجازی است"
 
 #: includes/BricksExtrasConditions.php:2286 
 #: includes/BricksExtrasHelpers.php:572
 msgid "Product on backorder"
-msgstr ""
+msgstr "محصول در سفارش عقب‌مانده"
 
 #: includes/BricksExtrasHelpers.php:584
 msgid "Product rating"
-msgstr ""
+msgstr "امتیاز محصول"
 
 #: includes/BricksExtrasHelpers.php:588
 msgid "Product type"
-msgstr ""
+msgstr "نوع محصول"
 
 #: includes/BricksExtrasConditions.php:2312 
 #: includes/BricksExtrasHelpers.php:592
 msgid "Product upsell count"
-msgstr ""
+msgstr "تعداد فروش افزایشی محصول"
 
 #: includes/BricksExtrasHelpers.php:596
 msgid "Product weight"
-msgstr ""
+msgstr "وزن محصول"
 
 #. %s is the weight unit (e.g., kg, lbs).
 #: includes/BricksExtrasConditions.php:2197
 msgid "Product weight (%s)"
-msgstr ""
+msgstr "وزن محصول (%s)"
 
 #: components/classes/x-fluent-form.php:110
 msgid "Progress Steps"
-msgstr ""
+msgstr "مراحل پیشرفت"
 
 #: components/classes/x-back-to-top.php:117
 msgid "Progress circle"
-msgstr ""
+msgstr "دایره پیشرفت"
 
 #: components/classes/x-calendar.php:685
 msgid "Progressive Event Rendering"
-msgstr ""
+msgstr "رندرینگ رویداد پیشرفتی"
 
 #. %s is the type of value to provide (e.g., ID).
 #: includes/BricksExtrasConditions.php:187 
@@ -4735,29 +4735,29 @@ msgstr ""
 #: includes/BricksExtrasConditions.php:623 
 #: includes/BricksExtrasConditions.php:666
 msgid "Provide %s"
-msgstr ""
+msgstr "ارائه %s"
 
 #: components/traits/media-player-trait.php:4691
 msgid "Provider controls"
-msgstr ""
+msgstr "کنترل‌های ارائه‌دهنده"
 
 #: includes/BricksExtrasConditions.php:1280 
 #: includes/BricksExtrasHelpers.php:460
 msgid "Published during the last"
-msgstr ""
+msgstr "منتشرشده در آخر"
 
 #: components/classes/x-panorama-viewer.php:805
 msgid "Pulse Effect"
-msgstr ""
+msgstr "اثر تپش"
 
 #: components/classes/x-image-hotspots.php:103 
 #: components/classes/x-image-hotspots.php:774
 msgid "Pulses"
-msgstr ""
+msgstr "تپش‌ها"
 
 #: components/classes/x-qr-code.php:66 includes/BricksExtrasMain.php:440
 msgid "QR Code"
-msgstr ""
+msgstr "کد QR"
 
 #: components/classes/x-media-control.php:476 
 #: components/classes/x-media-control.php:2924 
@@ -4769,39 +4769,39 @@ msgstr "کیفیت"
 
 #: components/classes/x-media-control.php:471
 msgid "Quality Setting"
-msgstr ""
+msgstr "تنظیم کیفیت"
 
 #: components/classes/x-qr-code.php:146
 msgid "Quartile"
-msgstr ""
+msgstr "ربع"
 
 #: includes/BricksExtrasHelpers.php:288
 msgid "Query Loop Extras"
-msgstr ""
+msgstr "Extras حلقه پرس‌وجو"
 
 #: components/classes/x-fluent-form.php:872
 msgid "Radio - Button Type"
-msgstr ""
+msgstr "رادیو - نوع دکمه"
 
 #: components/classes/x-fluent-form.php:824
 msgid "Radio Button Type"
-msgstr ""
+msgstr "نوع دکمه رادیو"
 
 #: components/classes/x-color-scheme-toggle.php:130
 msgid "Radio buttons"
-msgstr ""
+msgstr "دکمه‌های رادیو"
 
 #: components/classes/x-color-scheme-toggle.php:1178
 msgid "Radio group"
-msgstr ""
+msgstr "گروه رادیو"
 
 #: components/classes/x-pro-slider-gallery.php:124
 msgid "Randomise order"
-msgstr ""
+msgstr "ترتیب تصادفی"
 
 #: components/classes/x-ws-forms.php:117 includes/WPGridBuilderStyler.php:351
 msgid "Range Slider"
-msgstr ""
+msgstr "اسلایدر محدوده"
 
 #: components/classes/x-ws-forms.php:813
 msgid ""
@@ -4810,76 +4810,76 @@ msgstr ""
 
 #: components/classes/x-star-rating.php:304
 msgid "Rating: %1$s out of %2$s stars"
-msgstr ""
+msgstr "امتیاز: %1$s از %2$s ستاره"
 
 #: components/classes/x-read-more-less.php:65 includes/BricksExtrasMain.php:450
 msgid "Read More / Less"
-msgstr ""
+msgstr "بیشتر / کمتر بخوانید"
 
 #: includes/BricksExtrasMain.php:445
 msgid "Reading Progress Bar"
-msgstr ""
+msgstr "نوار پیشرفت خواندن"
 
 #: components/classes/x-pro-slider.php:792 
 #: components/classes/x-pro-slider.php:796
 msgid "Recommended"
-msgstr ""
+msgstr "توصیه‌شده"
 
 #: components/classes/x-calendar.php:231
 msgid "Recurrence rule"
-msgstr ""
+msgstr "قاعده تکرار"
 
 #: components/classes/x-calendar.php:228
 msgid "Recurring Rules"
-msgstr ""
+msgstr "قواعد تکراری"
 
 #: components/classes/x-countdown.php:206
 msgid "Redirect URL"
-msgstr ""
+msgstr "URL تغییر مسیر"
 
 #: components/classes/x-header-search.php:976
 msgid "Redirect to search results page"
-msgstr ""
+msgstr "تغییر مسیر به صفحه نتایج جستجو"
 
 #: components/classes/x-panorama-viewer.php:143
 msgid "Refresh canvas after change if image stretched"
-msgstr ""
+msgstr "تازه‌کردن بوم پس از تغییر اگر تصویر کشیده شود"
 
 #: includes/BricksExtrasConditions.php:2155
 msgid "Refunded"
-msgstr ""
+msgstr "بازپرداخت شد"
 
 #: components/classes/x-back-to-top.php:118
 msgid "Regular"
-msgstr ""
+msgstr "معمولی"
 
 #: includes/BricksExtrasHelpers.php:290 includes/BricksExtrasQueryLoop.php:97
 msgid "Related Posts"
-msgstr ""
+msgstr "نوشته‌های مرتبط"
 
 #: components/classes/x-lottie.php:143
 msgid "Relative to another element"
-msgstr ""
+msgstr "نسبت به عنصر دیگر"
 
 #: components/classes/x-lottie.php:142
 msgid "Relative to this element"
-msgstr ""
+msgstr "نسبت به این عنصر"
 
 #: components/classes/x-pro-slider.php:769
 msgid "Release Wheel"
-msgstr ""
+msgstr "آزاد کردن چرخ"
 
 #: components/classes/x-pro-slider.php:775
 msgid "Release wheel event when slider reaches the end"
-msgstr ""
+msgstr "رویداد آزادسازی چرخ هنگام رسیدن اسلایدر به انتها"
 
 #: components/classes/x-page-tour.php:1044
 msgid "Remember User Progress"
-msgstr ""
+msgstr "یادآوری پیشرفت کاربر"
 
 #: components/traits/media-player-trait.php:4641
 msgid "Remember player settings"
-msgstr ""
+msgstr "یادآوری تنظیمات پخش‌کننده"
 
 #: components/classes/x-favorite.php:233 components/classes/x-favorite.php:642 
 #: components/classes/x-favorite.php:1567
@@ -4888,35 +4888,35 @@ msgstr "حذف"
 
 #: components/classes/x-pro-accordion.php:462
 msgid "Remove accordion behavior at this breakpoint"
-msgstr ""
+msgstr "حذف رفتار آکاردئون در این نقطه شکست"
 
 #: components/classes/x-breadcrumbs.php:563
 msgid "Remove current post/page title"
-msgstr ""
+msgstr "حذف عنوان نوشته/صفحه جاری"
 
 #: components/classes/x-favorite.php:302 components/classes/x-favorite.php:1557
 msgid "Remove item"
-msgstr ""
+msgstr "حذف آیتم"
 
 #: components/classes/x-breadcrumbs.php:263
 msgid "Remove prefix on front page"
-msgstr ""
+msgstr "حذف پیشوند در صفحه اول"
 
 #: components/classes/x-social-share.php:170
 msgid "Remove share buttons from print"
-msgstr ""
+msgstr "حذف دکمه‌های اشتراک‌گذاری از چاپ"
 
 #: components/classes/x-favorite.php:622 components/classes/x-favorite.php:1564
 msgid "Removed from favorites"
-msgstr ""
+msgstr "از موارد مورد علاقه حذف شد"
 
 #: components/classes/x-ws-forms.php:112
 msgid "Repeatable sections"
-msgstr ""
+msgstr "بخش‌های تکراری"
 
 #: components/classes/x-fluent-form.php:125
 msgid "Repeater"
-msgstr ""
+msgstr "تکرارکننده"
 
 #: components/traits/media-player-trait.php:4692
 msgid ""
@@ -4929,7 +4929,7 @@ msgstr "تکرار"
 
 #: includes/BricksExtrasInteractions.php:117
 msgid "Replayed after ending"
-msgstr ""
+msgstr "پس از پایان دوباره پخش شد"
 
 #: components/classes/x-calendar.php:154
 msgid "Required"
@@ -4947,11 +4947,11 @@ msgstr "دکمه بازنشانی"
 #: components/classes/x-pro-modal-nestable.php:927 
 #: components/classes/x-pro-modal.php:854
 msgid "Reset forms inside modal when closed"
-msgstr ""
+msgstr "بازنشانی فرم‌ها درون مودال هنگام بستن"
 
 #: components/traits/media-player-trait.php:4618
 msgid "Reset on play (when muted autoplay)"
-msgstr ""
+msgstr "بازنشانی هنگام پخش (وقتی پخش خودکار بی‌صدا)"
 
 #: components/classes/x-notification-bar.php:172 
 #: components/classes/x-pro-alert.php:282 
@@ -4961,60 +4961,60 @@ msgstr ""
 #: components/classes/x-pro-modal.php:343 
 #: components/classes/x-toast-notification.php:525
 msgid "Reshow"
-msgstr ""
+msgstr "نمایش دوباره"
 
 #: components/classes/x-media-player.php:821
 msgid "Reshow poster image when paused"
-msgstr ""
+msgstr "نمایش دوباره تصویر پوستر هنگام توقف"
 
 #: components/classes/x-dynamic-table.php:466
 msgid "Resizable columns"
-msgstr ""
+msgstr "ستون‌های قابل تغییر اندازه"
 
 #: components/classes/x-dynamic-table.php:809 
 #: components/classes/x-dynamic-table.php:1561
 msgid "Results"
-msgstr ""
+msgstr "نتایج"
 
 #: includes/BricksExtrasInteractions.php:114
 msgid "Resumed"
-msgstr ""
+msgstr "از سرگرفته شد"
 
 #: components/classes/x-dynamic-lightbox.php:461 
 #: components/classes/x-offcanvas-nestable.php:295 
 #: components/classes/x-offcanvas.php:305
 msgid "Return focus to trigger on close"
-msgstr ""
+msgstr "بازگرداندن تمرکز برای تریگر هنگام بستن"
 
 #: components/classes/x-dynamic-chart.php:425
 msgid "Reverse dataset order"
-msgstr ""
+msgstr "معکوس‌کردن ترتیب مجموعه داده"
 
 #: components/classes/x-lottie.php:194
 msgid "Reverse on mouseout"
-msgstr ""
+msgstr "معکوس هنگام خروج ماوس"
 
 #: components/classes/x-lottie.php:167
 msgid "Reverse on second click"
-msgstr ""
+msgstr "معکوس هنگام کلیک دوم"
 
 #: components/classes/x-breadcrumbs.php:215
 msgid "Reverse order"
-msgstr ""
+msgstr "ترتیب معکوس"
 
 #: components/classes/x-media-control.php:259 
 #: components/classes/x-media-control.php:2676 
 #: components/traits/media-player-trait.php:931
 msgid "Rewind"
-msgstr ""
+msgstr "برگرداندن"
 
 #: components/classes/x-pro-slider.php:903
 msgid "Rewind slider back to start when reaches end"
-msgstr ""
+msgstr "برگرداندن اسلایدر به شروع هنگام رسیدن به انتها"
 
 #: components/classes/x-color-scheme-toggle.php:741
 msgid "Right"
-msgstr ""
+msgstr "راست"
 
 #. Popover positioning: right-bottom corner
 #: components/classes/x-copy-to-clipboard.php:400 
@@ -5023,7 +5023,7 @@ msgstr ""
 #: components/classes/x-page-tour-step.php:121 
 #: components/classes/x-popover.php:562
 msgid "Right End"
-msgstr ""
+msgstr "انتهای راست"
 
 #. Popover positioning: right-top corner
 #: components/classes/x-copy-to-clipboard.php:399 
@@ -5032,19 +5032,19 @@ msgstr ""
 #: components/classes/x-page-tour-step.php:120 
 #: components/classes/x-popover.php:561
 msgid "Right Start"
-msgstr ""
+msgstr "شروع راست"
 
 #: components/classes/x-pro-slider.php:1859
 msgid "Root margin"
-msgstr ""
+msgstr "حاشیه ریشه"
 
 #: components/classes/x-color-scheme-toggle.php:471
 msgid "Rotate"
-msgstr ""
+msgstr "چرخاندن"
 
 #: components/classes/x-color-scheme-toggle.php:533
 msgid "Rotate 360"
-msgstr ""
+msgstr "چرخاندن 360"
 
 #: components/classes/x-dynamic-chart.php:572 
 #: components/classes/x-dynamic-chart.php:1323
@@ -5054,21 +5054,21 @@ msgstr "چرخش"
 #: components/classes/x-panorama-scene.php:357 
 #: components/classes/x-panorama-viewer.php:189
 msgid "Rotation speed in degrees per second (0 = disabled)"
-msgstr ""
+msgstr "سرعت چرخش در درجه بر ثانیه (0 = غیرفعال)"
 
 #: components/classes/x-qr-code.php:192 components/classes/x-qr-code.php:226 
 #: components/classes/x-qr-code.php:256
 msgid "Rounded"
-msgstr ""
+msgstr "گرد"
 
 #: components/classes/x-dynamic-table.php:1236
 msgid "Row height"
-msgstr ""
+msgstr "ارتفاع ردیف"
 
 #: components/classes/x-content-timeline.php:167 
 #: components/classes/x-content-timeline.php:230
 msgid "Row-reverse"
-msgstr ""
+msgstr "ردیف معکوس"
 
 #: includes/BricksExtrasMain.php:291
 msgid "Rows"
@@ -5076,15 +5076,15 @@ msgstr "ردیف‌ها"
 
 #: components/classes/x-dynamic-table.php:714
 msgid "Rows per page"
-msgstr ""
+msgstr "ردیف‌ها در هر صفحه"
 
 #: components/classes/x-calendar.php:234
 msgid "Rule Name"
-msgstr ""
+msgstr "نام قاعده"
 
 #: components/classes/x-calendar.php:256
 msgid "Rule Value"
-msgstr ""
+msgstr "مقدار قاعده"
 
 #: components/classes/x-calendar.php:712 components/classes/x-calendar.php:750
 msgid "Saturday"
@@ -5092,61 +5092,61 @@ msgstr "شنبه"
 
 #: components/classes/x-ws-forms.php:2283
 msgid "Save Button"
-msgstr ""
+msgstr "دکمه ذخیره"
 
 #: components/classes/x-media-player.php:799
 msgid "Save poster images locally"
-msgstr ""
+msgstr "ذخیره تصاویر پوستر به صورت محلی"
 
 #: components/classes/x-panorama-scene.php:317
 msgid "Scene Configuration"
-msgstr ""
+msgstr "پیکربندی صحنه"
 
 #: components/classes/x-panorama-scene.php:99 
 #: components/classes/x-panorama-scene.php:200 
 #: components/classes/x-panorama-scene.php:288
 msgid "Scene identifier"
-msgstr ""
+msgstr "شناسه صحنه"
 
 #: components/classes/x-panorama-scene.php:189
 msgid "Scene link"
-msgstr ""
+msgstr "پیوند صحنه"
 
 #: components/classes/x-panorama-scene.php:106
 msgid "Scene title"
-msgstr ""
+msgstr "عنوان صحنه"
 
 #: components/classes/x-breadcrumbs.php:627
 msgid "Schema markup"
-msgstr ""
+msgstr "نشانه‌گذاری Schema"
 
 #: components/classes/x-toast-notification.php:415
 msgid "Screen Reader Announcement"
-msgstr ""
+msgstr "اعلام خوان صفحه"
 
 #: components/classes/x-toggle-switch.php:370
 msgid "Screen reader"
-msgstr ""
+msgstr "خوان صفحه"
 
 #: components/classes/x-header-search.php:249
 msgid "Screen reader label"
-msgstr ""
+msgstr "برچسب خوان صفحه"
 
 #: components/classes/x-toast-notification.php:476
 msgid "Scroll Distance"
-msgstr ""
+msgstr "فاصله اسکرول"
 
 #: components/classes/x-page-tour.php:1009
 msgid "Scroll To Target Elements"
-msgstr ""
+msgstr "اسکرول به عناصر هدف"
 
 #: components/classes/x-tabs.php:833
 msgid "Scroll and open tab via URL hash"
-msgstr ""
+msgstr "اسکرول و باز کردن برگه از طریق هش URL"
 
 #: components/classes/x-back-to-top.php:96
 msgid "Scroll behavior"
-msgstr ""
+msgstr "رفتار اسکرول"
 
 #: components/classes/x-pro-modal-nestable.php:174 
 #: components/classes/x-pro-modal-nestable.php:285 
@@ -5156,183 +5156,183 @@ msgstr ""
 #: includes/BricksExtrasHeaderExtras.php:148 
 #: includes/BricksExtrasHeaderExtras.php:213
 msgid "Scroll distance"
-msgstr ""
+msgstr "فاصله اسکرول"
 
 #: components/classes/x-panorama-viewer.php:249
 msgid "Scroll sensitivity"
-msgstr ""
+msgstr "حساسیت اسکرول"
 
 #: includes/BricksExtrasInteractive.php:179
 msgid "Scroll speeds"
-msgstr ""
+msgstr "سرعت‌های اسکرول"
 
 #: components/classes/x-pro-modal-nestable.php:175 
 #: components/classes/x-pro-modal.php:210 
 #: components/classes/x-toast-notification.php:453
 msgid "Scroll to element"
-msgstr ""
+msgstr "اسکرول به عنصر"
 
 #: components/classes/x-ws-forms.php:1061
 msgid "Secondary elements such as a reset button."
-msgstr ""
+msgstr "عناصر ثانویه مانند دکمه بازنشانی."
 
 #: components/classes/x-countdown.php:249 
 #: components/classes/x-countdown.php:301 
 #: includes/BricksExtrasInteractions.php:322
 msgid "Seconds"
-msgstr ""
+msgstr "ثانیه"
 
 #: components/classes/x-toast-notification.php:494
 msgid "Seconds between each notification rotation"
-msgstr ""
+msgstr "ثانیه بین هر چرخش اعلان"
 
 #: components/classes/x-ws-forms.php:1472
 msgid "Section Legend"
-msgstr ""
+msgstr "افسانه بخش"
 
 #: includes/VideoProvidersPage.php:266
 msgid "Security Settings"
-msgstr ""
+msgstr "تنظیمات امنیتی"
 
 #: components/classes/x-pro-alert.php:296
 msgid "See the docs for details on show/close alerts in your code"
-msgstr ""
+msgstr "برای جزئیات نمایش/بستن هشدارها در کد خود، مستندات را ببینید"
 
 #: components/classes/x-notification-bar.php:187
 msgid "See the docs for details on show/close notifications in your code"
-msgstr ""
+msgstr "برای جزئیات نمایش/بستن اعلان‌ها در کد خود، مستندات را ببینید"
 
 #: components/classes/x-page-tour.php:177
 msgid "See the docs for details on showing tours in your code"
-msgstr ""
+msgstr "برای جزئیات نمایش تورها در کد خود، مستندات را ببینید"
 
 #: components/classes/x-media-control.php:255 
 #: components/classes/x-media-control.php:277
 msgid "Seek"
-msgstr ""
+msgstr "جستجو"
 
 #: components/classes/x-media-control.php:242 
 #: components/classes/x-media-control.php:264 
 #: components/traits/media-player-trait.php:287 
 #: components/traits/media-player-trait.php:306
 msgid "Seek Distance"
-msgstr ""
+msgstr "فاصله جستجو"
 
 #: components/classes/x-media-control.php:144 
 #: components/traits/media-player-trait.php:174 
 #: components/traits/media-player-trait.php:4508
 msgid "Seek backward"
-msgstr ""
+msgstr "جستجو به عقب"
 
 #: components/classes/x-media-control.php:145 
 #: components/traits/media-player-trait.php:175 
 #: components/traits/media-player-trait.php:4518
 msgid "Seek forward"
-msgstr ""
+msgstr "جستجو به جلو"
 
 #: includes/BricksExtrasInteractions.php:116
 msgid "Seeked to new time"
-msgstr ""
+msgstr "جستجو شده به زمان جدید"
 
 #: components/classes/x-pro-slider-control.php:1266
 msgid "Segment autoplay progress bar"
-msgstr ""
+msgstr "نوار پیشرفت پخش خودکار بخش"
 
 #: components/classes/x-pro-slider-control.php:1275
 msgid "Segment gap"
-msgstr ""
+msgstr "شکاف بخش"
 
 #: components/classes/x-pro-slider-control.php:639
 msgid "Segment progress bar"
-msgstr ""
+msgstr "نوار پیشرفت بخش"
 
 #: includes/BricksExtrasQueryLoop.php:362
 msgid "Select Menu.."
-msgstr ""
+msgstr "انتخاب منو.."
 
 #: components/classes/x-calendar.php:324 components/classes/x-calendar.php:354 
 #: components/classes/x-calendar.php:384 components/classes/x-calendar.php:421 
 #: components/classes/x-calendar.php:450 components/classes/x-calendar.php:479
 msgid "Select buttons"
-msgstr ""
+msgstr "دکمه‌های انتخاب"
 
 #: components/classes/x-copy-to-clipboard.php:1040
 msgid "Select copied text"
-msgstr ""
+msgstr "انتخاب متن کپی‌شده"
 
 #: includes/BricksExtrasConditions.php:1743 
 #: includes/BricksExtrasConditions.php:1766
 msgid "Select custom field"
-msgstr ""
+msgstr "انتخاب فیلد سفارشی"
 
 #: components/classes/x-breadcrumbs.php:772
 msgid "Select custom post type"
-msgstr ""
+msgstr "انتخاب نوع نوشته سفارشی"
 
 #: components/classes/x-calendar.php:753
 msgid "Select days to hide"
-msgstr ""
+msgstr "انتخاب روز‌هایی برای پنهان‌کردن"
 
 #: includes/WPGridBuilderStyler.php:103
 msgid "Select dropdown"
-msgstr ""
+msgstr "انتخاب فهرست کشویی"
 
 #: components/classes/x-fluent-form.php:169 
 #: components/classes/x-fluent-form.php:172 
 #: components/classes/x-ws-forms.php:274 components/classes/x-ws-forms.php:277
 msgid "Select form"
-msgstr ""
+msgstr "انتخاب فرم"
 
 #: components/classes/x-ws-forms.php:1607 includes/WPGridBuilderStyler.php:237
 msgid "Select padding"
-msgstr ""
+msgstr "انتخاب فضای داخلی"
 
 #: components/classes/x-calendar.php:253
 msgid "Select rule"
-msgstr ""
+msgstr "انتخاب قاعده"
 
 #: includes/BricksExtrasConditions.php:2159
 msgid "Select status"
-msgstr ""
+msgstr "انتخاب وضعیت"
 
 #: components/classes/x-calendar.php:892
 msgid "Select template"
-msgstr ""
+msgstr "انتخاب الگو"
 
 #: includes/BricksExtrasConditions.php:1537 
 #: includes/BricksExtrasConditions.php:1600
 msgid "Select term"
-msgstr ""
+msgstr "انتخاب عبارت"
 
 #: components/classes/x-ws-forms.php:1719 
 #: components/classes/x-ws-forms.php:1732
 msgid "Selected flag"
-msgstr ""
+msgstr "پرچم انتخاب‌شده"
 
 #: components/classes/x-offcanvas-nestable.php:272 
 #: components/classes/x-offcanvas.php:282
 msgid "Selector inside offcanvas"
-msgstr ""
+msgstr "انتخابگر درون بیرون‌از‌بوم"
 
 #: components/classes/x-social-share.php:155
 msgid "Selector of content area to print"
-msgstr ""
+msgstr "انتخابگر ناحیه محتوایی برای چاپ"
 
 #: components/classes/x-pro-slider.php:1748
 msgid "Selector of the slider to control"
-msgstr ""
+msgstr "انتخابگر اسلایدر برای کنترل"
 
 #: components/classes/x-pro-slider.php:793
 msgid "Sequential"
-msgstr ""
+msgstr "متوالی"
 
 #: components/classes/x-social-share.php:85
 msgid "Services"
-msgstr ""
+msgstr "خدمات"
 
 #: components/classes/x-dynamic-chart.php:321
 msgid "Set dataset colors"
-msgstr ""
+msgstr "تنظیم رنگ‌های مجموعه داده"
 
 #: components/classes/x-breadcrumbs.php:580
 msgid ""
@@ -5341,7 +5341,7 @@ msgstr ""
 
 #: components/classes/x-back-to-top.php:419
 msgid "Set the opacity/transform for the button in for the hidden state"
-msgstr ""
+msgstr "تنظیم کدورت/تبدیل برای دکمه در حالت پنهان"
 
 #: components/classes/x-dynamic-lightbox.php:1090
 msgid ""
@@ -5350,11 +5350,11 @@ msgstr ""
 
 #: components/classes/x-media-player.php:833
 msgid "Set to -1 to never hide controls"
-msgstr ""
+msgstr "برای عدم پنهان‌کردن کنترل‌ها، -1 را تنظیم کنید"
 
 #: components/classes/x-toast-notification.php:168
 msgid "Set to 0 to disable auto-dismiss."
-msgstr ""
+msgstr "برای غیرفعال‌کردن خود‌بسته‌شدن، 0 را تنظیم کنید."
 
 #: components/classes/x-media-control.php:458 
 #: components/classes/x-media-control.php:2917 
@@ -5367,15 +5367,15 @@ msgstr "تنظیمات"
 #: components/classes/x-media-control.php:1691 
 #: components/traits/media-player-trait.php:177
 msgid "Settings menu"
-msgstr ""
+msgstr "منو تنظیمات"
 
 #: components/classes/x-media-control.php:1761
 msgid "Settings menu items"
-msgstr ""
+msgstr "آیتم‌های منو تنظیمات"
 
 #: includes/VideoProvidersPage.php:131
 msgid "Settings saved successfully!"
-msgstr ""
+msgstr "تنظیمات با موفقیت ذخیره شدند!"
 
 #: components/classes/x-social-share.php:904
 msgid "Share"
@@ -5394,28 +5394,28 @@ msgstr "اشتراک"
 #: components/classes/x-social-share.php:855 
 #: components/classes/x-social-share.php:915
 msgid "Share on "
-msgstr ""
+msgstr "اشتراک در "
 
 #: includes/BricksExtrasConditions.php:1109
 msgid "Shop"
-msgstr ""
+msgstr "فروشگاه"
 
 #: components/classes/x-shortcode-wrapper.php:53 
 #: includes/BricksExtrasMain.php:455
 msgid "Shortcode Wrapper"
-msgstr ""
+msgstr "بسته‌بندی Shortcode"
 
 #: components/classes/x-calendar.php:392
 msgid "Show Footer Toolbar"
-msgstr ""
+msgstr "نمایش نوار ابزار پایین‌صفحه"
 
 #: components/classes/x-calendar.php:294
 msgid "Show Header Toolbar"
-msgstr ""
+msgstr "نمایش نوار ابزار سرصفحه"
 
 #: components/classes/x-page-tour.php:160
 msgid "Show again"
-msgstr ""
+msgstr "نمایش دوباره"
 
 #: components/classes/x-pro-alert.php:291 
 #: components/classes/x-pro-modal-nestable.php:311 
@@ -5425,48 +5425,48 @@ msgstr ""
 #: components/classes/x-toast-notification.php:528 
 #: components/classes/x-toast-notification.php:532
 msgid "Show again on next visit"
-msgstr ""
+msgstr "نمایش دوباره در بازدید بعدی"
 
 #: components/classes/x-page-tour.php:166
 msgid "Show again until completed"
-msgstr ""
+msgstr "نمایش دوباره تا تکمیل"
 
 #: components/classes/x-notification-bar.php:176 
 #: components/classes/x-pro-alert.php:286
 msgid "Show again until user clicks dismiss"
-msgstr ""
+msgstr "نمایش دوباره تا کلیک کاربر روی رد"
 
 #: components/traits/media-player-trait.php:4758
 msgid "Show captions by default when available"
-msgstr ""
+msgstr "نمایش زیرنویس‌ها به طور پیش‌فرض در دسترس"
 
 #: components/classes/x-page-tour.php:988
 msgid "Show confirmation dialog if canceling tour"
-msgstr ""
+msgstr "نمایش دیالوگ تأیید اگر لغو تور"
 
 #: components/classes/x-page-tour.php:559
 msgid "Show each button/link conditionally"
-msgstr ""
+msgstr "نمایش هر دکمه/پیوند به صورت مشروط"
 
 #: components/classes/x-calendar.php:774
 msgid "Show event end times"
-msgstr ""
+msgstr "نمایش زمان پایان رویداد"
 
 #: components/classes/x-calendar.php:766
 msgid "Show event times"
-msgstr ""
+msgstr "نمایش زمان رویداد"
 
 #: components/classes/x-toast-notification.php:213
 msgid "Show icon on the left side of notification"
-msgstr ""
+msgstr "نمایش نماد در سمت چپ اعلان"
 
 #: components/classes/x-header-search.php:382
 msgid "Show keyboard on iOS"
-msgstr ""
+msgstr "نمایش صفحه‌کلید در iOS"
 
 #: components/classes/x-calendar.php:811
 msgid "Show now indicator"
-msgstr ""
+msgstr "نمایش نشانگر الآن"
 
 #: components/classes/x-notification-bar.php:175 
 #: components/classes/x-notification-bar.php:182 
@@ -5474,225 +5474,225 @@ msgstr ""
 #: components/classes/x-page-tour.php:170 
 #: components/classes/x-pro-alert.php:285
 msgid "Show on every visit"
-msgstr ""
+msgstr "نمایش در هر بازدید"
 
 #: components/classes/x-content-switcher.php:82
 msgid "Show only first child element in builder"
-msgstr ""
+msgstr "نمایش فقط اولین عنصر فرزند در سازنده"
 
 #: components/classes/x-media-control.php:356 
 #: components/traits/media-player-trait.php:356
 msgid "Show remaining time"
-msgstr ""
+msgstr "نمایش زمان باقی‌مانده"
 
 #: components/classes/x-panorama-viewer.php:985
 msgid "Show scene titles"
-msgstr ""
+msgstr "نمایش عناوین صحنه"
 
 #: components/classes/x-page-tour.php:1020 
 #: components/classes/x-page-tour.php:1024
 msgid "Show step in center of viewport"
-msgstr ""
+msgstr "نمایش مرحله در مرکز دید"
 
 #: components/classes/x-calendar.php:720
 msgid "Show week numbers"
-msgstr ""
+msgstr "نمایش شماره‌های هفته"
 
 #: components/classes/x-calendar.php:727
 msgid "Show weekends"
-msgstr ""
+msgstr "نمایش آخر هفته‌ها"
 
 #: components/classes/x-header-row.php:170
 msgid "Show/hide header row when header is in overlay mode"
-msgstr ""
+msgstr "نمایش/پنهان کردن ردیف سرصفحه هنگام وجود سرصفحه در حالت پوشش"
 
 #: components/classes/x-dynamic-table.php:766 
 #: components/classes/x-dynamic-table.php:770 
 #: components/classes/x-dynamic-table.php:1560
 msgid "Showing"
-msgstr ""
+msgstr "نمایش"
 
 #: components/classes/x-calendar.php:813
 msgid "Shows current time line in timeline views"
-msgstr ""
+msgstr "خط زمان جاری را در نمایش‌های خط‌زمانی نشان می‌دهد"
 
 #: components/classes/x-slide-menu.php:541
 msgid "Sibling"
-msgstr ""
+msgstr "برادر یا خواهر"
 
 #: components/classes/x-color-scheme-toggle.php:127 
 #: components/classes/x-color-scheme-toggle.php:131
 msgid "Single button"
-msgstr ""
+msgstr "دکمه تنها"
 
 #: includes/BricksExtrasConditions.php:1093
 msgid "Single post"
-msgstr ""
+msgstr "نوشته تنها"
 
 #: includes/BricksExtrasConditions.php:1094
 msgid "Singular"
-msgstr ""
+msgstr "تنها"
 
 #: components/classes/x-breadcrumbs.php:52 includes/BricksExtrasMain.php:461
 msgid "Site Breadcrumbs"
-msgstr ""
+msgstr "مسیر سایت"
 
 #: components/classes/x-page-tour.php:1021
 msgid "Skip that step"
-msgstr ""
+msgstr "رد کردن این مرحله"
 
 #: components/classes/x-pro-accordion.php:207
 msgid "Skip to next item with up/down keys"
-msgstr ""
+msgstr "پرش به آیتم بعدی با کلیدهای بالا/پایین"
 
 #: components/classes/x-pro-slider-control.php:1456
 msgid "Slide Data Attribute"
-msgstr ""
+msgstr "ویژگی داده اسلایدر"
 
 #: components/classes/x-pro-slider.php:233
 msgid "Slide Heights"
-msgstr ""
+msgstr "ارتفاع‌های اسلاید"
 
 #: includes/BricksExtrasInteractions.php:471
 msgid "Slide Index"
-msgstr ""
+msgstr "شاخص اسلاید"
 
 #: components/classes/x-before-after-image.php:333
 msgid "Slide control length"
-msgstr ""
+msgstr "طول کنترل اسلاید"
 
 #: components/classes/x-before-after-image.php:316
 msgid "Slide control thickness"
-msgstr ""
+msgstr "ضخامت کنترل اسلاید"
 
 #: components/classes/x-color-scheme-toggle.php:536 
 #: components/classes/x-copy-to-clipboard.php:277
 msgid "Slide down"
-msgstr ""
+msgstr "اسلاید به پایین"
 
 #: components/classes/x-color-scheme-toggle.php:538 
 #: components/classes/x-copy-to-clipboard.php:278
 msgid "Slide left"
-msgstr ""
+msgstr "اسلاید به چپ"
 
 #: components/classes/x-slide-menu.php:58 includes/BricksExtrasMain.php:466
 msgid "Slide menu"
-msgstr ""
+msgstr "منو اسلاید"
 
 #: components/classes/x-color-scheme-toggle.php:539 
 #: components/classes/x-copy-to-clipboard.php:279
 msgid "Slide right"
-msgstr ""
+msgstr "اسلاید به راست"
 
 #: components/classes/x-color-scheme-toggle.php:537 
 #: components/classes/x-copy-to-clipboard.php:276 
 #: components/classes/x-notification-bar.php:132 
 #: includes/BricksExtrasHeaderExtras.php:204
 msgid "Slide up"
-msgstr ""
+msgstr "اسلاید به بالا"
 
 #: components/classes/x-pro-slider.php:181
 msgid "Slide widths"
-msgstr ""
+msgstr "عرض‌های اسلاید"
 
 #: components/classes/x-ws-forms.php:3016
 msgid "Slider Color (lower track)"
-msgstr ""
+msgstr "رنگ اسلایدر (مسیر پایینی)"
 
 #: components/classes/x-ws-forms.php:2987
 msgid "Slider Color (upper track)"
-msgstr ""
+msgstr "رنگ اسلایدر (مسیر بالایی)"
 
 #: includes/WPGridBuilderStyler.php:1452
 msgid "Slider Thumb"
-msgstr ""
+msgstr "انگشت شنی اسلایدر"
 
 #: components/classes/x-media-control.php:1344 
 #: components/traits/media-player-trait.php:3456
 msgid "Slider chapter value"
-msgstr ""
+msgstr "مقدار فصل اسلایدر"
 
 #: components/classes/x-before-after-image.php:80 
 #: components/classes/x-before-after-image.php:309
 msgid "Slider control"
-msgstr ""
+msgstr "کنترل اسلایدر"
 
 #: includes/BricksExtrasInteractions.php:197
 msgid "Slider move"
-msgstr ""
+msgstr "حرکت اسلایدر"
 
 #: includes/BricksExtrasInteractions.php:196
 msgid "Slider moved"
-msgstr ""
+msgstr "اسلایدر جابه‌جا شد"
 
 #: includes/BricksExtrasInteractions.php:195
 msgid "Slider moved to specific slide"
-msgstr ""
+msgstr "اسلایدر به اسلاید خاص جابه‌جا شد"
 
 #: components/classes/x-pro-slider-control.php:700 
 #: components/classes/x-pro-slider-control.php:1608
 msgid "Slider progress"
-msgstr ""
+msgstr "پیشرفت اسلایدر"
 
 #: components/classes/x-pro-slider.php:1734
 msgid "Slider syncing"
-msgstr ""
+msgstr "هماهنگ‌سازی اسلایدر"
 
 #: components/classes/x-media-control.php:1242
 msgid "Slider time value"
-msgstr ""
+msgstr "مقدار زمان اسلایدر"
 
 #: components/classes/x-pro-slider-control.php:121
 msgid "Slider to control"
-msgstr ""
+msgstr "اسلایدر برای کنترل"
 
 #: components/classes/x-pro-slider-control.php:187 
 #: components/classes/x-pro-slider-control.php:191
 msgid "Slides to move"
-msgstr ""
+msgstr "اسلایدها برای حرکت"
 
 #: components/traits/media-player-trait.php:4558
 msgid "Slow down"
-msgstr ""
+msgstr "کاهش سرعت"
 
 #: components/classes/x-calendar.php:1035
 msgid "Small Font Size"
-msgstr ""
+msgstr "اندازه فونت کوچک"
 
 #: components/classes/x-panorama-viewer.php:623
 msgid "Small image displayed before panorama image loads"
-msgstr ""
+msgstr "تصویر کوچکی نمایش‌داده می‌شود قبل از بارگذاری تصویر پانوراما"
 
 #: components/classes/x-pro-slider.php:872
 msgid "Snap to closest slide"
-msgstr ""
+msgstr "قطقط شدن به نزدیک‌ترین اسلاید"
 
 #: components/classes/x-social-share.php:47 includes/BricksExtrasMain.php:471
 msgid "Social Share"
-msgstr ""
+msgstr "اشتراک اجتماعی"
 
 #: components/classes/x-dynamic-table.php:246 
 #: components/classes/x-dynamic-table.php:347
 msgid "Sort column as dates"
-msgstr ""
+msgstr "مرتب‌کردن ستون به عنوان تاریخ‌ها"
 
 #: components/classes/x-dynamic-table.php:237 
 #: components/classes/x-dynamic-table.php:338
 msgid "Sort column as numbers"
-msgstr ""
+msgstr "مرتب‌کردن ستون به عنوان اعداد"
 
 #: components/classes/x-dynamic-table.php:452
 msgid "Sortable columns"
-msgstr ""
+msgstr "ستون‌های قابل مرتب‌سازی"
 
 #: components/classes/x-ws-forms.php:1398
 msgid "Space between elements"
-msgstr ""
+msgstr "فاصله بین عناصر"
 
 #: components/classes/x-pro-modal-nestable.php:434 
 #: components/classes/x-pro-modal.php:470
 msgid "Space from edge of viewport"
-msgstr ""
+msgstr "فاصله از لبه دید"
 
 #: components/classes/x-calendar.php:312 components/classes/x-calendar.php:342 
 #: components/classes/x-calendar.php:372 components/classes/x-calendar.php:409 
@@ -5700,21 +5700,21 @@ msgstr ""
 #: components/classes/x-media-control.php:143 
 #: components/traits/media-player-trait.php:178
 msgid "Spacer"
-msgstr ""
+msgstr "فاصله‌گذار"
 
 #: components/classes/x-calendar.php:1310
 msgid "Special"
-msgstr ""
+msgstr "خصوصی"
 
 #: includes/BricksExtrasInteractions.php:189
 msgid "Specific item expand"
-msgstr ""
+msgstr "توسعه آیتم خاص"
 
 #: components/classes/x-pro-slider-control.php:125 
 #: components/classes/x-toggle-switch.php:281 
 #: components/traits/media-player-trait.php:4794
 msgid "Specific selector"
-msgstr ""
+msgstr "انتخابگر خاص"
 
 #: components/classes/x-media-control.php:485 
 #: components/classes/x-media-control.php:2925 
@@ -5726,151 +5726,151 @@ msgstr "سرعت"
 
 #: components/traits/media-player-trait.php:4548
 msgid "Speed up"
-msgstr ""
+msgstr "افزایش سرعت"
 
 #: components/classes/x-pro-slider-gallery.php:451 
 #: components/classes/x-pro-slider-gallery.php:454
 msgid "Splide lazy load"
-msgstr ""
+msgstr "بارگذاری تنبل Splide"
 
 #: components/classes/x-dynamic-table.php:124
 msgid "Stack columns"
-msgstr ""
+msgstr "ستون‌های منشی"
 
 #: components/classes/x-dynamic-table.php:1360 
 #: components/classes/x-nestable-table.php:366
 msgid "Stack columns vertically at breakpoint"
-msgstr ""
+msgstr "ستون‌های منشی به صورت عمودی در نقطه شکست"
 
 #: components/classes/x-dynamic-chart.php:415
 msgid "Stack on top"
-msgstr ""
+msgstr "منشی روی بالا"
 
 #: components/classes/x-nestable-table.php:90
 msgid "Stack vertically"
-msgstr ""
+msgstr "منشی به صورت عمودی"
 
 #: components/classes/x-pro-slider.php:1901
 msgid "Stagger animation delays"
-msgstr ""
+msgstr "تأخیرهای انیمیشن پله‌ای"
 
 #: components/classes/x-star-rating.php:47 includes/BricksExtrasMain.php:476
 msgid "Star Rating"
-msgstr ""
+msgstr "امتیاز ستاره"
 
 #: components/classes/x-calendar.php:172
 msgid "Start Date/Time"
-msgstr ""
+msgstr "تاریخ/زمان شروع"
 
 #: components/classes/x-pro-slider.php:1806
 msgid "Start as paused"
-msgstr ""
+msgstr "شروع به عنوان متوقف"
 
 #: components/classes/x-lottie.php:105
 msgid "Start frame"
-msgstr ""
+msgstr "فریم شروع"
 
 #: components/traits/media-player-trait.php:4718
 msgid "Start time URL parameter"
-msgstr ""
+msgstr "پارامتر URL زمان شروع"
 
 #: components/classes/x-reading-progress-bar.php:107
 msgid "Start when top of container reaches.."
-msgstr ""
+msgstr "شروع زمانی که بالای کانتینر به .."
 
 #: includes/BricksExtrasInteractions.php:111 
 #: includes/BricksExtrasInteractions.php:168
 msgid "Started"
-msgstr ""
+msgstr "آغاز شد"
 
 #: includes/BricksExtrasConditions.php:1092
 msgid "Static Page"
-msgstr ""
+msgstr "صفحه ایستا"
 
 #: components/classes/x-fluent-form.php:115
 msgid "Step Button"
-msgstr ""
+msgstr "دکمه مرحله"
 
 #: components/classes/x-page-tour-step.php:129
 msgid "Step ID"
-msgstr ""
+msgstr "شناسه مرحله"
 
 #: components/classes/x-page-tour.php:75
 msgid "Step Popover Styling"
-msgstr ""
+msgstr "سبک‌سازی تاشو مرحله"
 
 #: components/classes/x-page-tour.php:1127
 msgid "Step content.."
-msgstr ""
+msgstr "محتوای مرحله.."
 
 #: includes/BricksExtrasInteractions.php:175
 msgid "Step hidden"
-msgstr ""
+msgstr "مرحله پنهان شد"
 
 #: includes/BricksExtrasInteractions.php:174
 msgid "Step shown"
-msgstr ""
+msgstr "مرحله نمایش‌داده شد"
 
 #: components/classes/x-page-tour.php:1082
 msgid "Step to return to"
-msgstr ""
+msgstr "مرحله برای بازگشت"
 
 #: components/classes/x-media-playlist.php:256 
 #: components/traits/media-player-trait.php:1980
 msgid "Stream type"
-msgstr ""
+msgstr "نوع جریان"
 
 #: components/classes/x-copy-to-clipboard.php:173
 msgid "Strip HTML tags"
-msgstr ""
+msgstr "حذف برچسب‌های HTML"
 
 #: components/classes/x-dynamic-lightbox.php:105
 msgid "Styling UI"
-msgstr ""
+msgstr "رابط کاربری سبک‌سازی"
 
 #: components/classes/x-slide-menu.php:418
 msgid "Sub menu text indent"
-msgstr ""
+msgstr "تورفتگی متن زیرمنو"
 
 #: includes/BricksExtrasInteractions.php:245
 msgid "Submission error"
-msgstr ""
+msgstr "خطای ارسال"
 
 #: includes/BricksExtrasInteractions.php:76
 msgid "Submission failed"
-msgstr ""
+msgstr "ارسال ناموفق"
 
 #: includes/BricksExtrasInteractions.php:75 
 #: includes/BricksExtrasInteractions.php:244
 msgid "Submission success"
-msgstr ""
+msgstr "ارسال موفق"
 
 #: components/classes/x-media-playlist.php:653 
 #: components/traits/media-player-trait.php:4300
 msgid "Subtitles"
-msgstr ""
+msgstr "زیرنویس‌ها"
 
 #: components/classes/x-dynamic-chart.php:896
 msgid "Suggested Max"
-msgstr ""
+msgstr "حداکثر پیشنهادی"
 
 #: components/classes/x-dynamic-chart.php:885
 msgid "Suggested Min"
-msgstr ""
+msgstr "حداقل پیشنهادی"
 
 #: components/classes/x-dynamic-table.php:740 
 #: components/classes/x-dynamic-table.php:757
 msgid "Summary"
-msgstr ""
+msgstr "خلاصه"
 
 #: components/classes/x-color-scheme-toggle.php:352 
 #: components/classes/x-color-scheme-toggle.php:414
 msgid "Sun ray distance"
-msgstr ""
+msgstr "فاصله پرتو خورشید"
 
 #: components/classes/x-color-scheme-toggle.php:331
 msgid "Sun ray size"
-msgstr ""
+msgstr "اندازه پرتو خورشید"
 
 #: components/classes/x-calendar.php:706 components/classes/x-calendar.php:714 
 #: components/classes/x-calendar.php:744
@@ -5879,155 +5879,155 @@ msgstr "یکشنبه"
 
 #: components/classes/x-content-timeline.php:815
 msgid "Support horizontal for slider"
-msgstr ""
+msgstr "پشتیبانی افقی برای اسلایدر"
 
 #: components/classes/x-pro-slider-gallery.php:446
 msgid "Support lazy load"
-msgstr ""
+msgstr "پشتیبانی بارگذاری تنبل"
 
 #: components/classes/x-color-scheme-toggle.php:580
 msgid "Swipe down"
-msgstr ""
+msgstr "سویپ به پایین"
 
 #: components/classes/x-color-scheme-toggle.php:582
 msgid "Swipe left"
-msgstr ""
+msgstr "سویپ به چپ"
 
 #: components/classes/x-color-scheme-toggle.php:583
 msgid "Swipe right"
-msgstr ""
+msgstr "سویپ به راست"
 
 #: components/classes/x-color-scheme-toggle.php:581
 msgid "Swipe up"
-msgstr ""
+msgstr "سویپ به بالا"
 
 #: components/classes/x-color-scheme-toggle.php:100
 msgid "Switch"
-msgstr ""
+msgstr "سوئیچ"
 
 #: components/classes/x-toggle-switch.php:194 
 #: components/classes/x-toggle-switch.php:843
 msgid "Switch content"
-msgstr ""
+msgstr "محتوای سوئیچ"
 
 #: components/classes/x-toggle-switch.php:374 
 #: components/classes/x-toggle-switch.php:842
 msgid "Switch pricing"
-msgstr ""
+msgstr "قیمت‌گذاری سوئیچ"
 
 #: components/classes/x-toggle-switch.php:809
 msgid "Switch tabs"
-msgstr ""
+msgstr "برگه‌های سوئیچ"
 
 #: components/classes/x-tabs.php:452
 msgid "Switch the keyboard navigration to use Up/Down for vertical tabs"
-msgstr ""
+msgstr "سوئیچ ناوبری صفحه‌کلید برای استفاده از بالا/پایین برای برگه‌های عمودی"
 
 #: includes/BricksExtrasInteractions.php:206
 msgid "Switch to new item"
-msgstr ""
+msgstr "سوئیچ به آیتم جدید"
 
 #: includes/BricksExtrasInteractions.php:208
 msgid "Switch to specific item"
-msgstr ""
+msgstr "سوئیچ به آیتم خاص"
 
 #: includes/BricksExtrasInteractions.php:236
 msgid "Switched"
-msgstr ""
+msgstr "سوئیچ شد"
 
 #: includes/BricksExtrasInteractions.php:115
 msgid "Switched media"
-msgstr ""
+msgstr "رسانه سوئیچ شد"
 
 #: includes/BricksExtrasInteractions.php:237
 msgid "Switched to"
-msgstr ""
+msgstr "سوئیچ شده به"
 
 #: includes/BricksExtrasInteractions.php:204
 msgid "Switched to accordion"
-msgstr ""
+msgstr "سوئیچ شده به آکاردئون"
 
 #: includes/BricksExtrasInteractions.php:205
 msgid "Switched to tabs"
-msgstr ""
+msgstr "سوئیچ شده به برگه‌ها"
 
 #: components/classes/x-offcanvas-nestable.php:331 
 #: components/classes/x-offcanvas.php:341
 msgid "Sync burger triggers"
-msgstr ""
+msgstr "هماهنگ‌سازی تریگرهای burger"
 
 #: components/classes/x-color-scheme-toggle.php:152 
 #: components/classes/x-color-scheme-toggle.php:156 
 #: components/classes/x-color-scheme-toggle.php:1477 
 #: components/classes/x-color-scheme-toggle.php:1609
 msgid "System"
-msgstr ""
+msgstr "سیستم"
 
 #: components/classes/x-color-scheme-toggle.php:494
 msgid "System icon"
-msgstr ""
+msgstr "نماد سیستم"
 
 #: components/classes/x-fluent-form.php:90
 msgid "T&Cs"
-msgstr ""
+msgstr "شرایط و ضوابط"
 
 #: components/classes/x-tabs.php:982 components/classes/x-tabs.php:1082
 msgid "Tab Content Item"
-msgstr ""
+msgstr "آیتم محتوای برگه"
 
 #: components/classes/x-tabs.php:1035 components/classes/x-tabs.php:1135
 msgid "Tab Panel"
-msgstr ""
+msgstr "پنل برگه"
 
 #: components/classes/x-tabs.php:1071 components/classes/x-tabs.php:1171
 msgid "Tab content here"
-msgstr ""
+msgstr "محتوای برگه در اینجا"
 
 #: components/classes/x-tabs.php:403
 msgid "Tab selection on hover"
-msgstr ""
+msgstr "انتخاب برگه هنگام هور"
 
 #: components/classes/x-fluent-form.php:1079 
 #: components/classes/x-fluent-form.php:1092
 msgid "Table head"
-msgstr ""
+msgstr "سر جدول"
 
 #: components/classes/x-dynamic-table.php:274 
 #: components/classes/x-dynamic-table.php:375
 msgid "Table head scope"
-msgstr ""
+msgstr "دامنه سر جدول"
 
 #: includes/BricksExtrasMain.php:481
 msgid "Table of Contents"
-msgstr ""
+msgstr "فهرست مطالب"
 
 #: components/classes/x-table-of-contents.php:46 
 #: components/classes/x-table-of-contents.php:922 
 #: components/classes/x-table-of-contents.php:1000
 msgid "Table of contents"
-msgstr ""
+msgstr "فهرست مطالب"
 
 #: components/classes/x-tabs.php:969
 msgid "Tabs Content"
-msgstr ""
+msgstr "محتوای برگه‌ها"
 
 #: components/classes/x-tabs.php:892
 msgid "Tabs list"
-msgstr ""
+msgstr "فهرست برگه‌ها"
 
 #: includes/BricksExtrasConditions.php:1042 
 #: includes/BricksExtrasConditions.php:1098 
 #: includes/BricksExtrasHelpers.php:464
 msgid "Tag archive"
-msgstr ""
+msgstr "بایگانی برچسب"
 
 #: includes/BricksExtrasQueryLoop.php:159
 msgid "Taxonomy adjacent posts must have in common."
-msgstr ""
+msgstr "نوشته‌های مجاور طبقه‌بندی باید مشترک داشته باشند."
 
 #: includes/BricksExtrasConditions.php:1101
 msgid "Taxonomy archive"
-msgstr ""
+msgstr "بایگانی طبقه‌بندی"
 
 #: includes/BricksExtrasMain.php:350 includes/BricksExtrasMain.php:366
 msgid "Template"
@@ -6035,15 +6035,15 @@ msgstr "الگو"
 
 #: components/classes/x-dynamic-chart.php:452
 msgid "Tension"
-msgstr ""
+msgstr "کشش"
 
 #: components/classes/x-favorite.php:605
 msgid "Text (max. reached)"
-msgstr ""
+msgstr "متن (حداکثر رسیده)"
 
 #: components/traits/media-player-trait.php:4307
 msgid "Text Track"
-msgstr ""
+msgstr "مسیر متن"
 
 #: components/classes/x-media-player-audio.php:124 
 #: components/classes/x-media-player.php:145 
@@ -6051,19 +6051,19 @@ msgstr ""
 #: components/classes/x-media-playlist.php:662 
 #: components/traits/media-player-trait.php:4309
 msgid "Text Tracks"
-msgstr ""
+msgstr "مسیرهای متن"
 
 #: includes/WPGridBuilderStyler.php:287
 msgid "Text color"
-msgstr ""
+msgstr "رنگ متن"
 
 #: components/classes/x-color-scheme-toggle.php:143
 msgid "Text only"
-msgstr ""
+msgstr "فقط متن"
 
 #: components/classes/x-copy-to-clipboard.php:128
 msgid "Text to copy"
-msgstr ""
+msgstr "متنی برای کپی کردن"
 
 #: components/classes/x-content-switcher.php:90
 msgid ""
@@ -6073,11 +6073,11 @@ msgstr ""
 #. %s is the time unit (milliseconds)
 #: components/classes/x-pro-slider.php:762
 msgid "The duration (%s) before accepting next wheel"
-msgstr ""
+msgstr "مدت (%s) قبل از پذیرفتن چرخ بعدی"
 
 #: components/classes/x-pro-slider.php:388
 msgid "The number of slides to move at once"
-msgstr ""
+msgstr "تعداد اسلایدها برای حرکت یکباره"
 
 #: components/classes/x-pro-slider.php:2186
 msgid ""
@@ -6092,37 +6092,37 @@ msgstr ""
 
 #: components/classes/x-popover.php:661
 msgid "The selector of the target elements"
-msgstr ""
+msgstr "انتخابگر عناصر هدف"
 
 #: components/classes/x-before-after-image.php:700
 msgid "The touchable size of the control on touch devices for dragging"
-msgstr ""
+msgstr "اندازه لمسی کنترل در دستگاه‌های لمسی برای کشیدن"
 
 #: components/classes/x-pro-slider-control.php:810 
 #: components/classes/x-pro-slider-control.php:1412
 msgid "Thickness"
-msgstr ""
+msgstr "ضخامت"
 
 #: includes/BricksExtrasLicense.php:431
 msgid "This appears to be an invalid license key for %s."
-msgstr ""
+msgstr "این به نظر می‌رسد کلید مجوز نامعتبری برای %s است."
 
 #: components/classes/x-toast-notification.php:144
 msgid "This element must be placed inside of a Toast element."
-msgstr ""
+msgstr "این عنصر باید درون عنصر Toast قرار گیرد."
 
 #: components/classes/x-image-hotspot-marker.php:114
 msgid "This element must be placed inside of an Image Hotspot element."
-msgstr ""
+msgstr "این عنصر باید درون عنصر Image Hotspot قرار گیرد."
 
 #: components/classes/x-media-control.php:110
 msgid "This element should be placed inside of the Media Player"
-msgstr ""
+msgstr "این عنصر باید درون پخش‌کننده رسانه قرار گیرد"
 
 #: components/classes/x-pro-slider-control.php:115 
 #: components/classes/x-pro-slider-gallery.php:99
 msgid "This element should be placed outside of the Pro Slider"
-msgstr ""
+msgstr "این عنصر باید خارج از Pro Slider قرار گیرد"
 
 #: components/classes/x-media-playlist.php:695 
 #: components/traits/media-player-trait.php:4344
@@ -6135,20 +6135,20 @@ msgstr "پنج‌شنبه"
 
 #: components/classes/x-ws-forms.php:3058
 msgid "Tick mark"
-msgstr ""
+msgstr "علامت Tick"
 
 #: includes/BricksExtrasInteractive.php:335
 msgid "Tilt hover effect"
-msgstr ""
+msgstr "اثر hover شیب"
 
 #: includes/BricksExtrasInteractions.php:262
 msgid "Time Measurement"
-msgstr ""
+msgstr "اندازه‌گیری زمان"
 
 #: components/classes/x-pro-modal-nestable.php:178 
 #: components/classes/x-pro-modal.php:213
 msgid "Time inactive"
-msgstr ""
+msgstr "زمان غیرفعال"
 
 #: components/classes/x-media-control.php:150 
 #: components/classes/x-media-player-audio.php:498 
@@ -6157,55 +6157,55 @@ msgstr ""
 #: components/traits/media-player-trait.php:181 
 #: components/traits/media-player-trait.php:3197
 msgid "Time slider"
-msgstr ""
+msgstr "اسلایدر زمان"
 
 #: components/traits/media-player-trait.php:3361
 msgid "Time slider value"
-msgstr ""
+msgstr "مقدار اسلایدر زمان"
 
 #: components/classes/x-calendar.php:853
 msgid "Time slot duration"
-msgstr ""
+msgstr "مدت زمان شکاف"
 
 #: components/classes/x-calendar.php:867
 msgid "Time to scroll to when timeline views load"
-msgstr ""
+msgstr "زمان برای اسکرول هنگام بارگذاری نمایش‌های خط‌زمانی"
 
 #: components/classes/x-content-timeline.php:854
 msgid "Timeline Item"
-msgstr ""
+msgstr "آیتم خط‌زمانی"
 
 #: components/classes/x-calendar.php:843
 msgid "Timeline end time"
-msgstr ""
+msgstr "زمان پایان خط‌زمانی"
 
 #: components/classes/x-calendar.php:833
 msgid "Timeline start time"
-msgstr ""
+msgstr "زمان شروع خط‌زمانی"
 
 #: components/classes/x-calendar.php:804
 msgid "Timeline views"
-msgstr ""
+msgstr "نمایش‌های خط‌زمانی"
 
 #: components/classes/x-calendar.php:162 components/classes/x-calendar.php:311 
 #: components/classes/x-calendar.php:341 components/classes/x-calendar.php:371 
 #: components/classes/x-calendar.php:408 components/classes/x-calendar.php:437 
 #: components/classes/x-calendar.php:466
 msgid "Title"
-msgstr ""
+msgstr "عنوان"
 
 #: components/classes/x-fluent-form.php:1472
 msgid "Titles"
-msgstr ""
+msgstr "عناوین"
 
 #: components/classes/x-toast.php:59 includes/BricksExtrasMain.php:486
 msgid "Toast"
-msgstr ""
+msgstr "اعلان"
 
 #: components/classes/x-toast-notification.php:59 
 #: includes/BricksExtrasMain.php:491
 msgid "Toast Notification"
-msgstr ""
+msgstr "اعلان Toast"
 
 #: components/classes/x-calendar.php:310 components/classes/x-calendar.php:340 
 #: components/classes/x-calendar.php:370 components/classes/x-calendar.php:407 
