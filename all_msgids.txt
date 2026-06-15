@@ -1,0 +1,1544 @@
+
+%s Conditions
+(touch devices)
+1 month
+1 year
+A slide height must be set for this to apply
+A slider height or aspect-ratio must be set for vertical sliders
+A-Z index
+API keys
+Above
+Accessibility
+Accordion Item
+Accordion Item Index
+Accordion Toggle
+Accordion collapse
+Accordion expand
+Accordion header
+Accuracy
+Activate License
+Adapt slider height to current slide height
+Adaptive height at this breakpoint
+Add %s to trigger
+Add Markers
+Add chapters with query loop
+Add form ID dynamically
+Add glare
+Add item to favorite
+Add loop fade effect
+Add rows & cells manually
+
+Add the required number of columns
+Add to favorites
+Added to favorite
+Added to favorites
+Added to list
+Adjacent Post
+Adjacent Post Order
+Adjacent Posts
+After
+After dismissal, show again after:
+After first play
+Alert closed
+Alert shown
+All Items
+All items cleared
+All users
+All-Day Event?
+All-Day Text
+Allow ID styling to be added
+Allow action while player is fullscreen
+Allow events to repeat
+Allow keyboard navigation to inactive tabs
+Allow multiple sources
+Allow target element to be clicked
+Alphanumeric
+Alternating layout
+Always closed on page load
+An error occurred, please try again.
+Anchor
+Animated checkmark
+Animation scale
+Animation translate Y
+Announcements
+Announcer
+Any status
+Append to body
+Archive type
+Are you sure you want to exit the tour?
+Aria Labels
+Aria label
+Arrow
+Arrow Key Navigation
+Artist
+Aspect Ratio
+Assertive - Interrupt to announce immediately
+Asterisk
+At least 1 entry exists
+At least one search result
+Attachment Alt Text
+Attachment Caption
+Attachment Description
+Attachment File URL
+Attachment Title
+Audio
+Author archive
+Author has CPT entry
+Authored by logged in user
+Authored by logged-in user
+Auto
+Auto End
+Auto Start
+Auto pause
+Auto rotate speed
+Auto scroll
+Auto-detect language
+Auto-enable captions
+Auto-resume on page load
+Automatically add unique IDs to headings
+Automatically hide custom buttons
+Automatically open keyboard when search opens
+Automatically select captions matching site language
+Autoplay progress
+Autoplay video
+Autoplay when modal reopens
+Axes
+Back
+Back to Top
+Backdrop
+Background Event Color
+Background Event Opacity
+Background color
+Before
+Before / After Image
+Before first play
+Before ready to play
+Begin At Zero
+Behavior
+Below
+Below header
+Block
+Body classes
+Border
+Border radius
+Bottom Center
+Bottom End
+Bottom Left
+Bottom Right
+Bottom Start
+Bottom controls
+Bottom of viewport
+Box shadow
+Breadcrumb links
+Breadcrumbs source
+Bricks Lazy load
+Buffered
+Built-in Hotspots
+Burger Trigger
+Burger line border radius
+Button Active Background
+Button Active Border
+Button Background
+Button Border
+Button Hover Background
+Button Hover Border
+Button Text
+Button reset
+Buttons
+By Day of Month
+By Day of Week
+By Day of Year
+By Hour
+By Minute
+By Month
+By Position
+By Second
+By Week Number
+Bypass internal caching
+Byte
+CDN Token Key
+CPT has at least 1 published entry
+Calendar
+Calendar UI
+Can be swiped away
+Cancelled
+Caption Cues
+Caption Settings
+Caption toggle
+Captions
+Captions Off
+Captions On
+Cart count
+Cart empty
+Cart total
+Cart total (%s)
+Cart total (%s) excl. shipping
+Cart weight
+Cart weight (%s)
+Category archive
+Cell
+Cell content on new line
+Cell data for this column
+Cell inline padding
+Cells
+Center
+Center controls
+Center cutout
+Changelog
+Chapter
+Chapter menu items
+Chapter title
+Chapters
+Chart
+Chart stacking
+Chart style
+Checkable Grid
+Checkboxes, radios, range sliders, progress bars, and submit buttons.
+Checked
+Child Items of Parent
+Choose the starting layout for the player
+Choose which taxonomy to display for each custom post type
+Circumference
+Classy
+Classy Rounded
+Clear all
+Clear button
+Clear progress on cancel
+Cleared
+Click backdrop to close
+Click on another element
+Click on this element
+Click overlay to exit tour
+Click to play
+Clicking hashlink will close
+Clip direction
+Clip end
+Clip start
+Close Search
+Close at this breakpoint
+Close element
+Close modal
+Close other offcanvas
+Closed-Captions Off
+Closed-Captions On
+Collapse depth
+Collapse in builder
+Collapsing
+Color
+Color Scheme Toggle
+Color scheme
+Color scheme: %s.
+Color scheme: %s. Click to toggle.
+Color scheme: {x_color_scheme}. Click to toggle.
+Column count
+Column heading
+Column labels
+Completed
+Completed progress bars, save buttons, and success messages.
+Component scope
+Conditional accordion
+Conditional display
+Conditional slider
+Conditions
+Config
+Configure output
+Configure the layout & behavior using the element ID, not a class
+Confirm Cancel
+Confirm Cancel Message
+Content Switcher
+Content Timeline
+Content block
+Content from the link will appear here (images, videos or iFrame)
+Content here
+Content inner
+Content switchers to control
+Content will appear here.
+Content wrapper
+Context Icon
+Continuous
+Control
+Control height
+
+Control zones gap
+Copy
+Copy URL
+Copy failed
+Copy returned empty
+Copy success
+Copy to Clipboard
+Corner dots
+Corner squares
+Corners
+Count
+Count Up
+Countdown End
+Counting pages or slides
+Country
+Country dial code
+Country dial code highlight
+Country highlight
+Country list
+Create expiring video URLs
+Cumulative watch time
+Current Taxonomy Term Has Child
+Current Taxonomy Term Has Parent
+Current Taxonomy Term Is
+Current Taxonomy Term Is Descendant Of
+Current day (of month)
+Current day of month
+Current month
+Current product in cart
+Current slide
+Current slide number
+Current taxonomy term has child
+Current taxonomy term has parent
+Current taxonomy term is
+Current taxonomy term is descendant of
+Current time
+Current year
+Cursor ball
+Cursor position
+Cursor trail
+Custom
+Custom UI
+Custom checkbox styles
+Custom element
+Custom icons
+Custom list
+Custom navigation using your own buttons
+Custom post types
+Customer logout
+Customize UI
+Danger message
+Dark
+Dark icon
+Data labels
+Data point
+Data point color
+Data points
+Dataset
+Dataset color
+Dataset colors
+Datasets
+Date archive
+Date calendar
+Date field value
+Datetime field value
+Day
+Day Button
+Day Grid
+Day List
+Day Timeline
+Days
+Default Tooltip Placement
+Default color
+Default color for menus
+Defaults to featured image if not set
+Delay
+Desktop instructions text
+Disable
+Disable Bricks animations in content
+Disable Pulse on Hover
+Disable closing sibling items
+Disable if adding your own buttons/links inside each step
+Disable if prefer to rely on Bricks smooth scroll or another solution
+Disable scroll when open
+Disable slider if not enough slides to fill slider viewport
+Disable sorting for this column
+Dismiss Button
+Dismissible
+Display current
+Display end time for events
+Display gesture instructions
+Distance along the side of the button
+Distance along the side of the marker
+Distance away from the button
+Distance away from the marker
+Distance from edges
+Distance scrolled down the page before header becomes sticky
+Does not have subscription
+Dot inside radio input
+Doughnut
+Download
+Download Option
+Draft
+Dropdown
+Dropdown border
+Dropdown box shadow
+Dropdown container
+Dropdown options
+Duration
+Duration of each time slot (e.g., 00:15:00 for 15 minutes)
+Dynamic Chart
+Dynamic Lightbox
+Dynamic Table
+Dynamic aria-label
+Dynamic lightbox
+Dynamic tooltip text
+Easing
+Element Interactions
+Element containing the text
+Elements
+Elements with the data-x-modal-close attribute can close the modal
+Enable
+Enable Recurring Events
+Enable cursor movement to control slider
+Enable if your Bunny Stream has CDN Token Authentication enabled
+Enable tooltips
+End Date/Time
+End frame
+End when bottom of container reaches..
+Ended
+Enter
+Enter Fullscreen
+Enter PIP
+Enter a single class name
+Enter opening and closing shortcode tags
+Enter term ID
+Enter your API key
+Enter your CDN token key
+Enter your library ID
+Enter your license key
+Error correction
+Esc to close
+Est. year - current year
+Even
+Event
+Event Background
+Event Border
+Event Click Action
+Event Overrides
+Event Selected Overlay
+Event Text
+Event display
+Event display style
+Events
+Evergreen
+Exclude Categories
+Exclude Product Categories
+Excluded Term IDs
+Excluding shipping
+Exclusion Dates
+Exit
+Exit Fullscreen
+Exit PIP
+Expand to show active item
+Expanding
+Expired
+Extra Rounded
+Extras
+Facet Styler
+Fade
+Failed
+False
+Favorite Button
+Favorite Count
+Favorite IDs
+Favorites
+Features
+Field backgrounds and button text
+Field borders and buttons.
+Field of view
+Field text
+File Upload
+File Upload Button
+Find playlist elements
+Find this in your Bunny Stream dashboard under API.
+Find this in your Bunny Stream dashboard under Security settings.
+Finish
+First day of week
+First time slot in timeline views (e.g., 06:00:00)
+Fixed slide width
+Flick power
+Flip
+Flip horizontal
+Flip vertical
+Floating effect
+Focus shadow color
+Focus shadow width
+Focus the first focusable element
+Follow cursor
+Follow the steps below to license the plugin:
+Footer A
+Footer B
+Footer C
+For browsers not supporting fullscreen
+For changing the border radius
+For token protected videos
+For use with sliders that move 1 slide at a time
+For use with the popover/tooltip element (enable Dynamic tooltip text)
+For use with vertical sliders
+Force exit fullscreen then allow
+Force images to be 100% slide height
+Force images to be 100% slide width
+Force window resize when opened
+Form reset
+Form wide colors
+Forward
+Free scrolling
+Frequency
+Friday
+From bottom of player when controls visible
+Full width
+Full width content
+Full window
+Full window for browsers not supporting fullscreen
+Fullscreen
+Gallery
+Gallery mode
+Gap between label and checkbox
+Gap between stacked toasts (px)
+General colors
+Generate Authentication Tokens
+Generate Password Icon
+Geolocation Input
+Georadius
+Gestures
+Go back to previous scene
+Go to favorite
+Grid Color
+Grid views
+Group images into lightbox
+Grouping
+Grouping Scope
+Has active membership
+Has active membership ID
+Has active subscription
+Has active subscription ID
+Has child category
+Has custom excerpt
+Has post content
+Hash
+Hash link to close
+Header A
+Header B
+Header C
+Header Extras
+Header Notification Bar
+Header Row
+Header Search
+Header Text
+Header hidden
+Header notification bar
+Header overlay
+Header row
+Header wrap
+Heading IDs
+Heading link clicked
+Heading tag
+Height
+Height margin
+Height transiton duration
+Help text
+Here you can add subtitles/captions to the media player.
+Hidden days
+Hide Header
+Hide Nested Content in Builder
+Hide at this breakpoint
+Hide button in builder
+Hide content in builder
+Hide header after scrolling
+Hide if nothing to copy
+Hide if zero
+Hide in builder
+Hide the sticky header after scrolling a certain distance
+Hide until..
+Hiding controls
+High volume
+Higher values = stops movement faster
+Highlight Target Elements
+Hint
+Horizontal gap
+Horizontal position
+Horizontal split
+Hotspot Index
+Hotspot debug
+Hotspot name
+Hotspots
+Hours
+Hover element
+Hover over another element
+Hover over this element
+How events are rendered in grid views
+How far before the slider comes into view.
+How long to stay in copied state
+How many pages around the active slide to load
+Icon
+Icon + Text
+Icon animation
+Icon background
+Icon border
+Icon box shadow
+Icon color
+Icon only
+Icon padding
+Icon type
+Icon wrapper
+If changing the items to li, set this to ul
+If inside a query loop, use the ID of the other slider
+If set to visible, set overflow hidden on the section
+
+If using only one dataset
+
+
+Image Hotspot Marker
+Image Hotspots
+Image hotspot selected
+Image hotspots
+Image to Pin
+
+In favorites loop
+Inactive time
+Include CPT archive link for taxonomies
+Include Category
+Include Product Category
+Include Shop Page
+Include all selectors where the cursor should turn into the hover state
+Include home page link
+Include posts page link
+Include system option
+Independent scrolling
+Indicator
+Information
+Information messages
+Inherit
+Initial
+Initial View
+
+Initial scroll time
+Initial sort order
+Initial state
+Inline mode allows breadcrumbs to wrap like regular text
+Inner color
+Inner content
+Inner layout
+Inner spacing
+Input indicator
+Input padding
+Inputs
+Interactions are not visible when editing in the builder
+Interactive
+Interactive Cursor
+Interactivity
+International dropdown
+International phone Inputs
+Interval
+Intervals
+Invalid feedback text
+Invalid license.
+Inverted color
+Is child
+Is parent
+Item Index
+Item added
+Item description goes here
+Item removed
+Item styles
+Kanji
+Keyboard Navigation
+Keyboard controls
+Kind
+Label Number
+Label rotation
+Labels
+Labels and field values
+Language
+Last time slot in timeline views (e.g., 22:00:00)
+Layout if slider not active
+Lazy load
+Lazy loading
+Leave at 0 for auto
+Leave blank for step centered in viewport
+Leave blank if wanting to inherit from parent Image Hotspots settings
+Leave empty to inherit color
+Left
+Left End
+Left Start
+Legacy
+Legal
+Legend
+Legends
+Less
+Level
+Level ID
+Library ID can only contain letters, numbers, dashes, and underscores.
+License
+License Key
+Light
+Light icon
+Lightbox closed
+Lightbox opened
+Lighter Color
+Lightest color
+Line
+Line width
+Link to URL
+List
+List Button
+List Day Text
+List Indentifier
+List Item (dot)
+List background
+List background (focused)
+List background (selected)
+List count full (over maximum)
+List count reaches X
+List identifier
+List style type
+List that is being saved to
+List typography
+List typography (focused)
+List typography (selected)
+Live
+Loading UI
+Loading media
+Logarithmic
+Logged in users
+Login to enable
+Login to enable 
+Loop
+Loop back to start after reaching the end
+Loop index
+Loop item number
+Looped intervals
+Lottie
+Lottie version
+Low volume
+Lower values = less sensitive scrolling
+Makes slides clickable to navigate another slider.
+Manage Share buttons
+Manage controls for this zone
+Manual (if using with code)
+Manually
+Margin
+Marker 
+Marker inner
+Marker style
+Max events to show per day
+Max glare
+Max. number of posts in list
+Max. visible toasts
+Maximum Reached
+Maximum number pages that can be flicked
+Maximum reached
+Maximum rotation
+Media Control
+Media Loading
+Media Player
+Media Playlist
+Media Source URL
+Media source URL
+Media sources
+Media type
+Member Conditions
+Member Level
+Member Level ID
+Member access group
+Member access group ID
+Membership level
+Membership level ID
+Menu Item Classes
+Menu Item Description
+Menu Item ID
+Menu Item Label
+Menu Item Target
+Menu Item URL
+Menu Items Filter
+Menu Placement
+Menu collapse
+Menu expanded
+Menu items
+Menu name, menu slug or menu ID
+Menu offset
+Menus
+Meta content
+Meta content align
+Meta inner
+Meta text
+Meta width
+Meter
+Middle of viewport
+Minimum headings found to display
+Minimum threshold for dragging
+Minutes
+Misc
+Miscellaneous
+Modal
+Modal closed
+Modal opened
+Monday
+Month
+Month Button
+Month Grid
+Month List
+Monthly
+Moon eclipse size
+Moon rotation
+More
+More Link Background
+More Link Text
+Morphing icon presets
+Morphing icons
+Mouse wheel Zoom
+Move Down Button
+Move Up Button
+Move cell content onto new line
+Move focus inside popover content
+Move focus to next tab
+Move focus to offcanvas
+Move to next item in playlist when media ends
+Movement friction
+Multiple Selection remove icon
+Multiple Selection values
+Multiple file types
+Multiple labels
+Multiple triggers for the same tooltip
+Mute
+Muted
+Navigation by mouse wheel
+Nearby
+Nest content inside viewer to inform the user to click to load
+Nest in the Image Hotspot Marker element
+Nest taxonomies
+Nestable Table
+Nested
+Nested Hotspots
+Net Promotor Score
+Neutral Background
+Neutral Text
+Never show again
+Next
+Next Button
+Next Slide
+Next Year
+Next Year Button
+Next item
+Next slide
+Next step is useful for multi-page tours
+No Events Text
+No events to display
+No license key found. Please enter your license key and activate.
+No matching records found
+No panorama image selected
+Non-Members
+Not present
+Notice: Your message here
+Notification
+Notification Dismissed
+Notification Open
+
+Now Indicator Color
+Number of Page Views
+Number of page views
+Number of slides to move
+Number of slides to show
+Off
+Off - Do not announce
+OffCanvas
+Offcanvas
+Offcanvas closed
+Offcanvas opened
+Offset distance
+Offset from viewport (px)
+Offset skidding
+Omit end
+On click
+On edge
+On hold
+On page load
+On play
+Only allow to show after:
+Only allow to show again after:
+Only control slider by clicking slides
+Only for if not using multiple triggers
+Only if video was already playing
+Only show once per page visit
+Only show once per session
+Only visible after play
+Only visible before play
+Only visible before player ready to play
+Only visible when player ready to play
+Only visible when scrolling up
+Only when slider in view
+Open Popup
+Open and scroll to accordion item if URL hash matches accordion item ID
+Open in New Tab
+Open menu
+Open on direct hover only
+Open on hash link
+Open on hover nearby
+Open search
+Open via URL parameter
+Option ID
+Option icons
+Optional
+Optionally add extra download options for the media
+
+Order pay
+Order received
+Orientation
+Overall height of slider. Required for for vertical sliders
+Overlap
+Overlay Header
+Overrides the show again settings until the user completes or cancels
+PIP
+Padding
+Padding behind the label
+Page Background
+Page Tour
+Page Tour Step
+Page exit intent
+Page parent
+Page type
+Pages to move
+Panorama Scene
+Panorama Viewer
+Panorama image
+Panorama viewer
+Parallax scroll effect
+Parent Menu Item ID
+Parent loop index
+Password Visibilty Icon
+Paste your key in the License Key field
+Pause
+Pause if scroll out of view
+Pause media player when slider moves
+Pause other players when playback starts
+Pending
+Pending payment
+Percentage distance from the bottom of viewport for animation to start
+Percentage distance from the top of viewport for animation to start
+Percentage of image visible
+Perspective
+Phone input
+Phone number
+Pie
+Placeholders, help text, and disabled field values.
+Placement
+Play
+Playback
+Playback position from end
+Playback position from start
+Player UI
+Player UI Type
+Player border radius
+Playing
+Playlist
+Playlist Behavior
+Playlist mode
+Playlists
+Plays video from start when user clicks play
+Playsinline
+Point
+Polite - Announce when convenient
+Popover
+Popover / Tooltips
+Popover Styling
+
+Popover closed
+Popover content
+Popover content here ..
+Popover opened
+Popover style
+Populate captions from %s
+Populate hotspots from query results or add manually below
+Populate rows with a query loop
+Populate table rows
+Popup Template
+Portal setting menus to footer
+Position
+Position above bottom controls
+
+Positioning
+Post ancestor
+Post category
+Post comment count
+Post publish date
+Post reading time
+Post should be in the same taxonomy term
+Post tag
+Post terms list
+Post type
+Posts page (blog)
+Preferred placement
+Preload number
+Present
+Preset 1 (CSS)
+Preset 2 (CSS)
+Preset 3 (SVG)
+Press Esc to close
+Prev
+Prev Year
+Prevent column from being sortable
+Prevent nested counters
+Prevent redirect for admins
+Prevent scroll when open
+Prevent text wrap
+Preview touch area
+Previous
+Previous Button
+Previous Slide
+Previous Year Button
+Previous item
+Previous slide
+Print
+Print color adjust
+Priority Category
+Pro Accordion
+Pro Alert
+Pro Countdown
+Pro OffCanvas
+Pro Slider
+Pro Slider Control
+Pro Slider Gallery
+Pro Slider Gallery Caption
+Pro Tabs
+Processing
+Product Category/Product Tag
+Product allows backorders
+Product cross-sells count
+Product has category
+Product has tag
+Product in cart
+Product in cart has a coupon applied
+Product in stock
+Product is downloadable
+Product is virtual
+Product on backorder
+Product rating
+Product type
+Product upsell count
+Product weight
+Product weight (%s)
+Progress Steps
+Progress circle
+Progressive Event Rendering
+Provide %s
+Provider controls
+Published during the last
+Pulse Effect
+Pulses
+QR Code
+Quality
+Quality Setting
+Quartile
+Query Loop Extras
+Radio - Button Type
+Radio Button Type
+Radio buttons
+Radio group
+Randomise order
+Range Slider
+
+Rating: %1$s out of %2$s stars
+Read More / Less
+Reading Progress Bar
+Recommended
+Recurrence rule
+Recurring Rules
+Redirect URL
+Redirect to search results page
+Refresh canvas after change if image stretched
+Refunded
+Regular
+Related Posts
+Relative to another element
+Relative to this element
+Release Wheel
+Release wheel event when slider reaches the end
+Remember User Progress
+Remember player settings
+Remove
+Remove accordion behavior at this breakpoint
+Remove current post/page title
+Remove item
+Remove prefix on front page
+Remove share buttons from print
+Removed from favorites
+Repeatable sections
+Repeater
+
+Replay
+Replayed after ending
+Required
+
+Reset Button
+Reset forms inside modal when closed
+Reset on play (when muted autoplay)
+Reshow
+Reshow poster image when paused
+Resizable columns
+Results
+Resumed
+Return focus to trigger on close
+Reverse dataset order
+Reverse on mouseout
+Reverse on second click
+Reverse order
+Rewind
+Rewind slider back to start when reaches end
+Right
+Right End
+Right Start
+Root margin
+Rotate
+Rotate 360
+Rotation
+Rotation speed in degrees per second (0 = disabled)
+Rounded
+Row height
+Row-reverse
+Rows
+Rows per page
+Rule Name
+Rule Value
+Saturday
+Save Button
+Save poster images locally
+Scene Configuration
+Scene identifier
+Scene link
+Scene title
+Schema markup
+Screen Reader Announcement
+Screen reader
+Screen reader label
+Scroll Distance
+Scroll To Target Elements
+Scroll and open tab via URL hash
+Scroll behavior
+Scroll distance
+Scroll sensitivity
+Scroll speeds
+Scroll to element
+Secondary elements such as a reset button.
+Seconds
+Seconds between each notification rotation
+Section Legend
+Security Settings
+See the docs for details on show/close alerts in your code
+See the docs for details on show/close notifications in your code
+See the docs for details on showing tours in your code
+Seek
+Seek Distance
+Seek backward
+Seek forward
+Seeked to new time
+Segment autoplay progress bar
+Segment gap
+Segment progress bar
+Select Menu..
+Select buttons
+Select copied text
+Select custom field
+Select custom post type
+Select days to hide
+Select dropdown
+Select form
+Select padding
+Select rule
+Select status
+Select template
+Select term
+Selected flag
+Selector inside offcanvas
+Selector of content area to print
+Selector of the slider to control
+Sequential
+Services
+Set dataset colors
+
+Set the opacity/transform for the button in for the hidden state
+
+Set to -1 to never hide controls
+Set to 0 to disable auto-dismiss.
+Settings
+Settings menu
+Settings menu items
+Settings saved successfully!
+Share
+Share on 
+Shop
+Shortcode Wrapper
+Show Footer Toolbar
+Show Header Toolbar
+Show again
+Show again on next visit
+Show again until completed
+Show again until user clicks dismiss
+Show captions by default when available
+Show confirmation dialog if canceling tour
+Show each button/link conditionally
+Show event end times
+Show event times
+Show icon on the left side of notification
+Show keyboard on iOS
+Show now indicator
+Show on every visit
+Show only first child element in builder
+Show remaining time
+Show scene titles
+Show step in center of viewport
+Show week numbers
+Show weekends
+Show/hide header row when header is in overlay mode
+Showing
+Shows current time line in timeline views
+Sibling
+Single button
+Single post
+Singular
+Site Breadcrumbs
+Skip that step
+Skip to next item with up/down keys
+Slide Data Attribute
+Slide Heights
+Slide Index
+Slide control length
+Slide control thickness
+Slide down
+Slide left
+Slide menu
+Slide right
+Slide up
+Slide widths
+Slider Color (lower track)
+Slider Color (upper track)
+Slider Thumb
+Slider chapter value
+Slider control
+Slider move
+Slider moved
+Slider moved to specific slide
+Slider progress
+Slider syncing
+Slider time value
+Slider to control
+Slides to move
+Slow down
+Small Font Size
+Small image displayed before panorama image loads
+Snap to closest slide
+Social Share
+Sort column as dates
+Sort column as numbers
+Sortable columns
+Space between elements
+Space from edge of viewport
+Spacer
+Special
+Specific item expand
+Specific selector
+Speed
+Speed up
+Splide lazy load
+Stack columns
+Stack columns vertically at breakpoint
+Stack on top
+Stack vertically
+Stagger animation delays
+Star Rating
+Start Date/Time
+Start as paused
+Start frame
+Start time URL parameter
+Start when top of container reaches..
+Started
+Static Page
+Step Button
+Step ID
+Step Popover Styling
+Step content..
+Step hidden
+Step shown
+Step to return to
+Stream type
+Strip HTML tags
+Styling UI
+Sub menu text indent
+Submission error
+Submission failed
+Submission success
+Subtitles
+Suggested Max
+Suggested Min
+Summary
+Sun ray distance
+Sun ray size
+Sunday
+Support horizontal for slider
+Support lazy load
+Swipe down
+Swipe left
+Swipe right
+Swipe up
+Switch
+Switch content
+Switch pricing
+Switch tabs
+Switch the keyboard navigration to use Up/Down for vertical tabs
+Switch to new item
+Switch to specific item
+Switched
+Switched media
+Switched to
+Switched to accordion
+Switched to tabs
+Sync burger triggers
+System
+System icon
+T&Cs
+Tab Content Item
+Tab Panel
+Tab content here
+Tab selection on hover
+Table head
+Table head scope
+Table of Contents
+Table of contents
+Tabs Content
+Tabs list
+Tag archive
+Taxonomy adjacent posts must have in common.
+Taxonomy archive
+Template
+Tension
+Text (max. reached)
+Text Track
+Text Tracks
+Text color
+Text only
+Text to copy
+
+The duration (%s) before accepting next wheel
+The number of slides to move at once
+
+
+The selector of the target elements
+The touchable size of the control on touch devices for dragging
+Thickness
+This appears to be an invalid license key for %s.
+This element must be placed inside of a Toast element.
+This element must be placed inside of an Image Hotspot element.
+This element should be placed inside of the Media Player
+This element should be placed outside of the Pro Slider
+Thumbnails
+Thursday
+Tick mark
+Tilt hover effect
+Time Measurement
+Time inactive
+Time slider
+Time slider value
+Time slot duration
+Time to scroll to when timeline views load
+Timeline Item
+Timeline end time
+Timeline start time
+Timeline views
+Title
+Titles
+Toast
+Toast Notification
+Today
+Today Background
+Today Button
+Toggle
+Toggle Switch
+Toggle aria-label
+Toggle captions
+Toggle fullscreen
+Toggle icon
+Toggle mute
+Toggle picture-in-picture
+Toggle popover
+Toggle switch
+Token Expiry Time
+Token Expiry Time (seconds)
+Tolerance
+Too many requests
+Tooltip position
+Tooltip text
+Tooltips
+Tooltips will first need to enabled in the media player settings
+Top Center
+Top End
+Top Left
+Top Level Items Only
+Top Right
+Top Start
+Top controls
+Top of viewport
+Total slides
+Touch device instructions text
+Touch size
+Trap focus
+Triggers
+Triggers and Actions for elements
+Triggers to show modal
+Triggers to show notification
+Trim space
+Trim spaces before and after the slider
+True
+Truncate title (Max characters)
+Tuesday
+Two labels and switch
+Type
+Type 1
+Type 2
+Typography
+UI
+UI type
+URL
+URL hash navigation
+URL parameter includes
+URL to Share
+Under content
+Unique identifier for this download (use in download button settings)
+
+Units for values
+Unmute
+Until Date
+Use %s + scroll to zoom
+Use %s for current menu ID if inside menu query.
+Use as tooltip
+Use dynamic data
+Use dynamic data tags to pull from custom fields
+Use dynamic tags inside of the template to show post-specific data
+Use heading text
+Use native fullscreen where available
+Use negative number to reverse
+
+Use query loop for..
+Use the Filter Search element inside this element
+Use this column to control the initial sort order
+Use two fingers to navigate
+Use {x_color_scheme} as placeholder for the current mode label
+
+User Interaction
+User access
+User belongs to
+User belongs to 
+User does not belong to
+User has active membership
+User has order with status
+User has paid membership
+User has pending order
+User has subscription
+User just purchased FluentCart product
+User just purchased product
+User membership
+User membership ID
+User purchased current product
+User purchased download
+User purchased download ID
+User purchased product
+User purchased product ID
+User settings stored in browser storage
+User subscription
+User subscription ID
+
+Users selections saves in user meta
+Users selections saves in user meta, logged out user saved as cookie
+Validate fail
+Validation Errors
+Value Y Offset
+Value display
+Value offset
+Value range
+Values
+Values from all datasets in single tooltip
+Values from nearest dataset in separate tooltips
+Vertical (above)
+Vertical (below)
+Vertical position
+Vertical split
+Video Library ID
+Video buffering
+Video loaded
+Video opacity (when controls show)
+Video played
+View transition
+Viewer
+Viewer Settings
+Views
+Visibility in overlay header
+Visibility in sticky header
+Visitor
+Volume
+Volume down
+Volume slider
+Volume up
+Volume value
+WP Menu
+WPGB Facets
+Wait for exit fullscreen then allow
+Warning messages
+Waveform
+We recommend keeping the speed between -5 and +5
+Wednesday
+Week
+Week Button
+Week Grid
+Week List
+Week Start
+Week Timeline
+Wheel sleep
+When cursor passes over any of the chosen hover selectors (above).
+When hovering over elements with a %s attribute.
+When ready to play
+When target elements not found:
+When visible
+When visible (lazy)
+When visible in viewport
+Where there is enough space
+Window Event
+Wishlist
+Within the same component
+Within the same section
+X-Ray Mode
+Year
+Year Button
+Year List
+Yearly
+Your license is not active for this URL.
+Your license key expired on %s.
+Your license key has been disabled.
+Your license key has reached its activation limit.
+Zoom in
+Zoom out
+all-day
+aria-label
+arrow
+arrow-alt
+arrowturn
+boring
+breadcrumbs
+carousel
+collapse
+cost
+elastic
+every
+for this post type
+has not purchased
+has purchased
+in the past
+is in the future
+is in the past
+is today
+items
+minus
+next
+next year
+of
+popover
+prev
+prev year
+sequence pattern
+slider
+squeeze
+thankyou page
+to
+today
+visitor
+vortex
