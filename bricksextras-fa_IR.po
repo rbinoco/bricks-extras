@@ -1,0 +1,7177 @@
+# Copyright (C) 2026 BricksExtras
+# This file is distributed under the same license as the BricksExtras plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: BricksExtras\n"
+"Report-Msgid-Bugs-To: https://bricksextras.com\n"
+"POT-Creation-Date: 2026-05-04 06:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-06-15 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: bricksextras\n"
+"Language: fa-IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.8.5; wp-7.0; php-8.1.34"
+
+#. %s is the plugin name (e.g., WooCommerce).
+#: includes/BricksExtrasConditions.php:129
+msgid "%s Conditions"
+msgstr "%s شرایط"
+
+#: components/classes/x-favorite.php:623
+msgid "(touch devices)"
+msgstr "(دستگاه های لمسی)"
+
+#: includes/BricksExtrasConditions.php:1295
+msgid "1 month"
+msgstr "1 ماه"
+
+#: includes/BricksExtrasConditions.php:1296
+msgid "1 year"
+msgstr "1 سال"
+
+#: components/classes/x-pro-slider.php:228
+msgid "A slide height must be set for this to apply"
+msgstr "برای اعمال این گزینه باید ارتفاع اسلاید تنظیم شود"
+
+#: components/classes/x-pro-slider.php:409
+msgid "A slider height or aspect-ratio must be set for vertical sliders"
+msgstr "برای اسلایدرهای عمودی باید ارتفاع یا نسبت ابعاد تنظیم شود"
+
+#: includes/WPGridBuilderStyler.php:386
+msgid "A-Z index"
+msgstr "نمایه الفبایی"
+
+#: includes/Plugin.php:240
+msgid "API keys"
+msgstr "کلیدهای API"
+
+#: components/classes/x-color-scheme-toggle.php:728
+msgid "Above"
+msgstr "بالا"
+
+#: components/classes/x-media-control.php:494 
+#: components/classes/x-media-control.php:2922 
+#: components/traits/media-player-trait.php:463 
+#: components/traits/media-player-trait.php:1172
+msgid "Accessibility"
+msgstr "دسترسی‌پذیری"
+
+#: components/classes/x-pro-accordion.php:929 
+#: components/classes/x-pro-accordion.php:1035
+msgid "Accordion Item"
+msgstr "آیتم آکوردئون"
+
+#: includes/BricksExtrasInteractions.php:484
+msgid "Accordion Item Index"
+msgstr "شاخص آیتم آکوردئون"
+
+#: components/classes/x-tabs.php:992 components/classes/x-tabs.php:1092
+msgid "Accordion Toggle"
+msgstr "تغییر وضعیت آکوردئون"
+
+#: includes/BricksExtrasInteractions.php:207
+msgid "Accordion collapse"
+msgstr "بستن آکوردئون"
+
+#: includes/BricksExtrasInteractions.php:188
+msgid "Accordion expand"
+msgstr "بازکردن آکوردئون"
+
+#: components/classes/x-pro-accordion.php:948 
+#: components/classes/x-pro-accordion.php:1044
+msgid "Accordion header"
+msgstr "سربرگ آکوردئون"
+
+#: components/classes/x-dynamic-chart.php:938
+msgid "Accuracy"
+msgstr "دقت"
+
+#: includes/BricksExtrasLicense.php:313
+msgid "Activate License"
+msgstr "فعال‌سازی مجوز"
+
+#: components/classes/x-pro-slider.php:280
+msgid "Adapt slider height to current slide height"
+msgstr "تطبیق ارتفاع اسلایدر با ارتفاع اسلاید فعلی"
+
+#: components/classes/x-pro-slider.php:287
+msgid "Adaptive height at this breakpoint"
+msgstr "ارتفاع تطبیقی در این نقطه شکست"
+
+#. %s is the ARIA attribute name
+#: components/classes/x-offcanvas-nestable.php:438 
+#: components/classes/x-offcanvas.php:448 
+#: components/classes/x-pro-modal-nestable.php:223 
+#: components/classes/x-pro-modal.php:259
+msgid "Add %s to trigger"
+msgstr "اضافه کردن %s به فعال‌کننده"
+
+#: components/classes/x-image-hotspots.php:164
+msgid "Add Markers"
+msgstr "اضافه کردن نشانگرها"
+
+#: components/classes/x-media-playlist.php:565 
+#: components/traits/media-player-trait.php:4359
+msgid "Add chapters with query loop"
+msgstr "افزودن فصل‌ها با حلقه پرسش"
+
+#: components/classes/x-fluent-form.php:162 
+#: components/classes/x-ws-forms.php:267
+msgid "Add form ID dynamically"
+msgstr "افزودن شناسه فرم به صورت پویا"
+
+#: includes/BricksExtrasInteractive.php:402
+msgid "Add glare"
+msgstr "افزودن درخشندگی"
+
+#: components/classes/x-favorite.php:1556
+msgid "Add item to favorite"
+msgstr "اضافه کردن آیتم به علاقه‌مندی‌ها"
+
+#: components/classes/x-pro-slider.php:709
+msgid "Add loop fade effect"
+msgstr "اضافه کردن اثر محو حلقه"
+
+#: components/classes/x-dynamic-table.php:141
+msgid "Add rows & cells manually"
+msgstr "اضافه کردن سطرها و سلول‌ها به صورت دستی"
+
+#: components/classes/x-dynamic-table.php:400
+msgid ""
+"settings."
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:183
+msgid "Add the required number of columns"
+msgstr "تعداد ستون‌های مورد نیاز را اضافه کنید"
+
+#: components/classes/x-favorite.php:224 components/classes/x-favorite.php:582 
+#: components/classes/x-favorite.php:1565
+msgid "Add to favorites"
+msgstr "اضافه کردن به علاقه‌مندی‌ها"
+
+#: components/classes/x-favorite.php:595
+msgid "Added to favorite"
+msgstr "به علاقه‌مندی افزوده شد"
+
+#: components/classes/x-favorite.php:1563 
+#: components/classes/x-favorite.php:1874
+msgid "Added to favorites"
+msgstr "به علاقه‌مندی‌ها افزوده شد"
+
+#: includes/BricksExtrasQueryLoop.php:430
+msgid "Added to list"
+msgstr "به لیست افزوده شد"
+
+#: includes/BricksExtrasQueryLoop.php:124
+msgid "Adjacent Post"
+msgstr "نوشته مجاور"
+
+#: includes/BricksExtrasQueryLoop.php:200
+msgid "Adjacent Post Order"
+msgstr "ترتیب نوشته مجاور"
+
+#: includes/BricksExtrasHelpers.php:290 includes/BricksExtrasQueryLoop.php:95
+msgid "Adjacent Posts"
+msgstr "نوشته‌های مجاور"
+
+#: components/classes/x-before-after-image.php:483 
+#: components/classes/x-before-after-image.php:811
+msgid "After"
+msgstr "بعد"
+
+#: components/classes/x-notification-bar.php:194
+msgid "After dismissal, show again after:"
+msgstr "پس از رفع، دوباره نمایش دهید بعد از:"
+
+#: components/classes/x-media-control.php:607 
+#: components/traits/media-player-trait.php:532
+msgid "After first play"
+msgstr "بعد از اولین پخش"
+
+#: includes/BricksExtrasInteractions.php:146
+msgid "Alert closed"
+msgstr "هشدار بسته شد"
+
+#: includes/BricksExtrasInteractions.php:145
+msgid "Alert shown"
+msgstr "هشدار نمایش داده شد"
+
+#: includes/BricksExtrasQueryLoop.php:380 
+#: includes/BricksExtrasQueryLoop.php:385
+msgid "All Items"
+msgstr "تمام آیتم‌ها"
+
+#: includes/BricksExtrasInteractions.php:67
+msgid "All items cleared"
+msgstr "تمام آیتم‌ها پاک شدند"
+
+#: components/classes/x-favorite.php:133
+msgid "All users"
+msgstr "تمام کاربران"
+
+#: components/classes/x-calendar.php:209
+msgid "All-Day Event?"
+msgstr "رویداد تمام روز؟"
+
+#: components/classes/x-calendar.php:1009
+msgid "All-Day Text"
+msgstr "متن تمام روز"
+
+#: components/classes/x-dynamic-lightbox.php:474
+msgid "Allow ID styling to be added"
+msgstr "اجازه دهید سبک‌سازی شناسه اضافه شود"
+
+#: includes/BricksExtrasInteractions.php:341
+msgid "Allow action while player is fullscreen"
+msgstr "اجازه اقدام زمانی که پخش‌کننده تمام صفحه است"
+
+#: components/classes/x-calendar.php:221
+msgid "Allow events to repeat"
+msgstr "اجازه تکرار رویدادها"
+
+#: components/classes/x-tabs.php:411
+msgid "Allow keyboard navigation to inactive tabs"
+msgstr "اجازه ناوبری صفحه‌کلید به برگه‌های غیرفعال"
+
+#: components/classes/x-media-playlist.php:708 
+#: components/traits/media-player-trait.php:4651
+msgid "Allow multiple sources"
+msgstr "اجازه دهید منابع متعدد"
+
+#: components/classes/x-page-tour.php:939
+msgid "Allow target element to be clicked"
+msgstr "اجازه کلیک بر روی عنصر هدف"
+
+#: components/classes/x-qr-code.php:160
+msgid "Alphanumeric"
+msgstr "الفبای‌عددی"
+
+#: components/classes/x-content-timeline.php:218
+msgid "Alternating layout"
+msgstr "طرح بندی متناوب"
+
+#: components/classes/x-table-of-contents.php:218
+msgid "Always closed on page load"
+msgstr "همیشه بسته شده در بارگذاری صفحه"
+
+#: includes/BricksExtrasLicense.php:395 includes/BricksExtrasLicense.php:439 
+#: includes/BricksExtrasLicense.php:587
+msgid "An error occurred, please try again."
+msgstr "خطایی رخ داده است، لطفاً دوباره سعی کنید."
+
+#: components/classes/x-dynamic-chart.php:1218
+msgid "Anchor"
+msgstr "لنگر"
+
+#: components/classes/x-copy-to-clipboard.php:223 
+#: components/classes/x-copy-to-clipboard.php:228
+msgid "Animated checkmark"
+msgstr "علامت تیک متحرک"
+
+#: components/classes/x-color-scheme-toggle.php:768
+msgid "Animation scale"
+msgstr "مقیاس انیمیشن"
+
+#: components/classes/x-color-scheme-toggle.php:751
+msgid "Animation translate Y"
+msgstr "ترجمه Y انیمیشن"
+
+#: components/classes/x-media-control.php:498 
+#: components/classes/x-media-control.php:503 
+#: components/classes/x-media-control.php:2923 
+#: components/traits/media-player-trait.php:466 
+#: components/traits/media-player-trait.php:470 
+#: components/traits/media-player-trait.php:1173
+msgid "Announcements"
+msgstr "اعلان‌ها"
+
+#: components/traits/media-player-trait.php:2465 
+#: components/traits/media-player-trait.php:4705
+msgid "Announcer"
+msgstr "گوینده"
+
+#: includes/BricksExtrasConditions.php:2568
+msgid "Any status"
+msgstr "هر وضعیتی"
+
+#: components/classes/x-popover.php:632
+msgid "Append to body"
+msgstr "اضافه کردن به بدنه"
+
+#: includes/BricksExtrasHelpers.php:320
+msgid "Archive type"
+msgstr "نوع بایگانی"
+
+#: components/classes/x-page-tour.php:995 
+#: components/classes/x-page-tour.php:1165
+msgid "Are you sure you want to exit the tour?"
+msgstr "آیا مطمئن هستید که می‌خواهید از تور خارج شوید؟"
+
+#: components/classes/x-panorama-viewer.php:299
+msgid "Aria Labels"
+msgstr "برچسب‌های Aria"
+
+#: components/classes/x-panorama-scene.php:179 
+#: components/classes/x-panorama-scene.php:307
+msgid "Aria label"
+msgstr "برچسب Aria"
+
+#: components/classes/x-ws-forms.php:1745
+msgid "Arrow"
+msgstr "فلش"
+
+#: components/classes/x-toggle-switch.php:804
+msgid "Arrow Key Navigation"
+msgstr "ناوبری با کلیدهای فلش"
+
+#: components/classes/x-media-control.php:130 
+#: components/classes/x-media-playlist.php:236 
+#: components/traits/media-player-trait.php:161 
+#: components/traits/media-player-trait.php:1937 
+#: components/traits/media-player-trait.php:3639
+msgid "Artist"
+msgstr "هنرمند"
+
+#: components/classes/x-calendar.php:677
+msgid "Aspect Ratio"
+msgstr "نسبت ابعاد"
+
+#: components/classes/x-toast-notification.php:419
+msgid "Assertive - Interrupt to announce immediately"
+msgstr "تاکیدی - وقفه برای اعلام فوری"
+
+#: components/classes/x-fluent-form.php:336 
+#: components/classes/x-ws-forms.php:1442
+msgid "Asterisk"
+msgstr "ستاره‌ای"
+
+#: includes/BricksExtrasConditions.php:1801
+msgid "At least 1 entry exists"
+msgstr "حداقل 1 ورودی وجود دارد"
+
+#: includes/BricksExtrasConditions.php:678 includes/BricksExtrasHelpers.php:324
+msgid "At least one search result"
+msgstr "حداقل یک نتیجه جستجو"
+
+#: includes/BricksExtrasDynamicTags.php:135
+msgid "Attachment Alt Text"
+msgstr "متن جایگزین پیوست"
+
+#: includes/BricksExtrasDynamicTags.php:155
+msgid "Attachment Caption"
+msgstr "عنوان پیوست"
+
+#: includes/BricksExtrasDynamicTags.php:150
+msgid "Attachment Description"
+msgstr "توضیحات پیوست"
+
+#: includes/BricksExtrasDynamicTags.php:145
+msgid "Attachment File URL"
+msgstr "URL فایل پیوست"
+
+#: includes/BricksExtrasDynamicTags.php:140
+msgid "Attachment Title"
+msgstr "عنوان پیوست"
+
+#: includes/BricksExtrasMain.php:333
+msgid "Audio"
+msgstr "صوتی"
+
+#: includes/BricksExtrasConditions.php:1100
+msgid "Author archive"
+msgstr "بایگانی نویسنده"
+
+#: includes/BricksExtrasConditions.php:1777 
+#: includes/BricksExtrasHelpers.php:328
+msgid "Author has CPT entry"
+msgstr "نویسنده دارای ورودی CPT است"
+
+#: includes/BricksExtrasHelpers.php:332
+msgid "Authored by logged in user"
+msgstr "نوشته شده توسط کاربر وارد شده"
+
+#: includes/BricksExtrasConditions.php:736
+msgid "Authored by logged-in user"
+msgstr "نوشته شده توسط کاربر وارد شده"
+
+#: components/classes/x-calendar.php:793
+msgid "Auto"
+msgstr "خودکار"
+
+#: components/classes/x-copy-to-clipboard.php:396 
+#: components/classes/x-favorite.php:700 
+#: components/classes/x-image-hotspots.php:696 
+#: components/classes/x-popover.php:558
+msgid "Auto End"
+msgstr "پایان خودکار"
+
+#: components/classes/x-copy-to-clipboard.php:395 
+#: components/classes/x-favorite.php:699 
+#: components/classes/x-image-hotspots.php:695 
+#: components/classes/x-popover.php:557
+msgid "Auto Start"
+msgstr "شروع خودکار"
+
+#: components/traits/media-player-trait.php:4677
+msgid "Auto pause"
+msgstr "توقف خودکار"
+
+#: components/classes/x-panorama-scene.php:353 
+#: components/classes/x-panorama-viewer.php:186
+msgid "Auto rotate speed"
+msgstr "سرعت چرخش خودکار"
+
+#: components/classes/x-pro-slider.php:1789
+msgid "Auto scroll"
+msgstr "لغزش خودکار"
+
+#: components/traits/media-player-trait.php:4749
+msgid "Auto-detect language"
+msgstr "تشخیص خودکار زبان"
+
+#: components/traits/media-player-trait.php:4757
+msgid "Auto-enable captions"
+msgstr "فعال‌سازی خودکار زیرنویس"
+
+#: components/classes/x-page-tour.php:1051
+msgid "Auto-resume on page load"
+msgstr "ادامه خودکار در بارگذاری صفحه"
+
+#: components/classes/x-table-of-contents.php:854
+msgid "Automatically add unique IDs to headings"
+msgstr "اضافه کردن خودکار شناسه‌های منحصر به فرد به سرفصل‌ها"
+
+#: components/classes/x-page-tour.php:554
+msgid "Automatically hide custom buttons"
+msgstr "پنهان کردن خودکار دکمه‌های سفارشی"
+
+#: components/classes/x-header-search.php:383
+msgid "Automatically open keyboard when search opens"
+msgstr "باز کردن خودکار صفحه‌کلید هنگام باز شدن جستجو"
+
+#: components/traits/media-player-trait.php:4750
+msgid "Automatically select captions matching site language"
+msgstr "انتخاب خودکار زیرنویس‌های منطبق با زبان سایت"
+
+#: components/classes/x-pro-slider-control.php:1703
+msgid "Autoplay progress"
+msgstr "پیشرفت پخش خودکار"
+
+#: components/classes/x-dynamic-lightbox.php:277
+msgid "Autoplay video"
+msgstr "پخش خودکار ویدیو"
+
+#: components/traits/media-player-trait.php:4599
+msgid "Autoplay when modal reopens"
+msgstr "پخش خودکار هنگام بازگشایی مودال"
+
+#: components/classes/x-dynamic-chart.php:103
+msgid "Axes"
+msgstr "محورها"
+
+#: components/classes/x-page-tour.php:663 
+#: components/classes/x-panorama-viewer.php:345
+msgid "Back"
+msgstr "بازگشت"
+
+#: includes/BricksExtrasMain.php:224
+msgid "Back to Top"
+msgstr "بازگشت به بالا"
+
+#: components/classes/x-dynamic-lightbox.php:336 
+#: components/classes/x-offcanvas-nestable.php:89 
+#: components/classes/x-offcanvas-nestable.php:389 
+#: components/classes/x-offcanvas.php:83 
+#: components/classes/x-offcanvas.php:399 
+#: components/classes/x-pro-modal-nestable.php:121 
+#: components/classes/x-pro-modal.php:112
+msgid "Backdrop"
+msgstr "پس‌زمینه"
+
+#: components/classes/x-calendar.php:1317
+msgid "Background Event Color"
+msgstr "رنگ رویداد پس‌زمینه"
+
+#: components/classes/x-calendar.php:1330
+msgid "Background Event Opacity"
+msgstr "کدری رویداد پس‌زمینه"
+
+#: components/classes/x-toast-notification.php:248 
+#: components/classes/x-toast-notification.php:340 
+#: includes/WPGridBuilderStyler.php:259
+msgid "Background color"
+msgstr "رنگ پس‌زمینه"
+
+#: components/classes/x-before-after-image.php:473 
+#: components/classes/x-before-after-image.php:810
+msgid "Before"
+msgstr "قبل"
+
+#: components/classes/x-before-after-image.php:64 
+#: includes/BricksExtrasMain.php:229
+msgid "Before / After Image"
+msgstr "تصویر قبل / بعد"
+
+#: components/classes/x-media-control.php:606 
+#: components/traits/media-player-trait.php:531
+msgid "Before first play"
+msgstr "قبل از اولین پخش"
+
+#: components/classes/x-media-control.php:609 
+#: components/traits/media-player-trait.php:534
+msgid "Before ready to play"
+msgstr "قبل از آمادگی برای پخش"
+
+#: components/classes/x-dynamic-chart.php:855
+msgid "Begin At Zero"
+msgstr "شروع در صفر"
+
+#: components/classes/x-copy-to-clipboard.php:101 
+#: components/classes/x-header-search.php:105 
+#: components/classes/x-image-hotspot-marker.php:96 
+#: components/classes/x-image-hotspots.php:108 
+#: components/classes/x-popover.php:91 components/classes/x-tabs.php:98
+msgid "Behavior"
+msgstr "رفتار"
+
+#: components/classes/x-color-scheme-toggle.php:727 
+#: components/classes/x-color-scheme-toggle.php:730
+msgid "Below"
+msgstr "پایین"
+
+#: components/classes/x-header-search.php:135
+msgid "Below header"
+msgstr "زیر سرصفحه"
+
+#: components/classes/x-calendar.php:794
+msgid "Block"
+msgstr "مسدود کردن"
+
+#: includes/BricksExtrasConditions.php:1629 
+#: includes/BricksExtrasHelpers.php:336
+msgid "Body classes"
+msgstr "کلاس‌های بدنه"
+
+#: components/classes/x-toast-notification.php:262 
+#: components/classes/x-toast-notification.php:354
+msgid "Border"
+msgstr "حاشیه"
+
+#: components/classes/x-dynamic-chart.php:539 
+#: components/classes/x-dynamic-chart.php:1335
+msgid "Border radius"
+msgstr "شعاع حاشیه"
+
+#: components/classes/x-toast.php:123
+msgid "Bottom Center"
+msgstr "پایین مرکز"
+
+#. Popover positioning: bottom-right corner
+#: components/classes/x-copy-to-clipboard.php:402 
+#: components/classes/x-favorite.php:706 
+#: components/classes/x-image-hotspots.php:702 
+#: components/classes/x-media-control.php:117 
+#: components/classes/x-page-tour-step.php:117 
+#: components/classes/x-popover.php:564 
+#: components/traits/media-player-trait.php:156 
+#: components/traits/media-player-trait.php:1815
+msgid "Bottom End"
+msgstr "پایان پایین"
+
+#: components/classes/x-toast.php:122
+msgid "Bottom Left"
+msgstr "پایین چپ"
+
+#: components/classes/x-toast.php:124
+msgid "Bottom Right"
+msgstr "پایین راست"
+
+#. Popover positioning: bottom-left corner
+#: components/classes/x-copy-to-clipboard.php:401 
+#: components/classes/x-favorite.php:705 
+#: components/classes/x-image-hotspots.php:701 
+#: components/classes/x-media-control.php:116 
+#: components/classes/x-page-tour-step.php:116 
+#: components/classes/x-popover.php:563 
+#: components/traits/media-player-trait.php:155 
+#: components/traits/media-player-trait.php:1814
+msgid "Bottom Start"
+msgstr "شروع پایین"
+
+#: components/classes/x-media-player-audio.php:452 
+#: components/classes/x-media-player.php:333 
+#: components/classes/x-media-player.php:561
+msgid "Bottom controls"
+msgstr "کنترل‌های پایین"
+
+#: components/classes/x-dynamic-lightbox.php:1039 
+#: components/classes/x-dynamic-lightbox.php:1043 
+#: components/classes/x-reading-progress-bar.php:112 
+#: components/classes/x-reading-progress-bar.php:124 
+#: components/classes/x-reading-progress-bar.php:126
+msgid "Bottom of viewport"
+msgstr "پایین دید‌پنجره"
+
+#: components/classes/x-toast-notification.php:276 
+#: components/classes/x-toast-notification.php:368
+msgid "Box shadow"
+msgstr "سایه جعبه"
+
+#: components/classes/x-breadcrumbs.php:195
+msgid "Breadcrumb links"
+msgstr "پیوندهای ردپای نان"
+
+#: components/classes/x-breadcrumbs.php:143
+msgid "Breadcrumbs source"
+msgstr "منبع ردپای نان"
+
+#: components/classes/x-pro-slider-gallery.php:452
+msgid "Bricks Lazy load"
+msgstr "بارگذاری تنبل Bricks"
+
+#: components/traits/media-player-trait.php:3793
+msgid "Buffered"
+msgstr "ذخیره‌سازی موقت"
+
+#: components/classes/x-image-hotspots.php:129 
+#: components/classes/x-image-hotspots.php:132
+msgid "Built-in Hotspots"
+msgstr "نقاط داغ تعبیه‌شده"
+
+#: components/classes/x-burger-trigger.php:49 includes/BricksExtrasMain.php:234
+msgid "Burger Trigger"
+msgstr "فعال‌کننده منو"
+
+#: components/classes/x-burger-trigger.php:134
+msgid "Burger line border radius"
+msgstr "شعاع حاشیه خط منو"
+
+#: components/classes/x-calendar.php:1199
+msgid "Button Active Background"
+msgstr "پس‌زمینه دکمه فعال"
+
+#: components/classes/x-calendar.php:1212
+msgid "Button Active Border"
+msgstr "حاشیه دکمه فعال"
+
+#: components/classes/x-calendar.php:1147
+msgid "Button Background"
+msgstr "پس‌زمینه دکمه"
+
+#: components/classes/x-calendar.php:1160
+msgid "Button Border"
+msgstr "حاشیه دکمه"
+
+#: components/classes/x-calendar.php:1173
+msgid "Button Hover Background"
+msgstr "پس‌زمینه عبور دکمه"
+
+#: components/classes/x-calendar.php:1186
+msgid "Button Hover Border"
+msgstr "حاشیه عبور دکمه"
+
+#: components/classes/x-calendar.php:1134
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: includes/BricksExtrasInteractions.php:51
+msgid "Button reset"
+msgstr "بازنشانی دکمه"
+
+#: components/classes/x-calendar.php:1127
+msgid "Buttons"
+msgstr "دکمه‌ها"
+
+#: components/classes/x-calendar.php:244
+msgid "By Day of Month"
+msgstr "بر اساس روز ماه"
+
+#: components/classes/x-calendar.php:242
+msgid "By Day of Week"
+msgstr "بر اساس روز هفته"
+
+#: components/classes/x-calendar.php:245
+msgid "By Day of Year"
+msgstr "بر اساس روز سال"
+
+#: components/classes/x-calendar.php:247
+msgid "By Hour"
+msgstr "بر اساس ساعت"
+
+#: components/classes/x-calendar.php:248
+msgid "By Minute"
+msgstr "بر اساس دقیقه"
+
+#: components/classes/x-calendar.php:243
+msgid "By Month"
+msgstr "بر اساس ماه"
+
+#: components/classes/x-calendar.php:250
+msgid "By Position"
+msgstr "بر اساس موقعیت"
+
+#: components/classes/x-calendar.php:249
+msgid "By Second"
+msgstr "بر اساس ثانیه"
+
+#: components/classes/x-calendar.php:246
+msgid "By Week Number"
+msgstr "بر اساس شماره هفته"
+
+#: components/classes/x-breadcrumbs.php:235
+msgid "Bypass internal caching"
+msgstr "دور زدن نهادن داخلی"
+
+#: components/classes/x-qr-code.php:161 components/classes/x-qr-code.php:164
+msgid "Byte"
+msgstr "بایت"
+
+#: includes/VideoProvidersPage.php:270
+msgid "CDN Token Key"
+msgstr "کلید توکن CDN"
+
+#: includes/BricksExtrasHelpers.php:372
+msgid "CPT has at least 1 published entry"
+msgstr "CPT حداقل 1 ورودی منتشر شده دارد"
+
+#: components/classes/x-calendar.php:63 includes/BricksExtrasMain.php:239
+msgid "Calendar"
+msgstr "تقویم"
+
+#: components/classes/x-calendar.php:1028
+msgid "Calendar UI"
+msgstr "رابط کاربری تقویم"
+
+#: components/classes/x-toast-notification.php:181
+msgid "Can be swiped away"
+msgstr "می‌تواند لغزانده شود"
+
+#: includes/BricksExtrasConditions.php:347 
+#: includes/BricksExtrasConditions.php:370 
+#: includes/BricksExtrasConditions.php:456 
+#: includes/BricksExtrasConditions.php:477 
+#: includes/BricksExtrasConditions.php:2154 
+#: includes/BricksExtrasInteractions.php:167
+msgid "Cancelled"
+msgstr "لغو شده"
+
+#: components/traits/media-player-trait.php:2842
+msgid "Caption Cues"
+msgstr "نشانه‌های زیرنویس"
+
+#: includes/VideoProvidersPage.php:228
+msgid "Caption Settings"
+msgstr "تنظیمات زیرنویس"
+
+#: components/classes/x-media-control.php:131 
+#: components/traits/media-player-trait.php:162
+msgid "Caption toggle"
+msgstr "تغییر وضعیت زیرنویس"
+
+#: components/classes/x-dynamic-lightbox.php:120 
+#: components/classes/x-dynamic-lightbox.php:1618 
+#: components/classes/x-media-control.php:507 
+#: components/classes/x-media-control.php:512 
+#: components/classes/x-media-control.php:2918 
+#: components/classes/x-media-playlist.php:653 
+#: components/classes/x-pro-slider-gallery.php:85 
+#: components/traits/media-player-trait.php:473 
+#: components/traits/media-player-trait.php:477 
+#: components/traits/media-player-trait.php:480 
+#: components/traits/media-player-trait.php:1166 
+#: components/traits/media-player-trait.php:4300
+msgid "Captions"
+msgstr "زیرنویس‌ها"
+
+#: components/classes/x-media-control.php:192
+msgid "Captions Off"
+msgstr "زیرنویس‌ها خاموش"
+
+#: components/classes/x-media-control.php:183
+msgid "Captions On"
+msgstr "زیرنویس‌ها روشن"
+
+#: includes/BricksExtrasHelpers.php:520
+msgid "Cart count"
+msgstr "تعداد سبد"
+
+#: includes/BricksExtrasConditions.php:1826 
+#: includes/BricksExtrasHelpers.php:524
+msgid "Cart empty"
+msgstr "سبد خالی است"
+
+#: includes/BricksExtrasHelpers.php:528 includes/BricksExtrasHelpers.php:532
+msgid "Cart total"
+msgstr "جمع سبد"
+
+#. %s is the currency code (e.g., USD).
+#: includes/BricksExtrasConditions.php:1972
+msgid "Cart total (%s)"
+msgstr "جمع سبد (%s)"
+
+#. %s is the currency code (e.g., USD).
+#: includes/BricksExtrasConditions.php:1993
+msgid "Cart total (%s) excl. shipping"
+msgstr "جمع سبد (%s) بدون حمل‌ونقل"
+
+#: includes/BricksExtrasHelpers.php:536
+msgid "Cart weight"
+msgstr "وزن سبد"
+
+#. %s is the weight unit (e.g., kg, lbs).
+#: includes/BricksExtrasConditions.php:2014
+msgid "Cart weight (%s)"
+msgstr "وزن سبد (%s)"
+
+#: includes/BricksExtrasConditions.php:1007 
+#: includes/BricksExtrasConditions.php:1097 
+#: includes/BricksExtrasHelpers.php:340
+msgid "Category archive"
+msgstr "بایگانی دسته‌بندی"
+
+#: components/classes/x-dynamic-table.php:414 
+#: components/classes/x-dynamic-table.php:415 
+#: components/classes/x-dynamic-table.php:1467 
+#: components/classes/x-dynamic-table.php:1482 
+#: components/classes/x-nestable-table.php:654 
+#: components/classes/x-nestable-table.php:671 
+#: components/classes/x-nestable-table.php:710 
+#: components/classes/x-nestable-table.php:727
+msgid "Cell"
+msgstr "سلول"
+
+#: components/classes/x-nestable-table.php:390
+msgid "Cell content on new line"
+msgstr "محتوای سلول در خط جدید"
+
+#: components/classes/x-dynamic-table.php:203
+msgid "Cell data for this column"
+msgstr "داده‌های سلول برای این ستون"
+
+#: components/classes/x-dynamic-table.php:1433 
+#: components/classes/x-nestable-table.php:492
+msgid "Cell inline padding"
+msgstr "آمادگی درونی سلول"
+
+#: components/classes/x-dynamic-table.php:408 
+#: components/classes/x-nestable-table.php:485
+msgid "Cells"
+msgstr "سلول‌ها"
+
+#: components/classes/x-color-scheme-toggle.php:743
+msgid "Center"
+msgstr "مرکز"
+
+#: components/classes/x-media-player-audio.php:416 
+#: components/classes/x-media-player.php:285 
+#: components/classes/x-media-player.php:504
+msgid "Center controls"
+msgstr "کنترل‌های مرکزی"
+
+#: components/classes/x-dynamic-chart.php:479
+msgid "Center cutout"
+msgstr "برش مرکزی"
+
+#: includes/ChangelogPage.php:27 includes/Plugin.php:242
+msgid "Changelog"
+msgstr "تغییرات"
+
+#: components/classes/x-media-playlist.php:584 
+#: components/traits/media-player-trait.php:4378
+msgid "Chapter"
+msgstr "فصل"
+
+#: components/classes/x-media-control.php:1893 
+#: components/classes/x-media-control.php:1975 
+#: components/traits/media-player-trait.php:3977 
+#: components/traits/media-player-trait.php:4059 
+#: components/traits/media-player-trait.php:4128
+msgid "Chapter menu items"
+msgstr "آیتم‌های منوی فصل"
+
+#: components/classes/x-media-control.php:133 
+#: components/traits/media-player-trait.php:164
+msgid "Chapter title"
+msgstr "عنوان فصل"
+
+#: components/classes/x-media-control.php:132 
+#: components/classes/x-media-control.php:444 
+#: components/classes/x-media-control.php:449 
+#: components/classes/x-media-control.php:1841 
+#: components/classes/x-media-control.php:3099 
+#: components/classes/x-media-player-audio.php:130 
+#: components/classes/x-media-player.php:151 
+#: components/classes/x-media-playlist.php:89 
+#: components/traits/media-player-trait.php:163 
+#: components/traits/media-player-trait.php:498 
+#: components/traits/media-player-trait.php:1030 
+#: components/traits/media-player-trait.php:4300
+msgid "Chapters"
+msgstr "فصل‌ها"
+
+#: components/classes/x-dynamic-chart.php:169 
+#: components/classes/x-dynamic-chart.php:1520
+msgid "Chart"
+msgstr "نمودار"
+
+#: components/classes/x-dynamic-chart.php:410
+msgid "Chart stacking"
+msgstr "انباشت نمودار"
+
+#: components/classes/x-dynamic-chart.php:98
+msgid "Chart style"
+msgstr "سبک نمودار"
+
+#: components/classes/x-fluent-form.php:95
+msgid "Checkable Grid"
+msgstr "شبکه قابل انتخاب"
+
+#: components/classes/x-ws-forms.php:1051
+msgid "Checkboxes, radios, range sliders, progress bars, and submit buttons."
+msgstr "چک‌باکس‌ها، دکمه‌های رادیویی، لغزنده‌های محدوده، نوار پیشرفت و دکمه‌های ارسال."
+
+#: components/classes/x-fluent-form.php:1653 
+#: components/classes/x-fluent-form.php:1666 
+#: components/classes/x-ws-forms.php:2928
+msgid "Checked"
+msgstr "انتخاب شده"
+
+#: includes/BricksExtrasQueryLoop.php:382
+msgid "Child Items of Parent"
+msgstr "آیتم‌های فرزند والد"
+
+#: components/classes/x-media-player.php:407
+msgid "Choose the starting layout for the player"
+msgstr "انتخاب طرح اولیه برای پخش‌کننده"
+
+#: components/classes/x-breadcrumbs.php:765
+msgid "Choose which taxonomy to display for each custom post type"
+msgstr "انتخاب کنید کدام تاکسونومی برای هر نوع نوشته سفارشی نمایش داده شود"
+
+#: components/classes/x-dynamic-chart.php:583
+msgid "Circumference"
+msgstr "محیط"
+
+#: components/classes/x-qr-code.php:194 components/classes/x-qr-code.php:228 
+#: components/classes/x-qr-code.php:258
+msgid "Classy"
+msgstr "شیک"
+
+#: components/classes/x-qr-code.php:195 components/classes/x-qr-code.php:229 
+#: components/classes/x-qr-code.php:259
+msgid "Classy Rounded"
+msgstr "شیک و گرد"
+
+#: components/classes/x-favorite.php:655 
+#: components/classes/x-favorite.php:1569 
+#: components/classes/x-favorite.php:1572
+msgid "Clear all"
+msgstr "پاک کردن همه"
+
+#: components/classes/x-ws-forms.php:2405
+msgid "Clear button"
+msgstr "دکمه پاک کردن"
+
+#: components/classes/x-page-tour.php:1067
+msgid "Clear progress on cancel"
+msgstr "پاک کردن پیشرفت در لغو"
+
+#: components/classes/x-favorite.php:268 components/classes/x-favorite.php:381 
+#: components/classes/x-favorite.php:668 components/classes/x-favorite.php:1570
+msgid "Cleared"
+msgstr "پاک شده"
+
+#: components/classes/x-dynamic-lightbox.php:419 
+#: components/classes/x-offcanvas-nestable.php:378 
+#: components/classes/x-offcanvas.php:388 
+#: components/classes/x-pro-modal-nestable.php:869 
+#: components/classes/x-pro-modal.php:796
+msgid "Click backdrop to close"
+msgstr "برای بستن بر روی پس‌زمینه کلیک کنید"
+
+#: components/classes/x-lottie.php:145
+msgid "Click on another element"
+msgstr "بر روی عنصر دیگری کلیک کنید"
+
+#: components/classes/x-lottie.php:144
+msgid "Click on this element"
+msgstr "بر روی این عنصر کلیک کنید"
+
+#: components/classes/x-page-tour.php:932
+msgid "Click overlay to exit tour"
+msgstr "برای خروج از تور بر روی پوشش کلیک کنید"
+
+#: components/classes/x-media-player.php:948
+msgid "Click to play"
+msgstr "برای پخش کلیک کنید"
+
+#: components/classes/x-offcanvas-nestable.php:242 
+#: components/classes/x-offcanvas.php:252
+msgid "Clicking hashlink will close"
+msgstr "کلیک بر روی hashlink بسته خواهد شد"
+
+#: components/classes/x-pro-slider.php:525
+msgid "Clip direction"
+msgstr "جهت برش"
+
+#: components/traits/media-player-trait.php:1969
+msgid "Clip end"
+msgstr "پایان برش"
+
+#: components/traits/media-player-trait.php:1957
+msgid "Clip start"
+msgstr "شروع برش"
+
+#: components/classes/x-header-search.php:1058
+msgid "Close Search"
+msgstr "بستن جستجو"
+
+#: components/classes/x-table-of-contents.php:224
+msgid "Close at this breakpoint"
+msgstr "بسته شود در این نقطه شکست"
+
+#: components/classes/x-countdown.php:196
+msgid "Close element"
+msgstr "عنصر بسته"
+
+#: components/classes/x-pro-modal-nestable.php:597 
+#: components/classes/x-pro-modal-nestable.php:1000 
+#: components/classes/x-pro-modal.php:522 
+#: components/classes/x-pro-modal.php:927
+msgid "Close modal"
+msgstr "بستن مودال"
+
+#: components/classes/x-offcanvas-nestable.php:344 
+#: components/classes/x-offcanvas.php:354
+msgid "Close other offcanvas"
+msgstr "بستن دیگر offcanvas"
+
+#: components/classes/x-media-control.php:195 
+#: components/classes/x-media-control.php:2795 
+#: components/traits/media-player-trait.php:1077
+msgid "Closed-Captions Off"
+msgstr "زیرنویس بسته خاموش"
+
+#: components/classes/x-media-control.php:186 
+#: components/classes/x-media-control.php:2794 
+#: components/traits/media-player-trait.php:1076
+msgid "Closed-Captions On"
+msgstr "زیرنویس بسته روشن"
+
+#: components/classes/x-table-of-contents.php:157
+msgid "Collapse depth"
+msgstr "عمق بستن"
+
+#: components/classes/x-pro-accordion.php:99
+msgid "Collapse in builder"
+msgstr "بستن در سازنده"
+
+#: includes/BricksExtrasInteractions.php:214
+msgid "Collapsing"
+msgstr "در حال بستن"
+
+#: components/classes/x-calendar.php:200
+msgid "Color"
+msgstr "رنگ"
+
+#: components/classes/x-color-scheme-toggle.php:56 
+#: includes/BricksExtrasMain.php:244
+msgid "Color Scheme Toggle"
+msgstr "تغییر وضعیت طرح رنگ"
+
+#: components/classes/x-color-scheme-toggle.php:189 
+#: components/classes/x-color-scheme-toggle.php:233 
+#: components/classes/x-color-scheme-toggle.php:1483 
+#: components/classes/x-color-scheme-toggle.php:1599 
+#: components/classes/x-color-scheme-toggle.php:1681 
+#: components/classes/x-color-scheme-toggle.php:1794 
+#: components/traits/media-player-trait.php:2027
+msgid "Color scheme"
+msgstr "طرح رنگ"
+
+#. %s is the placeholder for the color scheme mode.
+#: components/classes/x-color-scheme-toggle.php:1486
+msgid "Color scheme: %s."
+msgstr "طرح رنگ: %s."
+
+#. %s is the placeholder for the color scheme mode.
+#: components/classes/x-color-scheme-toggle.php:200
+msgid "Color scheme: %s. Click to toggle."
+msgstr "طرح رنگ: %s. برای تغییر وضعیت کلیک کنید."
+
+#: components/classes/x-color-scheme-toggle.php:1682 
+#: components/classes/x-color-scheme-toggle.php:1795
+msgid "Color scheme: {x_color_scheme}. Click to toggle."
+msgstr "طرح رنگ: {x_color_scheme}. برای تغییر وضعیت کلیک کنید."
+
+#: components/classes/x-table-of-contents.php:264
+msgid "Column count"
+msgstr "تعداد ستون"
+
+#: components/classes/x-dynamic-table.php:199 
+#: components/classes/x-dynamic-table.php:304
+msgid "Column heading"
+msgstr "سربرگ ستون"
+
+#: components/classes/x-dynamic-table.php:1388 
+#: components/classes/x-nestable-table.php:405
+msgid "Column labels"
+msgstr "برچسب‌های ستون"
+
+#: includes/BricksExtrasConditions.php:2153 
+#: includes/BricksExtrasInteractions.php:166
+msgid "Completed"
+msgstr "انجام شده"
+
+#: components/classes/x-ws-forms.php:1122
+msgid "Completed progress bars, save buttons, and success messages."
+msgstr "نوار پیشرفت انجام شده، دکمه‌های ذخیره و پیام‌های موفقیت."
+
+#: components/classes/x-copy-to-clipboard.php:151 
+#: components/classes/x-dynamic-lightbox.php:185 
+#: components/classes/x-offcanvas-nestable.php:130 
+#: components/classes/x-offcanvas.php:140 
+#: components/classes/x-page-tour.php:1029 
+#: components/classes/x-pro-modal-nestable.php:200 
+#: components/classes/x-pro-modal.php:236 
+#: components/classes/x-pro-slider-control.php:142 
+#: components/classes/x-pro-slider.php:1760 
+#: components/classes/x-toggle-switch.php:298 
+#: components/traits/media-player-trait.php:4815
+msgid "Component scope"
+msgstr "دامنه جزء"
+
+#: components/classes/x-pro-accordion.php:85 
+#: components/classes/x-pro-accordion.php:201
+msgid "Conditional accordion"
+msgstr "آکوردئون شرطی"
+
+#: components/classes/x-table-of-contents.php:89 
+#: components/classes/x-table-of-contents.php:185
+msgid "Conditional display"
+msgstr "نمایش شرطی"
+
+#: components/classes/x-pro-slider.php:149
+msgid "Conditional slider"
+msgstr "اسلایدر شرطی"
+
+#: includes/ConditionsPage.php:55 includes/Plugin.php:238
+msgid "Conditions"
+msgstr "شرایط"
+
+#: components/classes/x-media-player-audio.php:113 
+#: components/classes/x-media-player.php:126 
+#: components/classes/x-media-playlist.php:97
+msgid "Config"
+msgstr "پیکربندی"
+
+#: components/classes/x-breadcrumbs.php:81 
+#: components/classes/x-breadcrumbs.php:87
+msgid "Configure output"
+msgstr "پیکربندی خروجی"
+
+#: components/classes/x-pro-slider.php:167
+msgid "Configure the layout & behavior using the element ID, not a class"
+msgstr "پیکربندی طرح و رفتار با استفاده از شناسه عنصر، نه کلاس"
+
+#: components/classes/x-page-tour.php:985
+msgid "Confirm Cancel"
+msgstr "تایید لغو"
+
+#: components/classes/x-page-tour.php:993
+msgid "Confirm Cancel Message"
+msgstr "پیام تایید لغو"
+
+#: components/classes/x-content-switcher.php:57 
+#: includes/BricksExtrasMain.php:249
+msgid "Content Switcher"
+msgstr "تبدیل کننده محتوا"
+
+#: components/classes/x-content-timeline.php:56 
+#: includes/BricksExtrasMain.php:254
+msgid "Content Timeline"
+msgstr "خط زمانی محتوا"
+
+#: components/classes/x-content-switcher.php:127
+msgid "Content block"
+msgstr "بلوک محتوا"
+
+#: components/classes/x-dynamic-lightbox.php:1610
+msgid "Content from the link will appear here (images, videos or iFrame)"
+msgstr "محتوای پیوند در اینجا ظاهر خواهد شد (تصاویر، ویدیوها یا iFrame)"
+
+#: components/classes/x-content-timeline.php:884
+msgid "Content here"
+msgstr "محتوا در اینجا"
+
+#: components/classes/x-content-timeline.php:873
+msgid "Content inner"
+msgstr "درون محتوا"
+
+#: components/classes/x-toggle-switch.php:277
+msgid "Content switchers to control"
+msgstr "تبدیل کننده‌های محتوا برای کنترل"
+
+#: components/classes/x-dynamic-lightbox.php:1600
+msgid "Content will appear here."
+msgstr "محتوا در اینجا ظاهر خواهد شد."
+
+#: components/classes/x-pro-accordion.php:1001 
+#: components/classes/x-pro-accordion.php:1095
+msgid "Content wrapper"
+msgstr "بسته‌بندی محتوا"
+
+#: components/classes/x-toast-notification.php:209
+msgid "Context Icon"
+msgstr "نماد زمینه"
+
+#: components/classes/x-pro-slider.php:1789
+msgid "Continuous"
+msgstr "پیوسته"
+
+#: components/classes/x-media-player-audio.php:389 
+#: components/classes/x-media-player-audio.php:425 
+#: components/classes/x-media-player-audio.php:461 
+#: components/classes/x-media-player.php:243 
+#: components/classes/x-media-player.php:294 
+#: components/classes/x-media-player.php:342 
+#: components/classes/x-media-player.php:516 
+#: components/classes/x-media-player.php:574 
+#: components/classes/x-toggle-switch.php:91 
+#: components/classes/x-toggle-switch.php:707 
+#: components/classes/x-ws-forms.php:3033 
+#: components/traits/media-player-trait.php:188
+msgid "Control"
+msgstr "کنترل"
+
+#: components/classes/x-media-control.php:1443 
+#: components/traits/media-player-trait.php:3723
+msgid "Control height"
+msgstr "ارتفاع کنترل"
+
+#: components/classes/x-color-scheme-toggle.php:568
+msgid ""
+"seen inside builder)"
+msgstr ""
+
+#: components/traits/media-player-trait.php:2119
+msgid "Control zones gap"
+msgstr "شکاف مناطق کنترل"
+
+#: components/classes/x-copy-to-clipboard.php:731
+msgid "Copy"
+msgstr "کپی"
+
+#: components/classes/x-social-share.php:111 
+#: components/classes/x-social-share.php:889 
+#: components/classes/x-social-share.php:891
+msgid "Copy URL"
+msgstr "کپی URL"
+
+#: includes/BricksExtrasInteractions.php:50
+msgid "Copy failed"
+msgstr "کپی ناموفق"
+
+#: includes/BricksExtrasInteractions.php:52
+msgid "Copy returned empty"
+msgstr "کپی خالی برگشت"
+
+#: includes/BricksExtrasInteractions.php:49
+msgid "Copy success"
+msgstr "کپی موفق"
+
+#: includes/BricksExtrasMain.php:259
+msgid "Copy to Clipboard"
+msgstr "کپی به حافظه موقت"
+
+#: components/classes/x-qr-code.php:236
+msgid "Corner dots"
+msgstr "نقاط گوشه"
+
+#: components/classes/x-qr-code.php:204
+msgid "Corner squares"
+msgstr "مربع‌های گوشه"
+
+#: components/classes/x-qr-code.php:89
+msgid "Corners"
+msgstr "گوشه‌ها"
+
+#: components/classes/x-calendar.php:240
+msgid "Count"
+msgstr "شمارش"
+
+#: components/classes/x-countdown.php:197
+msgid "Count Up"
+msgstr "شمارش معکوس"
+
+#: includes/BricksExtrasInteractions.php:152
+msgid "Countdown End"
+msgstr "پایان شمارش معکوس"
+
+#: components/classes/x-pro-slider-control.php:184
+msgid "Counting pages or slides"
+msgstr "شمارش صفحات یا اسلایدها"
+
+#: components/classes/x-ws-forms.php:1782 
+#: components/classes/x-ws-forms.php:1807
+msgid "Country"
+msgstr "کشور"
+
+#: components/classes/x-ws-forms.php:1795
+msgid "Country dial code"
+msgstr "کد تماس کشور"
+
+#: components/classes/x-ws-forms.php:1847
+msgid "Country dial code highlight"
+msgstr "برجسته‌سازی کد تماس کشور"
+
+#: components/classes/x-ws-forms.php:1821 
+#: components/classes/x-ws-forms.php:1834
+msgid "Country highlight"
+msgstr "برجسته‌سازی کشور"
+
+#: components/classes/x-ws-forms.php:1769
+msgid "Country list"
+msgstr "لیست کشورها"
+
+#: components/classes/x-media-player.php:915 
+#: components/classes/x-media-playlist.php:721
+msgid "Create expiring video URLs"
+msgstr "ایجاد URL‌های ویدیویی منقضی‌شونده"
+
+#: includes/BricksExtrasInteractions.php:120
+msgid "Cumulative watch time"
+msgstr "زمان تماشای تجمعی"
+
+#: includes/BricksExtrasConditions.php:1451
+msgid "Current Taxonomy Term Has Child"
+msgstr "اصطلاح تاکسونومی فعلی فرزندی دارد"
+
+#: includes/BricksExtrasConditions.php:1477
+msgid "Current Taxonomy Term Has Parent"
+msgstr "اصطلاح تاکسونومی فعلی والدی دارد"
+
+#: includes/BricksExtrasConditions.php:1587 
+#: includes/BricksExtrasConditions.php:1606
+msgid "Current Taxonomy Term Is"
+msgstr "اصطلاح تاکسونومی فعلی است"
+
+#: includes/BricksExtrasConditions.php:1524 
+#: includes/BricksExtrasConditions.php:1543
+msgid "Current Taxonomy Term Is Descendant Of"
+msgstr "اصطلاح تاکسونومی فعلی فرزند است"
+
+#: includes/BricksExtrasHelpers.php:344
+msgid "Current day (of month)"
+msgstr "روز فعلی (ماه)"
+
+#: includes/BricksExtrasConditions.php:1372
+msgid "Current day of month"
+msgstr "روز فعلی از ماه"
+
+#: includes/BricksExtrasConditions.php:1335 
+#: includes/BricksExtrasHelpers.php:348
+msgid "Current month"
+msgstr "ماه فعلی"
+
+#: includes/BricksExtrasConditions.php:2425 
+#: includes/BricksExtrasHelpers.php:540
+msgid "Current product in cart"
+msgstr "محصول فعلی در سبد"
+
+#: components/classes/x-pro-slider-control.php:63
+msgid "Current slide"
+msgstr "اسلاید فعلی"
+
+#: components/classes/x-pro-slider-control.php:347
+msgid "Current slide number"
+msgstr "شماره اسلاید فعلی"
+
+#: includes/BricksExtrasHelpers.php:356
+msgid "Current taxonomy term has child"
+msgstr "اصطلاح تاکسونومی فعلی فرزندی دارد"
+
+#: includes/BricksExtrasHelpers.php:360
+msgid "Current taxonomy term has parent"
+msgstr "اصطلاح تاکسونومی فعلی والدی دارد"
+
+#: includes/BricksExtrasHelpers.php:364
+msgid "Current taxonomy term is"
+msgstr "اصطلاح تاکسونومی فعلی است"
+
+#: includes/BricksExtrasHelpers.php:368
+msgid "Current taxonomy term is descendant of"
+msgstr "اصطلاح تاکسونومی فعلی فرزند است"
+
+#: components/classes/x-media-control.php:351 
+#: components/traits/media-player-trait.php:351
+msgid "Current time"
+msgstr "زمان فعلی"
+
+#: includes/BricksExtrasConditions.php:1428 
+#: includes/BricksExtrasHelpers.php:352
+msgid "Current year"
+msgstr "سال فعلی"
+
+#: components/classes/x-interactive-cursor.php:127 
+#: components/classes/x-interactive-cursor.php:173 
+#: components/classes/x-interactive-cursor.php:221 
+#: components/classes/x-interactive-cursor.php:260 
+#: components/classes/x-interactive-cursor.php:301 
+#: components/classes/x-interactive-cursor.php:314
+msgid "Cursor ball"
+msgstr "کره مکان‌نما"
+
+#: components/classes/x-lottie.php:148
+msgid "Cursor position"
+msgstr "موقعیت مکان‌نما"
+
+#: components/classes/x-interactive-cursor.php:92 
+#: components/classes/x-interactive-cursor.php:145 
+#: components/classes/x-interactive-cursor.php:190 
+#: components/classes/x-interactive-cursor.php:277 
+#: components/classes/x-interactive-cursor.php:327 
+#: components/classes/x-interactive-cursor.php:340
+msgid "Cursor trail"
+msgstr "ردِ مکان‌نما"
+
+#: components/classes/x-media-control.php:3265
+msgid "Custom"
+msgstr "سفارشی"
+
+#: components/classes/x-media-player.php:426
+msgid "Custom UI"
+msgstr "رابط کاربری سفارشی"
+
+#: components/classes/x-fluent-form.php:600
+msgid "Custom checkbox styles"
+msgstr "سبک‌های چک‌باکس سفارشی"
+
+#: components/classes/x-pro-slider-control.php:1457
+msgid "Custom element"
+msgstr "عنصر سفارشی"
+
+#: components/classes/x-color-scheme-toggle.php:263 
+#: components/classes/x-color-scheme-toggle.php:484
+msgid "Custom icons"
+msgstr "نمادهای سفارشی"
+
+#: components/classes/x-favorite.php:189 includes/BricksExtrasQueryLoop.php:481
+msgid "Custom list"
+msgstr "لیست سفارشی"
+
+#: components/classes/x-page-tour.php:509
+msgid "Custom navigation using your own buttons"
+msgstr "ناوبری سفارشی با استفاده از دکمه‌های خود"
+
+#: components/classes/x-breadcrumbs.php:739
+msgid "Custom post types"
+msgstr "انواع نوشته سفارشی"
+
+#: includes/BricksExtrasConditions.php:1123
+msgid "Customer logout"
+msgstr "خروج مشتری"
+
+#: components/classes/x-media-player-audio.php:93 
+#: components/classes/x-media-player.php:97 
+#: components/classes/x-media-player.php:105
+msgid "Customize UI"
+msgstr "سفارشی‌سازی رابط کاربری"
+
+#: components/classes/x-ws-forms.php:3660
+msgid "Danger message"
+msgstr "پیام خطر"
+
+#: components/classes/x-color-scheme-toggle.php:179 
+#: components/classes/x-color-scheme-toggle.php:1479 
+#: components/classes/x-color-scheme-toggle.php:1611 
+#: components/classes/x-color-scheme-toggle.php:1679 
+#: components/classes/x-color-scheme-toggle.php:1793
+msgid "Dark"
+msgstr "تاریک"
+
+#: components/classes/x-color-scheme-toggle.php:515
+msgid "Dark icon"
+msgstr "نماد تاریک"
+
+#: components/classes/x-dynamic-chart.php:119
+msgid "Data labels"
+msgstr "برچسب‌های داده"
+
+#: components/classes/x-dynamic-chart.php:224 
+#: components/classes/x-dynamic-chart.php:250
+msgid "Data point"
+msgstr "نقطه داده"
+
+#: components/classes/x-dynamic-chart.php:263
+msgid "Data point color"
+msgstr "رنگ نقطه داده"
+
+#: components/classes/x-dynamic-chart.php:187 
+#: components/classes/x-dynamic-chart.php:249
+msgid "Data points"
+msgstr "نقاط داده"
+
+#: components/classes/x-dynamic-chart.php:213
+msgid "Dataset"
+msgstr "مجموعه داده"
+
+#: components/classes/x-dynamic-chart.php:335
+msgid "Dataset color"
+msgstr "رنگ مجموعه داده"
+
+#: components/classes/x-dynamic-chart.php:129 
+#: components/classes/x-dynamic-chart.php:346
+msgid "Dataset colors"
+msgstr "رنگ‌های مجموعه داده"
+
+#: components/classes/x-dynamic-chart.php:186 
+#: components/classes/x-dynamic-chart.php:190
+msgid "Datasets"
+msgstr "مجموعه‌های داده"
+
+#: includes/BricksExtrasConditions.php:1103
+msgid "Date archive"
+msgstr "بایگانی تاریخ"
+
+#: includes/WPGridBuilderStyler.php:253
+msgid "Date calendar"
+msgstr "تقویم تاریخ"
+
+#: includes/BricksExtrasConditions.php:1730 
+#: includes/BricksExtrasHelpers.php:376
+msgid "Date field value"
+msgstr "مقدار فیلد تاریخ"
+
+#: includes/BricksExtrasConditions.php:1754 
+#: includes/BricksExtrasHelpers.php:380
+msgid "Datetime field value"
+msgstr "مقدار فیلد تاریخ و زمان"
+
+#: components/classes/x-calendar.php:949
+msgid "Day"
+msgstr "روز"
+
+#: components/classes/x-calendar.php:946
+msgid "Day Button"
+msgstr "دکمه روز"
+
+#: components/classes/x-calendar.php:315 components/classes/x-calendar.php:345 
+#: components/classes/x-calendar.php:375 components/classes/x-calendar.php:412 
+#: components/classes/x-calendar.php:441 components/classes/x-calendar.php:470 
+#: components/classes/x-calendar.php:654
+msgid "Day Grid"
+msgstr "شبکه روزانه"
+
+#: components/classes/x-calendar.php:318 components/classes/x-calendar.php:348 
+#: components/classes/x-calendar.php:378 components/classes/x-calendar.php:415 
+#: components/classes/x-calendar.php:444 components/classes/x-calendar.php:473
+msgid "Day List"
+msgstr "لیست روزانه"
+
+#: components/classes/x-calendar.php:317 components/classes/x-calendar.php:347 
+#: components/classes/x-calendar.php:377 components/classes/x-calendar.php:414 
+#: components/classes/x-calendar.php:443 components/classes/x-calendar.php:472 
+#: components/classes/x-calendar.php:656
+msgid "Day Timeline"
+msgstr "خط زمانی روزانه"
+
+#: components/classes/x-countdown.php:246 
+#: components/classes/x-countdown.php:298 
+#: components/classes/x-notification-bar.php:201 
+#: components/classes/x-page-tour.php:184 
+#: components/classes/x-pro-alert.php:303 
+#: components/classes/x-pro-modal-nestable.php:322 
+#: components/classes/x-pro-modal.php:358 
+#: components/classes/x-toast-notification.php:538
+msgid "Days"
+msgstr "روزها"
+
+#: components/traits/media-player-trait.php:4288
+msgid "Default Tooltip Placement"
+msgstr "موقعیت پیش‌فرض نکته ابزار"
+
+#: components/classes/x-ws-forms.php:382
+msgid "Default color"
+msgstr "رنگ پیش‌فرض"
+
+#: components/traits/media-player-trait.php:2028
+msgid "Default color for menus"
+msgstr "رنگ پیش‌فرض برای منوها"
+
+#: components/classes/x-social-share.php:213
+msgid "Defaults to featured image if not set"
+msgstr "به تصویر ویژه پیش‌فرض درنظر گرفته می‌شود اگر تنظیم نشده باشد"
+
+#: components/classes/x-toast-notification.php:462
+msgid "Delay"
+msgstr "تاخیر"
+
+#: components/classes/x-panorama-viewer.php:378
+msgid "Desktop instructions text"
+msgstr "متن دستورالعمل دسک‌تاپ"
+
+#: components/classes/x-toast-notification.php:177
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: components/classes/x-tabs.php:608
+msgid "Disable Bricks animations in content"
+msgstr "غیرفعال کردن انیمیشن‌های Bricks در محتوا"
+
+#: components/classes/x-panorama-viewer.php:856
+msgid "Disable Pulse on Hover"
+msgstr "غیرفعال کردن Pulse در هنگام عبور"
+
+#: components/classes/x-pro-accordion.php:126 components/classes/x-tabs.php:596
+msgid "Disable closing sibling items"
+msgstr "غیرفعال کردن بستن آیتم‌های هم‌تراز"
+
+#: components/classes/x-page-tour.php:475
+msgid "Disable if adding your own buttons/links inside each step"
+msgstr "غیرفعال کنید اگر دکمه‌ها/پیوندهای خود را در هر مرحله اضافه می‌کنید"
+
+#: components/classes/x-table-of-contents.php:828
+msgid "Disable if prefer to rely on Bricks smooth scroll or another solution"
+msgstr "اگر ترجیح می‌دهید بر روی لغزش نرم Bricks یا راه حل دیگری متکی باشید، غیرفعال کنید"
+
+#: components/classes/x-pro-modal-nestable.php:136 
+#: components/classes/x-pro-modal.php:127
+msgid "Disable scroll when open"
+msgstr "غیرفعال کردن لغزش هنگام باز"
+
+#: components/classes/x-pro-slider.php:2153
+msgid "Disable slider if not enough slides to fill slider viewport"
+msgstr "اگر اسلایدهای کافی برای پر کردن دید‌پنجره اسلایدر وجود نداشته باشد، اسلایدر را غیرفعال کنید"
+
+#: components/classes/x-dynamic-table.php:268
+msgid "Disable sorting for this column"
+msgstr "غیرفعال کردن مرتب‌سازی برای این ستون"
+
+#: components/classes/x-toast-notification.php:186
+msgid "Dismiss Button"
+msgstr "دکمه رفع"
+
+#: components/classes/x-toast-notification.php:173
+msgid "Dismissible"
+msgstr "قابل رفع"
+
+#: components/classes/x-breadcrumbs.php:823
+msgid "Display current"
+msgstr "نمایش فعلی"
+
+#: components/classes/x-calendar.php:776
+msgid "Display end time for events"
+msgstr "نمایش زمان پایان برای رویدادها"
+
+#: components/classes/x-panorama-viewer.php:354
+msgid "Display gesture instructions"
+msgstr "نمایش دستورالعمل‌های ژست"
+
+#: components/classes/x-copy-to-clipboard.php:426 
+#: components/classes/x-favorite.php:730 components/classes/x-popover.php:601
+msgid "Distance along the side of the button"
+msgstr "فاصله در طول کنار دکمه"
+
+#: components/classes/x-image-hotspot-marker.php:627 
+#: components/classes/x-image-hotspots.php:729
+msgid "Distance along the side of the marker"
+msgstr "فاصله در طول کنار نشانگر"
+
+#: components/classes/x-copy-to-clipboard.php:438 
+#: components/classes/x-favorite.php:742 components/classes/x-popover.php:612
+msgid "Distance away from the button"
+msgstr "فاصله دور از دکمه"
+
+#: components/classes/x-image-hotspot-marker.php:637 
+#: components/classes/x-image-hotspots.php:740
+msgid "Distance away from the marker"
+msgstr "فاصله دور از نشانگر"
+
+#: components/classes/x-pro-slider.php:718
+msgid "Distance from edges"
+msgstr "فاصله از لبه‌ها"
+
+#: includes/BricksExtrasHeaderExtras.php:149
+msgid "Distance scrolled down the page before header becomes sticky"
+msgstr "فاصله لغزیده شده پایین صفحه قبل از اینکه سرصفحه چسبناک شود"
+
+#: includes/BricksExtrasConditions.php:2533
+msgid "Does not have subscription"
+msgstr "اشتراک ندارد"
+
+#: components/classes/x-fluent-form.php:756 
+#: components/classes/x-fluent-form.php:792
+msgid "Dot inside radio input"
+msgstr "نقطه داخل ورودی رادیویی"
+
+#: components/classes/x-dynamic-chart.php:400
+msgid "Doughnut"
+msgstr "دونات"
+
+#: components/classes/x-media-control.php:204 
+#: components/classes/x-media-control.php:2858 
+#: components/traits/media-player-trait.php:1113
+msgid "Download"
+msgstr "دانلود"
+
+#: components/classes/x-media-control.php:226 
+#: components/traits/media-player-trait.php:238
+msgid "Download Option"
+msgstr "گزینه دانلود"
+
+#: includes/BricksExtrasConditions.php:2157
+msgid "Draft"
+msgstr "پیش‌نویس"
+
+#: components/classes/x-color-scheme-toggle.php:129
+msgid "Dropdown"
+msgstr "منوی کشویی"
+
+#: includes/WPGridBuilderStyler.php:109
+msgid "Dropdown border"
+msgstr "حاشیه منوی کشویی"
+
+#: includes/WPGridBuilderStyler.php:125
+msgid "Dropdown box shadow"
+msgstr "سایه جعبه منوی کشویی"
+
+#: components/classes/x-color-scheme-toggle.php:785
+msgid "Dropdown container"
+msgstr "بسته‌بندی منوی کشویی"
+
+#: components/classes/x-color-scheme-toggle.php:865
+msgid "Dropdown options"
+msgstr "گزینه‌های منوی کشویی"
+
+#: components/classes/x-toast-notification.php:162
+msgid "Duration"
+msgstr "مدت زمان"
+
+#: components/classes/x-calendar.php:857
+msgid "Duration of each time slot (e.g., 00:15:00 for 15 minutes)"
+msgstr "مدت زمان هر شکاف زمانی (به عنوان مثال، 00:15:00 برای 15 دقیقه)"
+
+#: components/classes/x-dynamic-chart.php:77 includes/BricksExtrasMain.php:264
+msgid "Dynamic Chart"
+msgstr "نمودار پویا"
+
+#: includes/BricksExtrasMain.php:269
+msgid "Dynamic Lightbox"
+msgstr "جعبه نور پویا"
+
+#: components/classes/x-dynamic-table.php:70 includes/BricksExtrasMain.php:275
+msgid "Dynamic Table"
+msgstr "جدول پویا"
+
+#: components/classes/x-color-scheme-toggle.php:195
+msgid "Dynamic aria-label"
+msgstr "aria-label پویا"
+
+#: components/classes/x-dynamic-lightbox.php:67 
+#: components/classes/x-dynamic-lightbox.php:76
+msgid "Dynamic lightbox"
+msgstr "جعبه نور پویا"
+
+#: components/classes/x-popover.php:672
+msgid "Dynamic tooltip text"
+msgstr "متن نکته ابزار پویا"
+
+#: components/classes/x-pro-slider.php:862
+msgid "Easing"
+msgstr "سهولت"
+
+#: includes/BricksExtrasHelpers.php:283
+msgid "Element Interactions"
+msgstr "تعاملات عنصر"
+
+#: components/classes/x-copy-to-clipboard.php:142
+msgid "Element containing the text"
+msgstr "عنصر حاوی متن"
+
+#: includes/Plugin.php:237 includes/SettingsPage.php:55
+msgid "Elements"
+msgstr "عناصر"
+
+#: components/classes/x-pro-modal-nestable.php:150 
+#: components/classes/x-pro-modal.php:141
+msgid "Elements with the data-x-modal-close attribute can close the modal"
+msgstr "عناصری با ویژگی data-x-modal-close می‌توانند مودال را ببندند"
+
+#: components/classes/x-toast-notification.php:176 
+#: components/classes/x-toast-notification.php:179
+msgid "Enable"
+msgstr "فعال"
+
+#: components/classes/x-calendar.php:219
+msgid "Enable Recurring Events"
+msgstr "فعال‌سازی رویدادهای تکراری"
+
+#: components/classes/x-before-after-image.php:691
+msgid "Enable cursor movement to control slider"
+msgstr "فعال‌سازی حرکت مکان‌نما برای کنترل اسلایدر"
+
+#: components/classes/x-media-playlist.php:731
+msgid "Enable if your Bunny Stream has CDN Token Authentication enabled"
+msgstr "اگر Bunny Stream شما دارای احراز هویت توکن CDN فعال است، فعال کنید"
+
+#: components/classes/x-color-scheme-toggle.php:223
+msgid "Enable tooltips"
+msgstr "فعال‌سازی نکات ابزار"
+
+#: components/classes/x-calendar.php:190
+msgid "End Date/Time"
+msgstr "تاریخ/زمان پایان"
+
+#: components/classes/x-lottie.php:114
+msgid "End frame"
+msgstr "قاب پایان"
+
+#: components/classes/x-reading-progress-bar.php:119
+msgid "End when bottom of container reaches.."
+msgstr "پایان زمانی که پایین بسته‌بندی به..رسد"
+
+#: includes/BricksExtrasInteractions.php:112 
+#: includes/BricksExtrasInteractions.php:131
+msgid "Ended"
+msgstr "پایان یافته"
+
+#: components/classes/x-media-control.php:399 
+#: components/classes/x-media-control.php:417 
+#: components/traits/media-player-trait.php:396 
+#: components/traits/media-player-trait.php:411
+msgid "Enter"
+msgstr "وارد"
+
+#: components/classes/x-media-control.php:421 
+#: components/classes/x-media-control.php:2776 
+#: components/traits/media-player-trait.php:1015
+msgid "Enter Fullscreen"
+msgstr "ورود به تمام صفحه"
+
+#: components/classes/x-media-control.php:403 
+#: components/classes/x-media-control.php:2758 
+#: components/traits/media-player-trait.php:999
+msgid "Enter PIP"
+msgstr "ورود به PIP"
+
+#: includes/BricksExtrasConditions.php:1641
+msgid "Enter a single class name"
+msgstr "یک نام کلاس واحد وارد کنید"
+
+#: components/classes/x-shortcode-wrapper.php:90
+msgid "Enter opening and closing shortcode tags"
+msgstr "برچسب‌های کد کوتاه باز و بسته‌شده را وارد کنید"
+
+#: includes/BricksExtrasConditions.php:1555 
+#: includes/BricksExtrasConditions.php:1618
+msgid "Enter term ID"
+msgstr "شناسه اصطلاح را وارد کنید"
+
+#: includes/VideoProvidersPage.php:253
+msgid "Enter your API key"
+msgstr "کلید API خود را وارد کنید"
+
+#: includes/VideoProvidersPage.php:274
+msgid "Enter your CDN token key"
+msgstr "کلید توکن CDN خود را وارد کنید"
+
+#: includes/VideoProvidersPage.php:242
+msgid "Enter your library ID"
+msgstr "شناسه کتاب‌خانه خود را وارد کنید"
+
+#: includes/BricksExtrasLicense.php:289
+msgid "Enter your license key"
+msgstr "کلید مجوز خود را وارد کنید"
+
+#: components/classes/x-qr-code.php:140
+msgid "Error correction"
+msgstr "تصحیح خطا"
+
+#: components/classes/x-offcanvas-nestable.php:255 
+#: components/classes/x-offcanvas.php:265
+msgid "Esc to close"
+msgstr "Esc برای بستن"
+
+#: includes/BricksExtrasDynamicTags.php:69
+msgid "Est. year - current year"
+msgstr "سال تخمینی - سال فعلی"
+
+#: components/classes/x-content-timeline.php:226 
+#: components/classes/x-content-timeline.php:244 
+#: components/classes/x-content-timeline.php:262 
+#: components/classes/x-dynamic-table.php:1148 
+#: components/classes/x-dynamic-table.php:1176 
+#: components/classes/x-fluent-form.php:1138 
+#: components/classes/x-fluent-form.php:1151 
+#: components/classes/x-nestable-table.php:223 
+#: components/classes/x-nestable-table.php:251
+msgid "Even"
+msgstr "زوج"
+
+#: components/classes/x-page-tour.php:144
+msgid "Event"
+msgstr "رویداد"
+
+#: components/classes/x-calendar.php:1232
+msgid "Event Background"
+msgstr "پس‌زمینه رویداد"
+
+#: components/classes/x-calendar.php:1245
+msgid "Event Border"
+msgstr "حاشیه رویداد"
+
+#: components/classes/x-calendar.php:875
+msgid "Event Click Action"
+msgstr "عمل کلیک رویداد"
+
+#: components/classes/x-calendar.php:282
+msgid "Event Overrides"
+msgstr "لغو‌های رویداد"
+
+#: components/classes/x-calendar.php:1271
+msgid "Event Selected Overlay"
+msgstr "پوشش انتخاب شده رویداد"
+
+#: components/classes/x-calendar.php:1258
+msgid "Event Text"
+msgstr "متن رویداد"
+
+#: components/classes/x-calendar.php:759
+msgid "Event display"
+msgstr "نمایش رویداد"
+
+#: components/classes/x-calendar.php:789
+msgid "Event display style"
+msgstr "سبک نمایش رویداد"
+
+#: components/classes/x-calendar.php:1225
+msgid "Events"
+msgstr "رویدادها"
+
+#: components/classes/x-countdown.php:106 
+#: components/classes/x-countdown.php:108
+msgid "Evergreen"
+msgstr "همیشه سبز"
+
+#: components/classes/x-breadcrumbs.php:674
+msgid "Exclude Categories"
+msgstr "استثنا دسته‌بندی‌ها"
+
+#: components/classes/x-breadcrumbs.php:710
+msgid "Exclude Product Categories"
+msgstr "استثنا دسته‌بندی‌های محصول"
+
+#: includes/BricksExtrasQueryLoop.php:173
+msgid "Excluded Term IDs"
+msgstr "شناسه‌های اصطلاح استثنا شده"
+
+#: includes/BricksExtrasHelpers.php:532
+msgid "Excluding shipping"
+msgstr "بدون حمل‌ونقل"
+
+#: components/classes/x-calendar.php:270
+msgid "Exclusion Dates"
+msgstr "تاریخ‌های استثنا"
+
+#: components/classes/x-media-control.php:408 
+#: components/classes/x-media-control.php:426 
+#: components/traits/media-player-trait.php:403 
+#: components/traits/media-player-trait.php:418
+msgid "Exit"
+msgstr "خروج"
+
+#: components/classes/x-media-control.php:430 
+#: components/classes/x-media-control.php:2777 
+#: components/traits/media-player-trait.php:1016
+msgid "Exit Fullscreen"
+msgstr "خروج از تمام صفحه"
+
+#: components/classes/x-media-control.php:412 
+#: components/classes/x-media-control.php:2759 
+#: components/traits/media-player-trait.php:1000
+msgid "Exit PIP"
+msgstr "خروج از PIP"
+
+#: components/classes/x-slide-menu.php:722
+msgid "Expand to show active item"
+msgstr "بسط برای نمایش آیتم فعال"
+
+#: includes/BricksExtrasInteractions.php:215
+msgid "Expanding"
+msgstr "در حال بسط"
+
+#: includes/BricksExtrasConditions.php:349 
+#: includes/BricksExtrasConditions.php:372
+msgid "Expired"
+msgstr "منقضی شده"
+
+#: components/classes/x-qr-code.php:196 components/classes/x-qr-code.php:225 
+#: components/classes/x-qr-code.php:260
+msgid "Extra Rounded"
+msgstr "بسیار گرد"
+
+#: includes/BricksExtrasQueryLoop.php:614 includes/Plugin.php:89
+msgid "Extras"
+msgstr "اضافات"
+
+#: includes/BricksExtrasMain.php:502
+msgid "Facet Styler"
+msgstr "سبک‌سازی رویه"
+
+#: components/classes/x-color-scheme-toggle.php:470 
+#: components/classes/x-color-scheme-toggle.php:532
+msgid "Fade"
+msgstr "محو"
+
+#: includes/BricksExtrasConditions.php:2156
+msgid "Failed"
+msgstr "ناموفق"
+
+#: components/classes/x-calendar.php:732 
+#: components/classes/x-panorama-viewer.php:989 
+#: components/classes/x-panorama-viewer.php:991
+msgid "False"
+msgstr "نادرست"
+
+#: components/classes/x-favorite.php:63
+msgid "Favorite Button"
+msgstr "دکمه علاقه"
+
+#: includes/BricksExtrasDynamicTags.php:123 
+#: includes/BricksExtrasDynamicTags.php:128
+msgid "Favorite Count"
+msgstr "تعداد علاقه"
+
+#: includes/BricksExtrasDynamicTags.php:118
+msgid "Favorite IDs"
+msgstr "شناسه‌های علاقه"
+
+#: includes/BricksExtrasHelpers.php:290 includes/BricksExtrasMain.php:280
+msgid "Favorites"
+msgstr "علاقه‌مندی‌ها"
+
+#: includes/SettingsPage.php:55
+msgid "Features"
+msgstr "ویژگی‌ها"
+
+#: components/classes/x-ws-forms.php:555
+msgid "Field backgrounds and button text"
+msgstr "پس‌زمینه‌های فیلد و متن دکمه"
+
+#: components/classes/x-ws-forms.php:639
+msgid "Field borders and buttons."
+msgstr "حاشیه‌های فیلد و دکمه‌ها."
+
+#: components/classes/x-panorama-scene.php:344 
+#: components/classes/x-panorama-viewer.php:176
+msgid "Field of view"
+msgstr "میدان دید"
+
+#: components/classes/x-fluent-form.php:286
+msgid "Field text"
+msgstr "متن فیلد"
+
+#: components/classes/x-ws-forms.php:137
+msgid "File Upload"
+msgstr "آپلود فایل"
+
+#: components/classes/x-fluent-form.php:100
+msgid "File Upload Button"
+msgstr "دکمه آپلود فایل"
+
+#: components/traits/media-player-trait.php:4788
+msgid "Find playlist elements"
+msgstr "پیدا کردن عناصر لیست پخش"
+
+#: includes/VideoProvidersPage.php:245 includes/VideoProvidersPage.php:260
+msgid "Find this in your Bunny Stream dashboard under API."
+msgstr "این را در داشبورد Bunny Stream خود تحت API پیدا کنید."
+
+#: includes/VideoProvidersPage.php:276
+msgid "Find this in your Bunny Stream dashboard under Security settings."
+msgstr "این را در داشبورد Bunny Stream خود تحت تنظیمات امنیتی پیدا کنید."
+
+#: components/classes/x-page-tour.php:758
+msgid "Finish"
+msgstr "پایان"
+
+#: components/classes/x-calendar.php:702
+msgid "First day of week"
+msgstr "اولین روز هفته"
+
+#: components/classes/x-calendar.php:837
+msgid "First time slot in timeline views (e.g., 06:00:00)"
+msgstr "اولین شکاف زمانی در نمایش‌های خط زمانی (به عنوان مثال، 06:00:00)"
+
+#: components/classes/x-pro-slider.php:201
+msgid "Fixed slide width"
+msgstr "عرض اسلاید ثابت"
+
+#: components/classes/x-pro-slider.php:825
+msgid "Flick power"
+msgstr "قدرت فلیک"
+
+#: components/classes/x-color-scheme-toggle.php:472
+msgid "Flip"
+msgstr "تراشه"
+
+#: components/classes/x-color-scheme-toggle.php:534
+msgid "Flip horizontal"
+msgstr "تراشه افقی"
+
+#: components/classes/x-color-scheme-toggle.php:535
+msgid "Flip vertical"
+msgstr "تراشه عمودی"
+
+#: includes/BricksExtrasInteractive.php:251
+msgid "Floating effect"
+msgstr "اثر شناور"
+
+#: components/classes/x-ws-forms.php:1361
+msgid "Focus shadow color"
+msgstr "رنگ سایه تمرکز"
+
+#: components/classes/x-ws-forms.php:1376
+msgid "Focus shadow width"
+msgstr "عرض سایه تمرکز"
+
+#: components/classes/x-pro-modal-nestable.php:901 
+#: components/classes/x-pro-modal.php:828
+msgid "Focus the first focusable element"
+msgstr "تمرکز بر روی اولین عنصر قابل تمرکز"
+
+#: components/classes/x-popover.php:690
+msgid "Follow cursor"
+msgstr "دنبال مکان‌نما"
+
+#: includes/BricksExtrasLicense.php:268
+msgid "Follow the steps below to license the plugin:"
+msgstr "برای مجوز افزونه مراحل زیر را دنبال کنید:"
+
+#: components/classes/x-calendar.php:399
+msgid "Footer A"
+msgstr "پاورقی الف"
+
+#: components/classes/x-calendar.php:428
+msgid "Footer B"
+msgstr "پاورقی ب"
+
+#: components/classes/x-calendar.php:457
+msgid "Footer C"
+msgstr "پاورقی ج"
+
+#: components/classes/x-media-player.php:842
+msgid "For browsers not supporting fullscreen"
+msgstr "برای مرورگرهایی که از تمام صفحه پشتیبانی نمی‌کنند"
+
+#: components/classes/x-fluent-form.php:707
+msgid "For changing the border radius"
+msgstr "برای تغییر شعاع حاشیه"
+
+#: includes/VideoProvidersPage.php:267
+msgid "For token protected videos"
+msgstr "برای ویدیوهای محافظت شده با توکن"
+
+#: components/classes/x-pro-slider-control.php:641 
+#: components/classes/x-pro-slider-control.php:1268
+msgid "For use with sliders that move 1 slide at a time"
+msgstr "برای استفاده با اسلایدرهایی که 1 اسلاید را در یک بار حرکت می‌دهند"
+
+#: includes/BricksExtrasInteractive.php:477
+msgid "For use with the popover/tooltip element (enable Dynamic tooltip text)"
+msgstr "برای استفاده با عنصر popover/tooltip (فعال‌سازی متن نکته ابزار پویا)"
+
+#: components/classes/x-pro-slider.php:252
+msgid "For use with vertical sliders"
+msgstr "برای استفاده با اسلایدرهای عمودی"
+
+#: includes/BricksExtrasInteractions.php:347
+msgid "Force exit fullscreen then allow"
+msgstr "اجبار خروج از تمام صفحه سپس اجازه دهید"
+
+#: components/classes/x-pro-slider.php:554
+msgid "Force images to be 100% slide height"
+msgstr "اجبار تصاویر برای 100% ارتفاع اسلاید"
+
+#: components/classes/x-pro-slider.php:583
+msgid "Force images to be 100% slide width"
+msgstr "اجبار تصاویر برای 100% عرض اسلاید"
+
+#: components/classes/x-tabs.php:419
+msgid "Force window resize when opened"
+msgstr "اجبار تغییر اندازه پنجره هنگام باز"
+
+#: includes/BricksExtrasInteractions.php:77 
+#: includes/BricksExtrasInteractions.php:246
+msgid "Form reset"
+msgstr "بازنشانی فرم"
+
+#: components/classes/x-ws-forms.php:77 components/classes/x-ws-forms.php:360
+msgid "Form wide colors"
+msgstr "رنگ‌های گسترده فرم"
+
+#: components/classes/x-media-control.php:281 
+#: components/classes/x-media-control.php:2641 
+#: components/traits/media-player-trait.php:901
+msgid "Forward"
+msgstr "جلو"
+
+#: components/classes/x-pro-slider.php:853
+msgid "Free scrolling"
+msgstr "لغزش آزاد"
+
+#: components/classes/x-calendar.php:238
+msgid "Frequency"
+msgstr "فرکانس"
+
+#: components/classes/x-calendar.php:711 components/classes/x-calendar.php:749
+msgid "Friday"
+msgstr "جمعه"
+
+#: components/traits/media-player-trait.php:2918
+msgid "From bottom of player when controls visible"
+msgstr "از پایین پخش‌کننده هنگامی که کنترل‌ها نمایان هستند"
+
+#: components/classes/x-media-player-audio.php:498 
+#: components/classes/x-media-player.php:390 
+#: components/classes/x-media-player.php:623 
+#: components/traits/media-player-trait.php:3289
+msgid "Full width"
+msgstr "عرض کامل"
+
+#: components/classes/x-header-row.php:138
+msgid "Full width content"
+msgstr "محتوای عرض کامل"
+
+#: components/classes/x-media-player.php:846 
+#: components/classes/x-media-player.php:849
+msgid "Full window"
+msgstr "پنجره کامل"
+
+#: components/classes/x-panorama-viewer.php:230
+msgid "Full window for browsers not supporting fullscreen"
+msgstr "پنجره کامل برای مرورگرهایی که از تمام صفحه پشتیبانی نمی‌کنند"
+
+#: components/classes/x-panorama-viewer.php:335
+msgid "Fullscreen"
+msgstr "تمام صفحه"
+
+#: includes/BricksExtrasHelpers.php:290 includes/BricksExtrasQueryLoop.php:96
+msgid "Gallery"
+msgstr "گالری"
+
+#: components/classes/x-pro-slider.php:2185
+msgid "Gallery mode"
+msgstr "حالت گالری"
+
+#: includes/WPGridBuilderStyler.php:1163
+msgid "Gap between label and checkbox"
+msgstr "شکاف بین برچسب و چک‌باکس"
+
+#: components/classes/x-toast.php:140
+msgid "Gap between stacked toasts (px)"
+msgstr "شکاف بین toast‌های انباشته شده (px)"
+
+#: includes/WPGridBuilderStyler.php:403
+msgid "General colors"
+msgstr "رنگ‌های عمومی"
+
+#: components/classes/x-media-player.php:914 
+#: components/classes/x-media-playlist.php:730
+msgid "Generate Authentication Tokens"
+msgstr "تولید توکن‌های احراز هویت"
+
+#: components/classes/x-ws-forms.php:3932
+msgid "Generate Password Icon"
+msgstr "تولید نماد رمز عبور"
+
+#: includes/WPGridBuilderStyler.php:989
+msgid "Geolocation Input"
+msgstr "ورودی موقعیت‌یابی"
+
+#: includes/WPGridBuilderStyler.php:1025
+msgid "Georadius"
+msgstr "شعاع جغرافیایی"
+
+#: components/classes/x-media-player.php:942
+msgid "Gestures"
+msgstr "ژست‌ها"
+
+#: components/classes/x-panorama-viewer.php:348
+msgid "Go back to previous scene"
+msgstr "برگشتن به صحنه قبلی"
+
+#: components/classes/x-favorite.php:320 components/classes/x-favorite.php:1559
+msgid "Go to favorite"
+msgstr "رفتن به علاقه"
+
+#: components/classes/x-calendar.php:1114
+msgid "Grid Color"
+msgstr "رنگ شبکه"
+
+#: components/classes/x-calendar.php:782
+msgid "Grid views"
+msgstr "نمایش‌های شبکه"
+
+#: components/classes/x-pro-slider-gallery.php:149
+msgid "Group images into lightbox"
+msgstr "گروه‌بندی تصاویر در جعبه نور"
+
+#: components/classes/x-dynamic-lightbox.php:94 
+#: components/classes/x-dynamic-lightbox.php:359
+msgid "Grouping"
+msgstr "گروه‌بندی"
+
+#: components/classes/x-dynamic-lightbox.php:401
+msgid "Grouping Scope"
+msgstr "دامنه گروه‌بندی"
+
+#: includes/BricksExtrasConditions.php:634
+msgid "Has active membership"
+msgstr "دارای عضویت فعال است"
+
+#: includes/BricksExtrasConditions.php:653
+msgid "Has active membership ID"
+msgstr "دارای شناسه عضویت فعال است"
+
+#: includes/BricksExtrasConditions.php:591
+msgid "Has active subscription"
+msgstr "دارای اشتراک فعال است"
+
+#: includes/BricksExtrasConditions.php:610
+msgid "Has active subscription ID"
+msgstr "دارای شناسه اشتراک فعال است"
+
+#: includes/BricksExtrasConditions.php:1704 
+#: includes/BricksExtrasHelpers.php:384
+msgid "Has child category"
+msgstr "دارای دسته‌بندی فرزند است"
+
+#: includes/BricksExtrasConditions.php:1652 
+#: includes/BricksExtrasHelpers.php:388
+msgid "Has custom excerpt"
+msgstr "دارای خلاصه سفارشی است"
+
+#: includes/BricksExtrasConditions.php:1678 
+#: includes/BricksExtrasHelpers.php:392
+msgid "Has post content"
+msgstr "دارای محتوای نوشته است"
+
+#: components/classes/x-pro-accordion.php:81 components/classes/x-tabs.php:110
+msgid "Hash"
+msgstr "هش"
+
+#: components/classes/x-dynamic-lightbox.php:448 
+#: components/classes/x-pro-modal-nestable.php:914 
+#: components/classes/x-pro-modal.php:841
+msgid "Hash link to close"
+msgstr "پیوند هش برای بستن"
+
+#: components/classes/x-calendar.php:302
+msgid "Header A"
+msgstr ""
+
+#: components/classes/x-calendar.php:332
+msgid "Header B"
+msgstr ""
+
+#: components/classes/x-calendar.php:362
+msgid "Header C"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:291
+msgid "Header Extras"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:296
+msgid "Header Notification Bar"
+msgstr ""
+
+#: components/classes/x-header-row.php:57
+msgid "Header Row"
+msgstr ""
+
+#: components/classes/x-header-search.php:65 includes/BricksExtrasMain.php:302
+msgid "Header Search"
+msgstr ""
+
+#: components/classes/x-calendar.php:1062
+msgid "Header Text"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:85 
+#: includes/BricksExtrasInteractions.php:86
+msgid "Header hidden"
+msgstr ""
+
+#: components/classes/x-notification-bar.php:53
+msgid "Header notification bar"
+msgstr ""
+
+#: components/classes/x-header-search.php:134
+msgid "Header overlay"
+msgstr ""
+
+#: includes/BricksExtrasHeaderExtras.php:174
+msgid "Header row"
+msgstr ""
+
+#: components/classes/x-header-row.php:303
+msgid "Header wrap"
+msgstr ""
+
+#: components/classes/x-table-of-contents.php:861
+msgid "Heading IDs"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:230
+msgid "Heading link clicked"
+msgstr ""
+
+#: components/classes/x-pro-accordion.php:938
+msgid "Heading tag"
+msgstr ""
+
+#: components/classes/x-calendar.php:667 
+#: components/classes/x-pro-slider.php:262
+msgid "Height"
+msgstr ""
+
+#: components/classes/x-read-more-less.php:141
+msgid "Height margin"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:309
+msgid "Height transiton duration"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1859
+msgid "Help text"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:654
+msgid "Here you can add subtitles/captions to the media player."
+msgstr ""
+
+#: components/classes/x-calendar.php:740
+msgid "Hidden days"
+msgstr ""
+
+#: includes/BricksExtrasHeaderExtras.php:181
+msgid "Hide Header"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:597
+msgid "Hide Nested Content in Builder"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1470
+msgid "Hide at this breakpoint"
+msgstr ""
+
+#: components/classes/x-popover.php:713
+msgid "Hide button in builder"
+msgstr ""
+
+#: components/classes/x-shortcode-wrapper.php:83
+msgid "Hide content in builder"
+msgstr ""
+
+#: includes/BricksExtrasHeaderExtras.php:194
+msgid "Hide header after scrolling"
+msgstr ""
+
+#: components/classes/x-copy-to-clipboard.php:1018
+msgid "Hide if nothing to copy"
+msgstr ""
+
+#: components/classes/x-favorite.php:416
+msgid "Hide if zero"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:136 
+#: components/classes/x-interactive-cursor.php:72 
+#: components/classes/x-offcanvas-nestable.php:109 
+#: components/classes/x-offcanvas.php:103 
+#: components/classes/x-page-tour.php:119 
+#: components/classes/x-pro-alert.php:103 
+#: components/classes/x-pro-modal-nestable.php:108 
+#: components/classes/x-pro-modal.php:101 
+#: components/classes/x-toast-notification.php:151 
+#: components/classes/x-toast.php:104
+msgid "Hide in builder"
+msgstr ""
+
+#: includes/BricksExtrasHeaderExtras.php:182
+msgid "Hide the sticky header after scrolling a certain distance"
+msgstr ""
+
+#: components/classes/x-media-player.php:263 
+#: components/classes/x-media-player.php:311 
+#: components/classes/x-media-player.php:368 
+#: components/classes/x-media-player.php:477 
+#: components/classes/x-media-player.php:537 
+#: components/classes/x-media-player.php:596
+msgid "Hide until.."
+msgstr ""
+
+#: components/classes/x-media-player.php:831
+msgid "Hiding controls"
+msgstr ""
+
+#: components/classes/x-media-control.php:2422 
+#: components/classes/x-media-control.php:2435 
+#: components/traits/media-player-trait.php:649
+msgid "High volume"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:268
+msgid "Higher values = stops movement faster"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1002
+msgid "Highlight Target Elements"
+msgstr ""
+
+#: components/classes/x-media-control.php:1809 
+#: components/traits/media-player-trait.php:2748
+msgid "Hint"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:1162
+msgid "Horizontal gap"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:736
+msgid "Horizontal position"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:585
+msgid "Horizontal split"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:510
+msgid "Hotspot Index"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:700
+msgid "Hotspot debug"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:173 
+#: components/classes/x-panorama-scene.php:297
+msgid "Hotspot name"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:81 
+#: components/classes/x-panorama-scene.php:142 
+#: components/classes/x-panorama-scene.php:214 
+#: components/classes/x-panorama-viewer.php:117
+msgid "Hotspots"
+msgstr ""
+
+#: components/classes/x-countdown.php:247 
+#: components/classes/x-countdown.php:299 
+#: components/classes/x-notification-bar.php:209 
+#: components/classes/x-page-tour.php:192 
+#: components/classes/x-pro-alert.php:311 
+#: components/classes/x-pro-modal-nestable.php:331 
+#: components/classes/x-pro-modal.php:367 
+#: components/classes/x-toast-notification.php:547
+msgid "Hours"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:180 
+#: components/classes/x-pro-modal.php:215 
+#: components/classes/x-toast-notification.php:457
+msgid "Hover element"
+msgstr ""
+
+#: components/classes/x-lottie.php:147
+msgid "Hover over another element"
+msgstr ""
+
+#: components/classes/x-lottie.php:146
+msgid "Hover over this element"
+msgstr ""
+
+#: components/classes/x-calendar.php:798
+msgid "How events are rendered in grid views"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1864
+msgid "How far before the slider comes into view."
+msgstr ""
+
+#: components/classes/x-copy-to-clipboard.php:1027
+msgid "How long to stay in copied state"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:805
+msgid "How many pages around the active slide to load"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:196 
+#: components/classes/x-toast-notification.php:219
+msgid "Icon"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:142 
+#: components/classes/x-color-scheme-toggle.php:146
+msgid "Icon + Text"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:464 
+#: components/classes/x-color-scheme-toggle.php:526
+msgid "Icon animation"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:1013
+msgid "Icon background"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:1027
+msgid "Icon border"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:1041
+msgid "Icon box shadow"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:999
+msgid "Icon color"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:144
+msgid "Icon only"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:1055
+msgid "Icon padding"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:258
+msgid "Icon type"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:3906 
+#: components/classes/x-ws-forms.php:3919
+msgid "Icon wrapper"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:121
+msgid "If changing the items to li, set this to ul"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1749
+msgid "If inside a query loop, use the ID of the other slider"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:505
+msgid "If set to visible, set overflow hidden on the section"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:211
+msgid ""
+"content to one individual selector"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:264
+msgid "If using only one dataset"
+msgstr ""
+
+#: components/classes/x-header-row.php:183
+msgid ""
+"overlay"
+msgstr ""
+
+#: components/classes/x-popover.php:671
+msgid ""
+"Disable if nesting elements to display instead."
+msgstr ""
+
+#: components/classes/x-image-hotspot-marker.php:65 
+#: includes/BricksExtrasMain.php:312
+msgid "Image Hotspot Marker"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:307
+msgid "Image Hotspots"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:92
+msgid "Image hotspot selected"
+msgstr ""
+
+#: components/classes/x-image-hotspots.php:72
+msgid "Image hotspots"
+msgstr ""
+
+#: components/classes/x-social-share.php:210
+msgid "Image to Pin"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:1605
+msgid ""
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:947 includes/BricksExtrasHelpers.php:404
+msgid "In favorites loop"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:273 
+#: components/classes/x-pro-modal.php:309
+msgid "Inactive time"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:745
+msgid "Include CPT archive link for taxonomies"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:649
+msgid "Include Category"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:696
+msgid "Include Product Category"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:722
+msgid "Include Shop Page"
+msgstr ""
+
+#: components/classes/x-interactive-cursor.php:84
+msgid "Include all selectors where the cursor should turn into the hover state"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:346
+msgid "Include home page link"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:587
+msgid "Include posts page link"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:209
+msgid "Include system option"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1774
+msgid "Independent scrolling"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:2960
+msgid "Indicator"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1223
+msgid "Information"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1224 
+#: components/classes/x-ws-forms.php:3542
+msgid "Information messages"
+msgstr ""
+
+#: components/classes/x-media-control.php:2227 
+#: components/classes/x-media-control.php:2230
+msgid "Inherit"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:167
+msgid "Initial"
+msgstr ""
+
+#: components/classes/x-calendar.php:648
+msgid "Initial View"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:318
+msgid ""
+"global settings."
+msgstr ""
+
+#: components/classes/x-calendar.php:863
+msgid "Initial scroll time"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:255 
+#: components/classes/x-dynamic-table.php:356
+msgid "Initial sort order"
+msgstr ""
+
+#: components/classes/x-slide-menu.php:89 
+#: components/classes/x-slide-menu.php:681 
+#: components/classes/x-toggle-switch.php:311
+msgid "Initial state"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:173
+msgid "Inline mode allows breadcrumbs to wrap like regular text"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:1250
+msgid "Inner color"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:110
+msgid "Inner content"
+msgstr ""
+
+#: components/classes/x-back-to-top.php:91
+msgid "Inner layout"
+msgstr ""
+
+#: components/traits/media-player-trait.php:2102
+msgid "Inner spacing"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:672
+msgid "Input indicator"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:2430 includes/WPGridBuilderStyler.php:2517
+msgid "Input padding"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1546
+msgid "Inputs"
+msgstr ""
+
+#: includes/BricksExtrasInteractive.php:163
+msgid "Interactions are not visible when editing in the builder"
+msgstr ""
+
+#: includes/BricksExtrasInteractive.php:132
+msgid "Interactive"
+msgstr ""
+
+#: components/classes/x-interactive-cursor.php:47 
+#: includes/BricksExtrasMain.php:318
+msgid "Interactive Cursor"
+msgstr ""
+
+#: components/classes/x-lottie.php:133
+msgid "Interactivity"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1761
+msgid "International dropdown"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1698
+msgid "International phone Inputs"
+msgstr ""
+
+#: components/classes/x-calendar.php:239 
+#: components/classes/x-toast-notification.php:490
+msgid "Interval"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1788
+msgid "Intervals"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1932
+msgid "Invalid feedback text"
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:421
+msgid "Invalid license."
+msgstr ""
+
+#: components/classes/x-ws-forms.php:554
+msgid "Inverted color"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:895 includes/BricksExtrasHelpers.php:396
+msgid "Is child"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:921 includes/BricksExtrasHelpers.php:400
+msgid "Is parent"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:497
+msgid "Item Index"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:65
+msgid "Item added"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:792 
+#: components/classes/x-media-playlist.php:798
+msgid "Item description goes here"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:66
+msgid "Item removed"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:80
+msgid "Item styles"
+msgstr ""
+
+#: components/classes/x-qr-code.php:162
+msgid "Kanji"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:433 
+#: components/classes/x-page-tour.php:971 
+#: components/classes/x-toggle-switch.php:97
+msgid "Keyboard Navigation"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:287
+msgid "Keyboard controls"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4324
+msgid "Kind"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:458
+msgid "Label Number"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:699 
+#: components/classes/x-dynamic-chart.php:830
+msgid "Label rotation"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:102
+msgid "Labels"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:383
+msgid "Labels and field values"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:408 includes/BricksExtrasHelpers.php:412 
+#: includes/BricksExtrasHelpers.php:416 includes/BricksExtrasHelpers.php:420
+msgid "Language"
+msgstr ""
+
+#: components/classes/x-calendar.php:847
+msgid "Last time slot in timeline views (e.g., 22:00:00)"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:2159
+msgid "Layout if slider not active"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:261 
+#: components/classes/x-media-player-audio.php:266 
+#: components/classes/x-media-player.php:866 
+#: components/classes/x-media-player.php:871 
+#: components/classes/x-pro-slider.php:788
+msgid "Lazy load"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:500 
+#: components/classes/x-pro-slider.php:782
+msgid "Lazy loading"
+msgstr ""
+
+#: components/classes/x-calendar.php:693
+msgid "Leave at 0 for auto"
+msgstr ""
+
+#: components/classes/x-page-tour-step.php:97
+msgid "Leave blank for step centered in viewport"
+msgstr ""
+
+#: components/classes/x-image-hotspot-marker.php:601
+msgid "Leave blank if wanting to inherit from parent Image Hotspots settings"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:1293 
+#: components/classes/x-dynamic-chart.php:1303
+msgid "Leave empty to inherit color"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:742 
+#: components/classes/x-color-scheme-toggle.php:745
+msgid "Left"
+msgstr ""
+
+#. Popover positioning: left-bottom corner
+#: components/classes/x-copy-to-clipboard.php:404 
+#: components/classes/x-favorite.php:708 
+#: components/classes/x-image-hotspots.php:704 
+#: components/classes/x-page-tour-step.php:119 
+#: components/classes/x-popover.php:566
+msgid "Left End"
+msgstr ""
+
+#. Popover positioning: left-top corner
+#: components/classes/x-copy-to-clipboard.php:403 
+#: components/classes/x-favorite.php:707 
+#: components/classes/x-image-hotspots.php:703 
+#: components/classes/x-page-tour-step.php:118 
+#: components/classes/x-popover.php:565
+msgid "Left Start"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:350 includes/BricksExtrasMain.php:366
+msgid "Legacy"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:147
+msgid "Legal"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:1082
+msgid "Legend"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:114
+msgid "Legends"
+msgstr ""
+
+#: components/classes/x-read-more-less.php:193 
+#: components/classes/x-read-more-less.php:217
+msgid "Less"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:548
+msgid "Level"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:567
+msgid "Level ID"
+msgstr ""
+
+#: includes/VideoProvidersPage.php:96
+msgid "Library ID can only contain letters, numbers, dashes, and underscores."
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:264 includes/Plugin.php:241
+msgid "License"
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:284
+msgid "License Key"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:169 
+#: components/classes/x-color-scheme-toggle.php:1478 
+#: components/classes/x-color-scheme-toggle.php:1610 
+#: components/classes/x-color-scheme-toggle.php:1678 
+#: components/classes/x-color-scheme-toggle.php:1792
+msgid "Light"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:505
+msgid "Light icon"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:59
+msgid "Lightbox closed"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:58
+msgid "Lightbox opened"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:638
+msgid "Lighter Color"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:812
+msgid "Lightest color"
+msgstr ""
+
+#: components/classes/x-before-after-image.php:190 
+#: components/classes/x-content-timeline.php:92 
+#: components/classes/x-dynamic-chart.php:399 
+#: components/classes/x-dynamic-chart.php:437
+msgid "Line"
+msgstr ""
+
+#: components/classes/x-back-to-top.php:239 
+#: components/classes/x-dynamic-chart.php:465 
+#: components/classes/x-dynamic-chart.php:493 
+#: components/classes/x-pro-slider-control.php:1300 
+#: components/classes/x-pro-slider-control.php:1341
+msgid "Line width"
+msgstr ""
+
+#: components/classes/x-calendar.php:879 components/classes/x-calendar.php:881
+msgid "Link to URL"
+msgstr ""
+
+#: components/classes/x-calendar.php:958
+msgid "List"
+msgstr ""
+
+#: components/classes/x-calendar.php:955
+msgid "List Button"
+msgstr ""
+
+#: components/classes/x-calendar.php:1075
+msgid "List Day Text"
+msgstr ""
+
+#: includes/BricksExtrasQueryLoop.php:491
+msgid "List Indentifier"
+msgstr ""
+
+#: components/classes/x-calendar.php:795 components/classes/x-calendar.php:797
+msgid "List Item (dot)"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:141
+msgid "List background"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:173
+msgid "List background (focused)"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:205
+msgid "List background (selected)"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:69
+msgid "List count full (over maximum)"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:68
+msgid "List count reaches X"
+msgstr ""
+
+#: components/classes/x-favorite.php:194
+msgid "List identifier"
+msgstr ""
+
+#: components/classes/x-table-of-contents.php:510 
+#: components/classes/x-table-of-contents.php:526 
+#: components/classes/x-table-of-contents.php:541 
+#: components/classes/x-table-of-contents.php:557
+msgid "List style type"
+msgstr ""
+
+#: components/classes/x-favorite.php:195
+msgid "List that is being saved to"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:157
+msgid "List typography"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:189
+msgid "List typography (focused)"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:221
+msgid "List typography (selected)"
+msgstr ""
+
+#: components/classes/x-media-control.php:135 
+#: components/classes/x-media-control.php:210 
+#: components/classes/x-media-control.php:213 
+#: components/classes/x-media-control.php:933 
+#: components/classes/x-media-control.php:1164 
+#: components/classes/x-media-control.php:2905 
+#: components/traits/media-player-trait.php:183 
+#: components/traits/media-player-trait.php:1512 
+#: components/traits/media-player-trait.php:3276 
+#: components/traits/media-player-trait.php:3881
+msgid "Live"
+msgstr ""
+
+#: components/classes/x-media-player.php:878
+msgid "Loading UI"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:251 
+#: components/classes/x-media-player.php:856
+msgid "Loading media"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:846
+msgid "Logarithmic"
+msgstr ""
+
+#: components/classes/x-favorite.php:132 components/classes/x-favorite.php:135
+msgid "Logged in users"
+msgstr ""
+
+#: components/classes/x-favorite.php:681
+msgid "Login to enable"
+msgstr ""
+
+#: components/classes/x-favorite.php:1566
+msgid "Login to enable "
+msgstr ""
+
+#: components/classes/x-media-control.php:530 
+#: components/classes/x-media-control.php:2920 
+#: components/traits/media-player-trait.php:491 
+#: components/traits/media-player-trait.php:1168
+msgid "Loop"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4849
+msgid "Loop back to start after reaching the end"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:74
+msgid "Loop index"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1309 
+#: includes/BricksExtrasHelpers.php:424
+msgid "Loop item number"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:458
+msgid "Looped intervals"
+msgstr ""
+
+#: components/classes/x-lottie.php:59 includes/BricksExtrasMain.php:323
+msgid "Lottie"
+msgstr ""
+
+#: components/classes/x-lottie.php:247
+msgid "Lottie version"
+msgstr ""
+
+#: components/classes/x-media-control.php:2450 
+#: components/classes/x-media-control.php:2463 
+#: components/traits/media-player-trait.php:668
+msgid "Low volume"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:256
+msgid "Lower values = less sensitive scrolling"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1741
+msgid "Makes slides clickable to navigate another slider."
+msgstr ""
+
+#: components/classes/x-social-share.php:63
+msgid "Manage Share buttons"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:381 
+#: components/classes/x-media-player-audio.php:417 
+#: components/classes/x-media-player-audio.php:453 
+#: components/classes/x-media-player.php:235 
+#: components/classes/x-media-player.php:286 
+#: components/classes/x-media-player.php:334 
+#: components/classes/x-media-player.php:438 
+#: components/classes/x-media-player.php:505 
+#: components/classes/x-media-player.php:562
+msgid "Manage controls for this zone"
+msgstr ""
+
+#: components/classes/x-notification-bar.php:180 
+#: components/classes/x-page-tour.php:168 
+#: components/classes/x-pro-alert.php:289
+msgid "Manual (if using with code)"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:325 
+#: components/classes/x-dynamic-chart.php:330
+msgid "Manually"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:310 
+#: components/classes/x-toast-notification.php:402
+msgid "Margin"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:895
+msgid "Marker "
+msgstr ""
+
+#: components/classes/x-content-timeline.php:905
+msgid "Marker inner"
+msgstr ""
+
+#: components/classes/x-image-hotspot-marker.php:86 
+#: components/classes/x-image-hotspots.php:93
+msgid "Marker style"
+msgstr ""
+
+#: components/classes/x-calendar.php:692
+msgid "Max events to show per day"
+msgstr ""
+
+#: includes/BricksExtrasInteractive.php:409
+msgid "Max glare"
+msgstr ""
+
+#: components/classes/x-favorite.php:203
+msgid "Max. number of posts in list"
+msgstr ""
+
+#: components/classes/x-toast.php:132
+msgid "Max. visible toasts"
+msgstr ""
+
+#: components/classes/x-favorite.php:608 components/classes/x-favorite.php:1577
+msgid "Maximum Reached"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:833
+msgid "Maximum number pages that can be flicked"
+msgstr ""
+
+#: components/classes/x-favorite.php:247 components/classes/x-favorite.php:250
+msgid "Maximum reached"
+msgstr ""
+
+#: includes/BricksExtrasInteractive.php:341
+msgid "Maximum rotation"
+msgstr ""
+
+#: components/classes/x-media-control.php:47 
+#: components/classes/x-media-control.php:109 includes/BricksExtrasMain.php:339
+msgid "Media Control"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:258 
+#: components/classes/x-media-player.php:863
+msgid "Media Loading"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:71 
+#: components/classes/x-media-player.php:74 includes/BricksExtrasMain.php:328 
+#: includes/BricksExtrasMain.php:333
+msgid "Media Player"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:59 includes/BricksExtrasMain.php:345
+msgid "Media Playlist"
+msgstr ""
+
+#: components/traits/media-player-trait.php:235 
+#: components/traits/media-player-trait.php:237
+msgid "Media Source URL"
+msgstr ""
+
+#: components/classes/x-media-control.php:223 
+#: components/classes/x-media-control.php:225 
+#: components/classes/x-media-playlist.php:158 
+#: components/classes/x-media-playlist.php:171 
+#: components/classes/x-media-playlist.php:208 
+#: components/traits/media-player-trait.php:1835 
+#: components/traits/media-player-trait.php:1851 
+#: components/traits/media-player-trait.php:1886
+msgid "Media source URL"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:167 
+#: components/classes/x-media-playlist.php:203 
+#: components/traits/media-player-trait.php:1847 
+#: components/traits/media-player-trait.php:1882
+msgid "Media sources"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:114 
+#: components/classes/x-media-playlist.php:176 
+#: components/classes/x-media-playlist.php:213 
+#: components/traits/media-player-trait.php:1856 
+#: components/traits/media-player-trait.php:1891
+msgid "Media type"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:108
+msgid "Member Conditions"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:448
+msgid "Member Level"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:469
+msgid "Member Level ID"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:495
+msgid "Member access group"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:514
+msgid "Member access group ID"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:340
+msgid "Membership level"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:363
+msgid "Membership level ID"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:101
+msgid "Menu Item Classes"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:96
+msgid "Menu Item Description"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:111
+msgid "Menu Item ID"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:86
+msgid "Menu Item Label"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:106
+msgid "Menu Item Target"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:91
+msgid "Menu Item URL"
+msgstr ""
+
+#: includes/BricksExtrasQueryLoop.php:377
+msgid "Menu Items Filter"
+msgstr ""
+
+#: components/classes/x-media-control.php:534
+msgid "Menu Placement"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:224
+msgid "Menu collapse"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:223
+msgid "Menu expanded"
+msgstr ""
+
+#: components/classes/x-media-control.php:1841 
+#: components/classes/x-media-control.php:2478 
+#: components/classes/x-media-control.php:2486
+msgid "Menu items"
+msgstr ""
+
+#: components/classes/x-slide-menu.php:122 
+#: includes/BricksExtrasQueryLoop.php:349
+msgid "Menu name, menu slug or menu ID"
+msgstr ""
+
+#: components/classes/x-media-control.php:547 
+#: components/classes/x-media-control.php:557
+msgid "Menu offset"
+msgstr ""
+
+#: components/traits/media-player-trait.php:2562
+msgid "Menus"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:88 
+#: components/classes/x-content-timeline.php:953
+msgid "Meta content"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:182 
+#: components/classes/x-content-timeline.php:244
+msgid "Meta content align"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:942
+msgid "Meta inner"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:951
+msgid "Meta text"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:147
+msgid "Meta width"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:122 components/classes/x-ws-forms.php:3077
+msgid "Meter"
+msgstr ""
+
+#: components/classes/x-reading-progress-bar.php:111 
+#: components/classes/x-reading-progress-bar.php:123
+msgid "Middle of viewport"
+msgstr ""
+
+#: components/classes/x-table-of-contents.php:200
+msgid "Minimum headings found to display"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:817
+msgid "Minimum threshold for dragging"
+msgstr ""
+
+#: components/classes/x-countdown.php:248 
+#: components/classes/x-countdown.php:300 
+#: includes/BricksExtrasInteractions.php:303
+msgid "Minutes"
+msgstr ""
+
+#: includes/Plugin.php:239
+msgid "Misc"
+msgstr ""
+
+#: includes/MiscPage.php:55
+msgid "Miscellaneous"
+msgstr ""
+
+#: components/classes/x-countdown.php:196 
+#: components/classes/x-pro-modal-nestable.php:52 
+#: components/classes/x-pro-modal-nestable.php:957 
+#: components/classes/x-pro-modal-nestable.php:1003 
+#: components/classes/x-pro-modal.php:46 
+#: components/classes/x-pro-modal.php:884 
+#: components/classes/x-pro-modal.php:932 includes/BricksExtrasMain.php:350 
+#: includes/BricksExtrasMain.php:355
+msgid "Modal"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:138
+msgid "Modal closed"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:137
+msgid "Modal opened"
+msgstr ""
+
+#: components/classes/x-calendar.php:707 components/classes/x-calendar.php:745
+msgid "Monday"
+msgstr ""
+
+#: components/classes/x-calendar.php:931
+msgid "Month"
+msgstr ""
+
+#: components/classes/x-calendar.php:928
+msgid "Month Button"
+msgstr ""
+
+#: components/classes/x-calendar.php:313 components/classes/x-calendar.php:343 
+#: components/classes/x-calendar.php:373 components/classes/x-calendar.php:410 
+#: components/classes/x-calendar.php:439 components/classes/x-calendar.php:468 
+#: components/classes/x-calendar.php:652 components/classes/x-calendar.php:661
+msgid "Month Grid"
+msgstr ""
+
+#: components/classes/x-calendar.php:320 components/classes/x-calendar.php:350 
+#: components/classes/x-calendar.php:380 components/classes/x-calendar.php:417 
+#: components/classes/x-calendar.php:446 components/classes/x-calendar.php:475 
+#: components/classes/x-calendar.php:658
+msgid "Month List"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:840
+msgid "Monthly"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:290 
+#: components/classes/x-color-scheme-toggle.php:373
+msgid "Moon eclipse size"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:311 
+#: components/classes/x-color-scheme-toggle.php:394
+msgid "Moon rotation"
+msgstr ""
+
+#: components/classes/x-read-more-less.php:184 
+#: components/classes/x-read-more-less.php:208
+msgid "More"
+msgstr ""
+
+#: components/classes/x-calendar.php:1284
+msgid "More Link Background"
+msgstr ""
+
+#: components/classes/x-calendar.php:1297
+msgid "More Link Text"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:272
+msgid "Morphing icon presets"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:264 
+#: components/classes/x-color-scheme-toggle.php:266
+msgid "Morphing icons"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:237
+msgid "Mouse wheel Zoom"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:2649
+msgid "Move Down Button"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:2588
+msgid "Move Up Button"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:1453
+msgid "Move cell content onto new line"
+msgstr ""
+
+#: components/classes/x-image-hotspot-marker.php:654 
+#: components/classes/x-image-hotspots.php:759
+msgid "Move focus inside popover content"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:810 
+#: components/classes/x-toggle-switch.php:812
+msgid "Move focus to next tab"
+msgstr ""
+
+#: components/classes/x-offcanvas-nestable.php:268 
+#: components/classes/x-offcanvas.php:278
+msgid "Move focus to offcanvas"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4840
+msgid "Move to next item in playlist when media ends"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:261
+msgid "Movement friction"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:2042
+msgid "Multiple Selection remove icon"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:1956
+msgid "Multiple Selection values"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:204
+msgid "Multiple file types"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:114
+msgid "Multiple labels"
+msgstr ""
+
+#: components/classes/x-popover.php:682
+msgid "Multiple triggers for the same tooltip"
+msgstr ""
+
+#: components/classes/x-media-control.php:319 
+#: components/classes/x-media-control.php:2713 
+#: components/traits/media-player-trait.php:961
+msgid "Mute"
+msgstr ""
+
+#: components/classes/x-media-control.php:2394 
+#: components/classes/x-media-control.php:2407
+msgid "Muted"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:693
+msgid "Navigation by mouse wheel"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:792 
+#: components/classes/x-pro-slider.php:796
+msgid "Nearby"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:589
+msgid "Nest content inside viewer to inform the user to click to load"
+msgstr ""
+
+#: components/classes/x-image-hotspots.php:137
+msgid "Nest in the Image Hotspot Marker element"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:600
+msgid "Nest taxonomies"
+msgstr ""
+
+#: components/classes/x-nestable-table.php:59 includes/BricksExtrasMain.php:361
+msgid "Nestable Table"
+msgstr ""
+
+#: components/classes/x-slide-menu.php:540 
+#: components/classes/x-slide-menu.php:544
+msgid "Nested"
+msgstr ""
+
+#: components/classes/x-image-hotspots.php:130
+msgid "Nested Hotspots"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:120
+msgid "Net Promotor Score"
+msgstr ""
+
+#: components/classes/x-calendar.php:1088
+msgid "Neutral Background"
+msgstr ""
+
+#: components/classes/x-calendar.php:1101
+msgid "Neutral Text"
+msgstr ""
+
+#: components/classes/x-notification-bar.php:177 
+#: components/classes/x-page-tour.php:165 
+#: components/classes/x-pro-alert.php:287 
+#: components/classes/x-pro-modal-nestable.php:312 
+#: components/classes/x-pro-modal.php:348 
+#: components/classes/x-toast-notification.php:529
+msgid "Never show again"
+msgstr ""
+
+#: components/classes/x-calendar.php:307 components/classes/x-calendar.php:337 
+#: components/classes/x-calendar.php:367 components/classes/x-calendar.php:404 
+#: components/classes/x-calendar.php:433 components/classes/x-calendar.php:462 
+#: components/classes/x-dynamic-table.php:1559 
+#: components/classes/x-media-control.php:346 
+#: components/classes/x-media-control.php:3253 
+#: components/classes/x-page-tour.php:570 
+#: components/traits/media-player-trait.php:1593
+msgid "Next"
+msgstr ""
+
+#: components/classes/x-calendar.php:982
+msgid "Next Button"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:1728
+msgid "Next Slide"
+msgstr ""
+
+#: components/classes/x-calendar.php:309 components/classes/x-calendar.php:339 
+#: components/classes/x-calendar.php:369 components/classes/x-calendar.php:406 
+#: components/classes/x-calendar.php:435 components/classes/x-calendar.php:464
+msgid "Next Year"
+msgstr ""
+
+#: components/classes/x-calendar.php:1000
+msgid "Next Year Button"
+msgstr ""
+
+#: components/classes/x-media-control.php:137 
+#: components/classes/x-media-control.php:342 
+#: components/traits/media-player-trait.php:169
+msgid "Next item"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:2237
+msgid "Next slide"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1089
+msgid "Next step is useful for multi-page tours"
+msgstr ""
+
+#: components/classes/x-calendar.php:1018
+msgid "No Events Text"
+msgstr ""
+
+#: components/classes/x-calendar.php:1021
+msgid "No events to display"
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:524
+msgid "No license key found. Please enter your license key and activate."
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:519 
+#: components/classes/x-dynamic-table.php:1552
+msgid "No matching records found"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:393
+msgid "No panorama image selected"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:538 
+#: includes/BricksExtrasConditions.php:561
+msgid "Non-Members"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:691
+msgid "Not present"
+msgstr ""
+
+#: components/classes/x-media-player.php:978
+msgid "Notice: Your message here"
+msgstr ""
+
+#: components/classes/x-countdown.php:196
+msgid "Notification"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:99
+msgid "Notification Dismissed"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:98
+msgid "Notification Open"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:429
+msgid ""
+"options"
+msgstr ""
+
+#: components/classes/x-calendar.php:819
+msgid "Now Indicator Color"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:483
+msgid "Number of Page Views"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:177 
+#: components/classes/x-pro-modal.php:212 
+#: components/classes/x-toast-notification.php:455
+msgid "Number of page views"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:386
+msgid "Number of slides to move"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:188
+msgid "Number of slides to show"
+msgstr ""
+
+#: components/classes/x-media-control.php:521 
+#: components/classes/x-media-control.php:2919 
+#: components/traits/media-player-trait.php:484 
+#: components/traits/media-player-trait.php:1167
+msgid "Off"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:420
+msgid "Off - Do not announce"
+msgstr ""
+
+#: components/classes/x-offcanvas.php:52
+msgid "OffCanvas"
+msgstr ""
+
+#: components/classes/x-offcanvas-nestable.php:267 
+#: components/classes/x-offcanvas-nestable.php:271 
+#: components/classes/x-offcanvas-nestable.php:429 
+#: components/classes/x-offcanvas-nestable.php:569 
+#: components/classes/x-offcanvas.php:277 
+#: components/classes/x-offcanvas.php:281 
+#: components/classes/x-offcanvas.php:439 
+#: components/classes/x-offcanvas.php:579 includes/BricksExtrasMain.php:366 
+#: includes/BricksExtrasMain.php:371
+msgid "Offcanvas"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:160
+msgid "Offcanvas closed"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:159
+msgid "Offcanvas opened"
+msgstr ""
+
+#: components/classes/x-favorite.php:741 
+#: components/classes/x-image-hotspot-marker.php:636 
+#: components/classes/x-image-hotspots.php:739 
+#: components/classes/x-popover.php:611
+msgid "Offset distance"
+msgstr ""
+
+#: components/classes/x-toast.php:150
+msgid "Offset from viewport (px)"
+msgstr ""
+
+#: components/classes/x-favorite.php:729 
+#: components/classes/x-image-hotspot-marker.php:626 
+#: components/classes/x-image-hotspots.php:728 
+#: components/classes/x-popover.php:600
+msgid "Offset skidding"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:659
+msgid "Omit end"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:262 
+#: components/classes/x-media-player.php:867
+msgid "On click"
+msgstr ""
+
+#: components/classes/x-media-control.php:987 
+#: components/classes/x-media-control.php:1001 
+#: components/classes/x-media-control.php:1015 
+#: components/traits/media-player-trait.php:3927 
+#: components/traits/media-player-trait.php:3940 
+#: components/traits/media-player-trait.php:3953
+msgid "On edge"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2152
+msgid "On hold"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:172 
+#: components/classes/x-pro-modal-nestable.php:173 
+#: components/classes/x-pro-modal.php:207 
+#: components/classes/x-pro-modal.php:208 
+#: components/classes/x-toast-notification.php:450 
+#: components/classes/x-toast-notification.php:451
+msgid "On page load"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:263 
+#: components/classes/x-media-player.php:868
+msgid "On play"
+msgstr ""
+
+#: components/classes/x-pro-alert.php:288 
+#: components/classes/x-pro-modal-nestable.php:313 
+#: components/classes/x-pro-modal.php:349 
+#: components/classes/x-toast-notification.php:530
+msgid "Only allow to show after:"
+msgstr ""
+
+#: components/classes/x-notification-bar.php:178 
+#: components/classes/x-page-tour.php:167
+msgid "Only allow to show again after:"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1775
+msgid "Only control slider by clicking slides"
+msgstr ""
+
+#: components/classes/x-popover.php:701
+msgid "Only for if not using multiple triggers"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4606
+msgid "Only if video was already playing"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:341 
+#: components/classes/x-pro-modal.php:377 
+#: components/classes/x-toast-notification.php:557
+msgid "Only show once per page visit"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:350 
+#: components/classes/x-pro-modal.php:386 
+#: components/classes/x-toast-notification.php:566
+msgid "Only show once per session"
+msgstr ""
+
+#: components/classes/x-media-player.php:991
+msgid "Only visible after play"
+msgstr ""
+
+#: components/classes/x-media-player.php:990 
+#: components/classes/x-media-player.php:995
+msgid "Only visible before play"
+msgstr ""
+
+#: components/classes/x-media-player.php:993
+msgid "Only visible before player ready to play"
+msgstr ""
+
+#: components/classes/x-media-player.php:992
+msgid "Only visible when player ready to play"
+msgstr ""
+
+#: components/classes/x-back-to-top.php:411
+msgid "Only visible when scrolling up"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1851
+msgid "Only when slider in view"
+msgstr ""
+
+#: components/classes/x-calendar.php:878
+msgid "Open Popup"
+msgstr ""
+
+#: components/classes/x-pro-accordion.php:134
+msgid "Open and scroll to accordion item if URL hash matches accordion item ID"
+msgstr ""
+
+#: components/classes/x-calendar.php:909
+msgid "Open in New Tab"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:235 
+#: components/classes/x-burger-trigger.php:319
+msgid "Open menu"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:943
+msgid "Open on direct hover only"
+msgstr ""
+
+#: components/classes/x-pro-accordion.php:131
+msgid "Open on hash link"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:944
+msgid "Open on hover nearby"
+msgstr ""
+
+#: components/classes/x-header-search.php:646
+msgid "Open search"
+msgstr ""
+
+#: components/classes/x-tabs.php:856
+msgid "Open via URL parameter"
+msgstr ""
+
+#: components/classes/x-media-control.php:231 
+#: components/traits/media-player-trait.php:242
+msgid "Option ID"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:973
+msgid "Option icons"
+msgstr ""
+
+#: components/classes/x-calendar.php:182
+msgid "Optional"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:513
+msgid "Optionally add extra download options for the media"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:751
+msgid ""
+"download control)"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1117
+msgid "Order pay"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1118
+msgid "Order received"
+msgstr ""
+
+#: components/classes/x-media-control.php:299 components/classes/x-tabs.php:451
+msgid "Orientation"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:265
+msgid "Overall height of slider. Required for for vertical sliders"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:416
+msgid "Overlap"
+msgstr ""
+
+#: components/classes/x-header-row.php:154 
+#: includes/BricksExtrasHeaderExtras.php:83
+msgid "Overlay Header"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1061
+msgid "Overrides the show again settings until the user completes or cancels"
+msgstr ""
+
+#: components/classes/x-media-control.php:140 
+#: components/classes/x-media-control.php:399 
+#: components/classes/x-media-control.php:408 
+#: components/traits/media-player-trait.php:176
+msgid "PIP"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:290 
+#: components/classes/x-toast-notification.php:382
+msgid "Padding"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:1434 
+#: components/classes/x-nestable-table.php:493
+msgid "Padding behind the label"
+msgstr ""
+
+#: components/classes/x-calendar.php:1049
+msgid "Page Background"
+msgstr ""
+
+#: components/classes/x-page-tour.php:59 includes/BricksExtrasMain.php:377
+msgid "Page Tour"
+msgstr ""
+
+#: components/classes/x-page-tour-step.php:57 
+#: components/classes/x-page-tour.php:1122 includes/BricksExtrasMain.php:382
+msgid "Page Tour Step"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:176 
+#: components/classes/x-pro-modal.php:211 
+#: components/classes/x-toast-notification.php:454
+msgid "Page exit intent"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1198 
+#: includes/BricksExtrasHelpers.php:444
+msgid "Page parent"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1132 
+#: includes/BricksExtrasHelpers.php:428
+msgid "Page type"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:190
+msgid "Pages to move"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:65 
+#: components/classes/x-panorama-viewer.php:1115 
+#: includes/BricksExtrasMain.php:393
+msgid "Panorama Scene"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:71 
+#: includes/BricksExtrasMain.php:388
+msgid "Panorama Viewer"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:114
+msgid "Panorama image"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:309
+msgid "Panorama viewer"
+msgstr ""
+
+#: includes/BricksExtrasInteractive.php:171
+msgid "Parallax scroll effect"
+msgstr ""
+
+#: includes/BricksExtrasQueryLoop.php:395
+msgid "Parent Menu Item ID"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:79
+msgid "Parent loop index"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:3970
+msgid "Password Visibilty Icon"
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:271
+msgid "Paste your key in the License Key field"
+msgstr ""
+
+#: components/classes/x-media-control.php:138 
+#: components/classes/x-media-control.php:139 
+#: components/classes/x-media-control.php:153 
+#: components/classes/x-media-control.php:174 
+#: components/classes/x-media-control.php:178 
+#: components/classes/x-media-control.php:2599 
+#: components/classes/x-media-control.php:2620 
+#: components/classes/x-pro-slider-control.php:223 
+#: components/classes/x-pro-slider-control.php:248 
+#: components/classes/x-pro-slider-control.php:1550 
+#: components/traits/media-player-trait.php:170 
+#: components/traits/media-player-trait.php:171 
+#: components/traits/media-player-trait.php:217 
+#: components/traits/media-player-trait.php:872 
+#: components/traits/media-player-trait.php:885 
+#: components/traits/media-player-trait.php:4458
+msgid "Pause"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4632
+msgid "Pause if scroll out of view"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:681
+msgid "Pause media player when slider moves"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4678
+msgid "Pause other players when playback starts"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:348 
+#: includes/BricksExtrasConditions.php:371
+msgid "Pending"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2150
+msgid "Pending payment"
+msgstr ""
+
+#: components/classes/x-lottie.php:214
+msgid "Percentage distance from the bottom of viewport for animation to start"
+msgstr ""
+
+#: components/classes/x-lottie.php:203
+msgid "Percentage distance from the top of viewport for animation to start"
+msgstr ""
+
+#: components/classes/x-before-after-image.php:185 
+#: components/classes/x-before-after-image.php:757
+msgid "Percentage of image visible"
+msgstr ""
+
+#: includes/BricksExtrasInteractive.php:391
+msgid "Perspective"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1624
+msgid "Phone input"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:107
+msgid "Phone number"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:400
+msgid "Pie"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:595
+msgid "Placeholders, help text, and disabled field values."
+msgstr ""
+
+#: components/classes/x-media-control.php:2239 
+#: components/traits/media-player-trait.php:501 
+#: components/traits/media-player-trait.php:540
+msgid "Placement"
+msgstr ""
+
+#: components/classes/x-media-control.php:138 
+#: components/classes/x-media-control.php:139 
+#: components/classes/x-media-control.php:153 
+#: components/classes/x-media-control.php:165 
+#: components/classes/x-media-control.php:168 
+#: components/classes/x-media-control.php:2598 
+#: components/classes/x-media-control.php:2619 
+#: components/classes/x-pro-slider-control.php:210 
+#: components/classes/x-pro-slider-control.php:239 
+#: components/classes/x-pro-slider-control.php:1549 
+#: components/traits/media-player-trait.php:170 
+#: components/traits/media-player-trait.php:171 
+#: components/traits/media-player-trait.php:210 
+#: components/traits/media-player-trait.php:871 
+#: components/traits/media-player-trait.php:884 
+#: components/traits/media-player-trait.php:2933 
+#: components/traits/media-player-trait.php:3065 
+#: components/traits/media-player-trait.php:4458
+msgid "Play"
+msgstr ""
+
+#: components/classes/x-media-control.php:462 
+#: components/classes/x-media-control.php:467 
+#: components/classes/x-media-control.php:2921 
+#: components/traits/media-player-trait.php:438 
+#: components/traits/media-player-trait.php:442 
+#: components/traits/media-player-trait.php:1169
+msgid "Playback"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:119
+msgid "Playback position from end"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:118
+msgid "Playback position from start"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:89
+msgid "Player UI"
+msgstr ""
+
+#: components/classes/x-media-player.php:92
+msgid "Player UI Type"
+msgstr ""
+
+#: components/traits/media-player-trait.php:2071
+msgid "Player border radius"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:338 
+#: includes/BricksExtrasInteractions.php:129
+msgid "Playing"
+msgstr ""
+
+#: components/traits/media-player-trait.php:169 
+#: components/traits/media-player-trait.php:173
+msgid "Playlist"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4832
+msgid "Playlist Behavior"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4780
+msgid "Playlist mode"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:141 
+#: components/classes/x-media-player.php:162 
+#: components/traits/media-player-trait.php:4773
+msgid "Playlists"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4620
+msgid "Plays video from start when user clicks play"
+msgstr ""
+
+#: components/classes/x-media-player.php:807
+msgid "Playsinline"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:508
+msgid "Point"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:418 
+#: components/classes/x-toast-notification.php:422
+msgid "Polite - Announce when convenient"
+msgstr ""
+
+#: components/classes/x-popover.php:65
+msgid "Popover"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:399
+msgid "Popover / Tooltips"
+msgstr ""
+
+#: components/classes/x-page-tour-step.php:73
+msgid "Popover Styling"
+msgstr ""
+
+#: components/classes/x-popover.php:642
+msgid ""
+"will either be the content you nest inside this popover, or you can add text "
+"directly to the elements in style > tooltip settings"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:182
+msgid "Popover closed"
+msgstr ""
+
+#: components/classes/x-image-hotspots.php:200 
+#: components/classes/x-popover.php:848 components/classes/x-popover.php:850
+msgid "Popover content"
+msgstr ""
+
+#: components/classes/x-image-hotspots.php:234 
+#: components/classes/x-image-hotspots.php:241
+msgid "Popover content here .."
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:181
+msgid "Popover opened"
+msgstr ""
+
+#: components/classes/x-image-hotspot-marker.php:91 
+#: components/classes/x-image-hotspots.php:98
+msgid "Popover style"
+msgstr ""
+
+#. %s is the video provider name
+#: components/classes/x-media-player.php:934 
+#: includes/VideoProvidersPage.php:232
+msgid "Populate captions from %s"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:125
+msgid "Populate hotspots from query results or add manually below"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:140 
+#: components/classes/x-dynamic-table.php:144
+msgid "Populate rows with a query loop"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:137
+msgid "Populate table rows"
+msgstr ""
+
+#: components/classes/x-calendar.php:888
+msgid "Popup Template"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4735
+msgid "Portal setting menus to footer"
+msgstr ""
+
+#: components/classes/x-toast.php:116
+msgid "Position"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:507 
+#: components/classes/x-media-player.php:399
+msgid "Position above bottom controls"
+msgstr ""
+
+#: includes/BricksExtrasHeaderExtras.php:84
+msgid ""
+"background colors"
+msgstr ""
+
+#: components/classes/x-slide-menu.php:537
+msgid "Positioning"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:762 includes/BricksExtrasHelpers.php:436
+msgid "Post ancestor"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:837 includes/BricksExtrasHelpers.php:432
+msgid "Post category"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:806 includes/BricksExtrasHelpers.php:440
+msgid "Post comment count"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1066 
+#: includes/BricksExtrasHelpers.php:448
+msgid "Post publish date"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:52
+msgid "Post reading time"
+msgstr ""
+
+#: includes/BricksExtrasQueryLoop.php:143
+msgid "Post should be in the same taxonomy term"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:872 includes/BricksExtrasHelpers.php:452
+msgid "Post tag"
+msgstr ""
+
+#: includes/BricksExtrasDynamicTags.php:57
+msgid "Post terms list"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:456
+msgid "Post type"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:716 
+#: includes/BricksExtrasConditions.php:1091
+msgid "Posts page (blog)"
+msgstr ""
+
+#: components/classes/x-copy-to-clipboard.php:386 
+#: components/classes/x-favorite.php:690 
+#: components/classes/x-image-hotspot-marker.php:607 
+#: components/classes/x-image-hotspots.php:686 
+#: components/classes/x-page-tour-step.php:105 
+#: components/classes/x-popover.php:548
+msgid "Preferred placement"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:802
+msgid "Preload number"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:690 
+#: includes/BricksExtrasConditions.php:693
+msgid "Present"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:277 
+#: components/classes/x-color-scheme-toggle.php:281
+msgid "Preset 1 (CSS)"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:278
+msgid "Preset 2 (CSS)"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:279
+msgid "Preset 3 (SVG)"
+msgstr ""
+
+#: components/classes/x-page-tour.php:978 
+#: components/classes/x-pro-modal-nestable.php:888 
+#: components/classes/x-pro-modal.php:815
+msgid "Press Esc to close"
+msgstr ""
+
+#: components/classes/x-calendar.php:306 components/classes/x-calendar.php:336 
+#: components/classes/x-calendar.php:366 components/classes/x-calendar.php:403 
+#: components/classes/x-calendar.php:432 components/classes/x-calendar.php:461
+msgid "Prev"
+msgstr ""
+
+#: components/classes/x-calendar.php:308 components/classes/x-calendar.php:338 
+#: components/classes/x-calendar.php:368 components/classes/x-calendar.php:405 
+#: components/classes/x-calendar.php:434 components/classes/x-calendar.php:463
+msgid "Prev Year"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:369
+msgid "Prevent column from being sortable"
+msgstr ""
+
+#: components/classes/x-table-of-contents.php:492
+msgid "Prevent nested counters"
+msgstr ""
+
+#: components/classes/x-countdown.php:213
+msgid "Prevent redirect for admins"
+msgstr ""
+
+#: components/classes/x-offcanvas-nestable.php:318 
+#: components/classes/x-offcanvas.php:328
+msgid "Prevent scroll when open"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:480
+msgid "Prevent text wrap"
+msgstr ""
+
+#: components/classes/x-before-after-image.php:723
+msgid "Preview touch area"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:1558 
+#: components/classes/x-media-control.php:337 
+#: components/classes/x-media-control.php:3238 
+#: components/traits/media-player-trait.php:1581
+msgid "Previous"
+msgstr ""
+
+#: components/classes/x-calendar.php:973 components/classes/x-ws-forms.php:2466
+msgid "Previous Button"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:1727
+msgid "Previous Slide"
+msgstr ""
+
+#: components/classes/x-calendar.php:991
+msgid "Previous Year Button"
+msgstr ""
+
+#: components/classes/x-media-control.php:142 
+#: components/classes/x-media-control.php:333 
+#: components/traits/media-player-trait.php:173
+msgid "Previous item"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:2238
+msgid "Previous slide"
+msgstr ""
+
+#: components/classes/x-social-share.php:110
+msgid "Print"
+msgstr ""
+
+#: components/classes/x-social-share.php:160
+msgid "Print color adjust"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:663
+msgid "Priority Category"
+msgstr ""
+
+#: components/classes/x-pro-accordion.php:51 includes/BricksExtrasMain.php:404
+msgid "Pro Accordion"
+msgstr ""
+
+#: components/classes/x-pro-alert.php:58 includes/BricksExtrasMain.php:409
+msgid "Pro Alert"
+msgstr ""
+
+#: components/classes/x-countdown.php:55 includes/BricksExtrasMain.php:414
+msgid "Pro Countdown"
+msgstr ""
+
+#: components/classes/x-offcanvas-nestable.php:58
+msgid "Pro OffCanvas"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:57 includes/BricksExtrasMain.php:419
+msgid "Pro Slider"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:47 
+#: includes/BricksExtrasMain.php:424
+msgid "Pro Slider Control"
+msgstr ""
+
+#: components/classes/x-pro-slider-gallery.php:46 
+#: includes/BricksExtrasMain.php:429
+msgid "Pro Slider Gallery"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:1455 
+#: components/classes/x-pro-slider-control.php:1459
+msgid "Pro Slider Gallery Caption"
+msgstr ""
+
+#: components/classes/x-tabs.php:58 includes/BricksExtrasMain.php:435
+msgid "Pro Tabs"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2151
+msgid "Processing"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:723
+msgid "Product Category/Product Tag"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2352 
+#: includes/BricksExtrasHelpers.php:544
+msgid "Product allows backorders"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2332 
+#: includes/BricksExtrasHelpers.php:556
+msgid "Product cross-sells count"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2378 
+#: includes/BricksExtrasHelpers.php:548
+msgid "Product has category"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2402 
+#: includes/BricksExtrasHelpers.php:552
+msgid "Product has tag"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1852 
+#: includes/BricksExtrasConditions.php:1871 
+#: includes/BricksExtrasHelpers.php:560
+msgid "Product in cart"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2449 
+#: includes/BricksExtrasConditions.php:2467 
+#: includes/BricksExtrasHelpers.php:564
+msgid "Product in cart has a coupon applied"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2170 
+#: includes/BricksExtrasHelpers.php:568
+msgid "Product in stock"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2060 
+#: includes/BricksExtrasHelpers.php:576
+msgid "Product is downloadable"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2034 
+#: includes/BricksExtrasHelpers.php:580
+msgid "Product is virtual"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2286 
+#: includes/BricksExtrasHelpers.php:572
+msgid "Product on backorder"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:584
+msgid "Product rating"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:588
+msgid "Product type"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2312 
+#: includes/BricksExtrasHelpers.php:592
+msgid "Product upsell count"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:596
+msgid "Product weight"
+msgstr ""
+
+#. %s is the weight unit (e.g., kg, lbs).
+#: includes/BricksExtrasConditions.php:2197
+msgid "Product weight (%s)"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:110
+msgid "Progress Steps"
+msgstr ""
+
+#: components/classes/x-back-to-top.php:117
+msgid "Progress circle"
+msgstr ""
+
+#: components/classes/x-calendar.php:685
+msgid "Progressive Event Rendering"
+msgstr ""
+
+#. %s is the type of value to provide (e.g., ID).
+#: includes/BricksExtrasConditions.php:187 
+#: includes/BricksExtrasConditions.php:233 
+#: includes/BricksExtrasConditions.php:274 
+#: includes/BricksExtrasConditions.php:380 
+#: includes/BricksExtrasConditions.php:484 
+#: includes/BricksExtrasConditions.php:527 
+#: includes/BricksExtrasConditions.php:580 
+#: includes/BricksExtrasConditions.php:623 
+#: includes/BricksExtrasConditions.php:666
+msgid "Provide %s"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4691
+msgid "Provider controls"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1280 
+#: includes/BricksExtrasHelpers.php:460
+msgid "Published during the last"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:805
+msgid "Pulse Effect"
+msgstr ""
+
+#: components/classes/x-image-hotspots.php:103 
+#: components/classes/x-image-hotspots.php:774
+msgid "Pulses"
+msgstr ""
+
+#: components/classes/x-qr-code.php:66 includes/BricksExtrasMain.php:440
+msgid "QR Code"
+msgstr ""
+
+#: components/classes/x-media-control.php:476 
+#: components/classes/x-media-control.php:2924 
+#: components/traits/media-player-trait.php:452 
+#: components/traits/media-player-trait.php:456 
+#: components/traits/media-player-trait.php:1171
+msgid "Quality"
+msgstr ""
+
+#: components/classes/x-media-control.php:471
+msgid "Quality Setting"
+msgstr ""
+
+#: components/classes/x-qr-code.php:146
+msgid "Quartile"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:288
+msgid "Query Loop Extras"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:872
+msgid "Radio - Button Type"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:824
+msgid "Radio Button Type"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:130
+msgid "Radio buttons"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:1178
+msgid "Radio group"
+msgstr ""
+
+#: components/classes/x-pro-slider-gallery.php:124
+msgid "Randomise order"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:117 includes/WPGridBuilderStyler.php:351
+msgid "Range Slider"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:813
+msgid ""
+"backgrounds."
+msgstr ""
+
+#: components/classes/x-star-rating.php:304
+msgid "Rating: %1$s out of %2$s stars"
+msgstr ""
+
+#: components/classes/x-read-more-less.php:65 includes/BricksExtrasMain.php:450
+msgid "Read More / Less"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:445
+msgid "Reading Progress Bar"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:792 
+#: components/classes/x-pro-slider.php:796
+msgid "Recommended"
+msgstr ""
+
+#: components/classes/x-calendar.php:231
+msgid "Recurrence rule"
+msgstr ""
+
+#: components/classes/x-calendar.php:228
+msgid "Recurring Rules"
+msgstr ""
+
+#: components/classes/x-countdown.php:206
+msgid "Redirect URL"
+msgstr ""
+
+#: components/classes/x-header-search.php:976
+msgid "Redirect to search results page"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:143
+msgid "Refresh canvas after change if image stretched"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2155
+msgid "Refunded"
+msgstr ""
+
+#: components/classes/x-back-to-top.php:118
+msgid "Regular"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:290 includes/BricksExtrasQueryLoop.php:97
+msgid "Related Posts"
+msgstr ""
+
+#: components/classes/x-lottie.php:143
+msgid "Relative to another element"
+msgstr ""
+
+#: components/classes/x-lottie.php:142
+msgid "Relative to this element"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:769
+msgid "Release Wheel"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:775
+msgid "Release wheel event when slider reaches the end"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1044
+msgid "Remember User Progress"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4641
+msgid "Remember player settings"
+msgstr ""
+
+#: components/classes/x-favorite.php:233 components/classes/x-favorite.php:642 
+#: components/classes/x-favorite.php:1567
+msgid "Remove"
+msgstr ""
+
+#: components/classes/x-pro-accordion.php:462
+msgid "Remove accordion behavior at this breakpoint"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:563
+msgid "Remove current post/page title"
+msgstr ""
+
+#: components/classes/x-favorite.php:302 components/classes/x-favorite.php:1557
+msgid "Remove item"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:263
+msgid "Remove prefix on front page"
+msgstr ""
+
+#: components/classes/x-social-share.php:170
+msgid "Remove share buttons from print"
+msgstr ""
+
+#: components/classes/x-favorite.php:622 components/classes/x-favorite.php:1564
+msgid "Removed from favorites"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:112
+msgid "Repeatable sections"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:125
+msgid "Repeater"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4692
+msgid ""
+msgstr ""
+
+#: components/classes/x-media-control.php:2356 
+#: components/traits/media-player-trait.php:609
+msgid "Replay"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:117
+msgid "Replayed after ending"
+msgstr ""
+
+#: components/classes/x-calendar.php:154
+msgid "Required"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1283
+msgid ""
+"repeatable section buttons, and danger messages."
+msgstr ""
+
+#: components/classes/x-ws-forms.php:2344
+msgid "Reset Button"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:927 
+#: components/classes/x-pro-modal.php:854
+msgid "Reset forms inside modal when closed"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4618
+msgid "Reset on play (when muted autoplay)"
+msgstr ""
+
+#: components/classes/x-notification-bar.php:172 
+#: components/classes/x-pro-alert.php:282 
+#: components/classes/x-pro-modal-nestable.php:69 
+#: components/classes/x-pro-modal-nestable.php:307 
+#: components/classes/x-pro-modal.php:67 
+#: components/classes/x-pro-modal.php:343 
+#: components/classes/x-toast-notification.php:525
+msgid "Reshow"
+msgstr ""
+
+#: components/classes/x-media-player.php:821
+msgid "Reshow poster image when paused"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:466
+msgid "Resizable columns"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:809 
+#: components/classes/x-dynamic-table.php:1561
+msgid "Results"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:114
+msgid "Resumed"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:461 
+#: components/classes/x-offcanvas-nestable.php:295 
+#: components/classes/x-offcanvas.php:305
+msgid "Return focus to trigger on close"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:425
+msgid "Reverse dataset order"
+msgstr ""
+
+#: components/classes/x-lottie.php:194
+msgid "Reverse on mouseout"
+msgstr ""
+
+#: components/classes/x-lottie.php:167
+msgid "Reverse on second click"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:215
+msgid "Reverse order"
+msgstr ""
+
+#: components/classes/x-media-control.php:259 
+#: components/classes/x-media-control.php:2676 
+#: components/traits/media-player-trait.php:931
+msgid "Rewind"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:903
+msgid "Rewind slider back to start when reaches end"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:741
+msgid "Right"
+msgstr ""
+
+#. Popover positioning: right-bottom corner
+#: components/classes/x-copy-to-clipboard.php:400 
+#: components/classes/x-favorite.php:704 
+#: components/classes/x-image-hotspots.php:700 
+#: components/classes/x-page-tour-step.php:121 
+#: components/classes/x-popover.php:562
+msgid "Right End"
+msgstr ""
+
+#. Popover positioning: right-top corner
+#: components/classes/x-copy-to-clipboard.php:399 
+#: components/classes/x-favorite.php:703 
+#: components/classes/x-image-hotspots.php:699 
+#: components/classes/x-page-tour-step.php:120 
+#: components/classes/x-popover.php:561
+msgid "Right Start"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1859
+msgid "Root margin"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:471
+msgid "Rotate"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:533
+msgid "Rotate 360"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:572 
+#: components/classes/x-dynamic-chart.php:1323
+msgid "Rotation"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:357 
+#: components/classes/x-panorama-viewer.php:189
+msgid "Rotation speed in degrees per second (0 = disabled)"
+msgstr ""
+
+#: components/classes/x-qr-code.php:192 components/classes/x-qr-code.php:226 
+#: components/classes/x-qr-code.php:256
+msgid "Rounded"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:1236
+msgid "Row height"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:167 
+#: components/classes/x-content-timeline.php:230
+msgid "Row-reverse"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:291
+msgid "Rows"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:714
+msgid "Rows per page"
+msgstr ""
+
+#: components/classes/x-calendar.php:234
+msgid "Rule Name"
+msgstr ""
+
+#: components/classes/x-calendar.php:256
+msgid "Rule Value"
+msgstr ""
+
+#: components/classes/x-calendar.php:712 components/classes/x-calendar.php:750
+msgid "Saturday"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:2283
+msgid "Save Button"
+msgstr ""
+
+#: components/classes/x-media-player.php:799
+msgid "Save poster images locally"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:317
+msgid "Scene Configuration"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:99 
+#: components/classes/x-panorama-scene.php:200 
+#: components/classes/x-panorama-scene.php:288
+msgid "Scene identifier"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:189
+msgid "Scene link"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:106
+msgid "Scene title"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:627
+msgid "Schema markup"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:415
+msgid "Screen Reader Announcement"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:370
+msgid "Screen reader"
+msgstr ""
+
+#: components/classes/x-header-search.php:249
+msgid "Screen reader label"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:476
+msgid "Scroll Distance"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1009
+msgid "Scroll To Target Elements"
+msgstr ""
+
+#: components/classes/x-tabs.php:833
+msgid "Scroll and open tab via URL hash"
+msgstr ""
+
+#: components/classes/x-back-to-top.php:96
+msgid "Scroll behavior"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:174 
+#: components/classes/x-pro-modal-nestable.php:285 
+#: components/classes/x-pro-modal.php:209 
+#: components/classes/x-pro-modal.php:321 
+#: components/classes/x-toast-notification.php:452 
+#: includes/BricksExtrasHeaderExtras.php:148 
+#: includes/BricksExtrasHeaderExtras.php:213
+msgid "Scroll distance"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:249
+msgid "Scroll sensitivity"
+msgstr ""
+
+#: includes/BricksExtrasInteractive.php:179
+msgid "Scroll speeds"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:175 
+#: components/classes/x-pro-modal.php:210 
+#: components/classes/x-toast-notification.php:453
+msgid "Scroll to element"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1061
+msgid "Secondary elements such as a reset button."
+msgstr ""
+
+#: components/classes/x-countdown.php:249 
+#: components/classes/x-countdown.php:301 
+#: includes/BricksExtrasInteractions.php:322
+msgid "Seconds"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:494
+msgid "Seconds between each notification rotation"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1472
+msgid "Section Legend"
+msgstr ""
+
+#: includes/VideoProvidersPage.php:266
+msgid "Security Settings"
+msgstr ""
+
+#: components/classes/x-pro-alert.php:296
+msgid "See the docs for details on show/close alerts in your code"
+msgstr ""
+
+#: components/classes/x-notification-bar.php:187
+msgid "See the docs for details on show/close notifications in your code"
+msgstr ""
+
+#: components/classes/x-page-tour.php:177
+msgid "See the docs for details on showing tours in your code"
+msgstr ""
+
+#: components/classes/x-media-control.php:255 
+#: components/classes/x-media-control.php:277
+msgid "Seek"
+msgstr ""
+
+#: components/classes/x-media-control.php:242 
+#: components/classes/x-media-control.php:264 
+#: components/traits/media-player-trait.php:287 
+#: components/traits/media-player-trait.php:306
+msgid "Seek Distance"
+msgstr ""
+
+#: components/classes/x-media-control.php:144 
+#: components/traits/media-player-trait.php:174 
+#: components/traits/media-player-trait.php:4508
+msgid "Seek backward"
+msgstr ""
+
+#: components/classes/x-media-control.php:145 
+#: components/traits/media-player-trait.php:175 
+#: components/traits/media-player-trait.php:4518
+msgid "Seek forward"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:116
+msgid "Seeked to new time"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:1266
+msgid "Segment autoplay progress bar"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:1275
+msgid "Segment gap"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:639
+msgid "Segment progress bar"
+msgstr ""
+
+#: includes/BricksExtrasQueryLoop.php:362
+msgid "Select Menu.."
+msgstr ""
+
+#: components/classes/x-calendar.php:324 components/classes/x-calendar.php:354 
+#: components/classes/x-calendar.php:384 components/classes/x-calendar.php:421 
+#: components/classes/x-calendar.php:450 components/classes/x-calendar.php:479
+msgid "Select buttons"
+msgstr ""
+
+#: components/classes/x-copy-to-clipboard.php:1040
+msgid "Select copied text"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1743 
+#: includes/BricksExtrasConditions.php:1766
+msgid "Select custom field"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:772
+msgid "Select custom post type"
+msgstr ""
+
+#: components/classes/x-calendar.php:753
+msgid "Select days to hide"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:103
+msgid "Select dropdown"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:169 
+#: components/classes/x-fluent-form.php:172 
+#: components/classes/x-ws-forms.php:274 components/classes/x-ws-forms.php:277
+msgid "Select form"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1607 includes/WPGridBuilderStyler.php:237
+msgid "Select padding"
+msgstr ""
+
+#: components/classes/x-calendar.php:253
+msgid "Select rule"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2159
+msgid "Select status"
+msgstr ""
+
+#: components/classes/x-calendar.php:892
+msgid "Select template"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1537 
+#: includes/BricksExtrasConditions.php:1600
+msgid "Select term"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1719 
+#: components/classes/x-ws-forms.php:1732
+msgid "Selected flag"
+msgstr ""
+
+#: components/classes/x-offcanvas-nestable.php:272 
+#: components/classes/x-offcanvas.php:282
+msgid "Selector inside offcanvas"
+msgstr ""
+
+#: components/classes/x-social-share.php:155
+msgid "Selector of content area to print"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1748
+msgid "Selector of the slider to control"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:793
+msgid "Sequential"
+msgstr ""
+
+#: components/classes/x-social-share.php:85
+msgid "Services"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:321
+msgid "Set dataset colors"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:580
+msgid ""
+"show ..."
+msgstr ""
+
+#: components/classes/x-back-to-top.php:419
+msgid "Set the opacity/transform for the button in for the hidden state"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:1090
+msgid ""
+"revealed/closed"
+msgstr ""
+
+#: components/classes/x-media-player.php:833
+msgid "Set to -1 to never hide controls"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:168
+msgid "Set to 0 to disable auto-dismiss."
+msgstr ""
+
+#: components/classes/x-media-control.php:458 
+#: components/classes/x-media-control.php:2917 
+#: components/traits/media-player-trait.php:435 
+#: components/traits/media-player-trait.php:1165 includes/Plugin.php:135
+msgid "Settings"
+msgstr ""
+
+#: components/classes/x-media-control.php:146 
+#: components/classes/x-media-control.php:1691 
+#: components/traits/media-player-trait.php:177
+msgid "Settings menu"
+msgstr ""
+
+#: components/classes/x-media-control.php:1761
+msgid "Settings menu items"
+msgstr ""
+
+#: includes/VideoProvidersPage.php:131
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: components/classes/x-social-share.php:904
+msgid "Share"
+msgstr ""
+
+#: components/classes/x-social-share.php:717 
+#: components/classes/x-social-share.php:729 
+#: components/classes/x-social-share.php:741 
+#: components/classes/x-social-share.php:755 
+#: components/classes/x-social-share.php:782 
+#: components/classes/x-social-share.php:794 
+#: components/classes/x-social-share.php:806 
+#: components/classes/x-social-share.php:818 
+#: components/classes/x-social-share.php:830 
+#: components/classes/x-social-share.php:843 
+#: components/classes/x-social-share.php:855 
+#: components/classes/x-social-share.php:915
+msgid "Share on "
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1109
+msgid "Shop"
+msgstr ""
+
+#: components/classes/x-shortcode-wrapper.php:53 
+#: includes/BricksExtrasMain.php:455
+msgid "Shortcode Wrapper"
+msgstr ""
+
+#: components/classes/x-calendar.php:392
+msgid "Show Footer Toolbar"
+msgstr ""
+
+#: components/classes/x-calendar.php:294
+msgid "Show Header Toolbar"
+msgstr ""
+
+#: components/classes/x-page-tour.php:160
+msgid "Show again"
+msgstr ""
+
+#: components/classes/x-pro-alert.php:291 
+#: components/classes/x-pro-modal-nestable.php:311 
+#: components/classes/x-pro-modal-nestable.php:316 
+#: components/classes/x-pro-modal.php:347 
+#: components/classes/x-pro-modal.php:352 
+#: components/classes/x-toast-notification.php:528 
+#: components/classes/x-toast-notification.php:532
+msgid "Show again on next visit"
+msgstr ""
+
+#: components/classes/x-page-tour.php:166
+msgid "Show again until completed"
+msgstr ""
+
+#: components/classes/x-notification-bar.php:176 
+#: components/classes/x-pro-alert.php:286
+msgid "Show again until user clicks dismiss"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4758
+msgid "Show captions by default when available"
+msgstr ""
+
+#: components/classes/x-page-tour.php:988
+msgid "Show confirmation dialog if canceling tour"
+msgstr ""
+
+#: components/classes/x-page-tour.php:559
+msgid "Show each button/link conditionally"
+msgstr ""
+
+#: components/classes/x-calendar.php:774
+msgid "Show event end times"
+msgstr ""
+
+#: components/classes/x-calendar.php:766
+msgid "Show event times"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:213
+msgid "Show icon on the left side of notification"
+msgstr ""
+
+#: components/classes/x-header-search.php:382
+msgid "Show keyboard on iOS"
+msgstr ""
+
+#: components/classes/x-calendar.php:811
+msgid "Show now indicator"
+msgstr ""
+
+#: components/classes/x-notification-bar.php:175 
+#: components/classes/x-notification-bar.php:182 
+#: components/classes/x-page-tour.php:164 
+#: components/classes/x-page-tour.php:170 
+#: components/classes/x-pro-alert.php:285
+msgid "Show on every visit"
+msgstr ""
+
+#: components/classes/x-content-switcher.php:82
+msgid "Show only first child element in builder"
+msgstr ""
+
+#: components/classes/x-media-control.php:356 
+#: components/traits/media-player-trait.php:356
+msgid "Show remaining time"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:985
+msgid "Show scene titles"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1020 
+#: components/classes/x-page-tour.php:1024
+msgid "Show step in center of viewport"
+msgstr ""
+
+#: components/classes/x-calendar.php:720
+msgid "Show week numbers"
+msgstr ""
+
+#: components/classes/x-calendar.php:727
+msgid "Show weekends"
+msgstr ""
+
+#: components/classes/x-header-row.php:170
+msgid "Show/hide header row when header is in overlay mode"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:766 
+#: components/classes/x-dynamic-table.php:770 
+#: components/classes/x-dynamic-table.php:1560
+msgid "Showing"
+msgstr ""
+
+#: components/classes/x-calendar.php:813
+msgid "Shows current time line in timeline views"
+msgstr ""
+
+#: components/classes/x-slide-menu.php:541
+msgid "Sibling"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:127 
+#: components/classes/x-color-scheme-toggle.php:131
+msgid "Single button"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1093
+msgid "Single post"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1094
+msgid "Singular"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:52 includes/BricksExtrasMain.php:461
+msgid "Site Breadcrumbs"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1021
+msgid "Skip that step"
+msgstr ""
+
+#: components/classes/x-pro-accordion.php:207
+msgid "Skip to next item with up/down keys"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:1456
+msgid "Slide Data Attribute"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:233
+msgid "Slide Heights"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:471
+msgid "Slide Index"
+msgstr ""
+
+#: components/classes/x-before-after-image.php:333
+msgid "Slide control length"
+msgstr ""
+
+#: components/classes/x-before-after-image.php:316
+msgid "Slide control thickness"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:536 
+#: components/classes/x-copy-to-clipboard.php:277
+msgid "Slide down"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:538 
+#: components/classes/x-copy-to-clipboard.php:278
+msgid "Slide left"
+msgstr ""
+
+#: components/classes/x-slide-menu.php:58 includes/BricksExtrasMain.php:466
+msgid "Slide menu"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:539 
+#: components/classes/x-copy-to-clipboard.php:279
+msgid "Slide right"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:537 
+#: components/classes/x-copy-to-clipboard.php:276 
+#: components/classes/x-notification-bar.php:132 
+#: includes/BricksExtrasHeaderExtras.php:204
+msgid "Slide up"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:181
+msgid "Slide widths"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:3016
+msgid "Slider Color (lower track)"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:2987
+msgid "Slider Color (upper track)"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:1452
+msgid "Slider Thumb"
+msgstr ""
+
+#: components/classes/x-media-control.php:1344 
+#: components/traits/media-player-trait.php:3456
+msgid "Slider chapter value"
+msgstr ""
+
+#: components/classes/x-before-after-image.php:80 
+#: components/classes/x-before-after-image.php:309
+msgid "Slider control"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:197
+msgid "Slider move"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:196
+msgid "Slider moved"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:195
+msgid "Slider moved to specific slide"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:700 
+#: components/classes/x-pro-slider-control.php:1608
+msgid "Slider progress"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1734
+msgid "Slider syncing"
+msgstr ""
+
+#: components/classes/x-media-control.php:1242
+msgid "Slider time value"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:121
+msgid "Slider to control"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:187 
+#: components/classes/x-pro-slider-control.php:191
+msgid "Slides to move"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4558
+msgid "Slow down"
+msgstr ""
+
+#: components/classes/x-calendar.php:1035
+msgid "Small Font Size"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:623
+msgid "Small image displayed before panorama image loads"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:872
+msgid "Snap to closest slide"
+msgstr ""
+
+#: components/classes/x-social-share.php:47 includes/BricksExtrasMain.php:471
+msgid "Social Share"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:246 
+#: components/classes/x-dynamic-table.php:347
+msgid "Sort column as dates"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:237 
+#: components/classes/x-dynamic-table.php:338
+msgid "Sort column as numbers"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:452
+msgid "Sortable columns"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1398
+msgid "Space between elements"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:434 
+#: components/classes/x-pro-modal.php:470
+msgid "Space from edge of viewport"
+msgstr ""
+
+#: components/classes/x-calendar.php:312 components/classes/x-calendar.php:342 
+#: components/classes/x-calendar.php:372 components/classes/x-calendar.php:409 
+#: components/classes/x-calendar.php:438 components/classes/x-calendar.php:467 
+#: components/classes/x-media-control.php:143 
+#: components/traits/media-player-trait.php:178
+msgid "Spacer"
+msgstr ""
+
+#: components/classes/x-calendar.php:1310
+msgid "Special"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:189
+msgid "Specific item expand"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:125 
+#: components/classes/x-toggle-switch.php:281 
+#: components/traits/media-player-trait.php:4794
+msgid "Specific selector"
+msgstr ""
+
+#: components/classes/x-media-control.php:485 
+#: components/classes/x-media-control.php:2925 
+#: components/traits/media-player-trait.php:445 
+#: components/traits/media-player-trait.php:449 
+#: components/traits/media-player-trait.php:1170
+msgid "Speed"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4548
+msgid "Speed up"
+msgstr ""
+
+#: components/classes/x-pro-slider-gallery.php:451 
+#: components/classes/x-pro-slider-gallery.php:454
+msgid "Splide lazy load"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:124
+msgid "Stack columns"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:1360 
+#: components/classes/x-nestable-table.php:366
+msgid "Stack columns vertically at breakpoint"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:415
+msgid "Stack on top"
+msgstr ""
+
+#: components/classes/x-nestable-table.php:90
+msgid "Stack vertically"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1901
+msgid "Stagger animation delays"
+msgstr ""
+
+#: components/classes/x-star-rating.php:47 includes/BricksExtrasMain.php:476
+msgid "Star Rating"
+msgstr ""
+
+#: components/classes/x-calendar.php:172
+msgid "Start Date/Time"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1806
+msgid "Start as paused"
+msgstr ""
+
+#: components/classes/x-lottie.php:105
+msgid "Start frame"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4718
+msgid "Start time URL parameter"
+msgstr ""
+
+#: components/classes/x-reading-progress-bar.php:107
+msgid "Start when top of container reaches.."
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:111 
+#: includes/BricksExtrasInteractions.php:168
+msgid "Started"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1092
+msgid "Static Page"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:115
+msgid "Step Button"
+msgstr ""
+
+#: components/classes/x-page-tour-step.php:129
+msgid "Step ID"
+msgstr ""
+
+#: components/classes/x-page-tour.php:75
+msgid "Step Popover Styling"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1127
+msgid "Step content.."
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:175
+msgid "Step hidden"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:174
+msgid "Step shown"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1082
+msgid "Step to return to"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:256 
+#: components/traits/media-player-trait.php:1980
+msgid "Stream type"
+msgstr ""
+
+#: components/classes/x-copy-to-clipboard.php:173
+msgid "Strip HTML tags"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:105
+msgid "Styling UI"
+msgstr ""
+
+#: components/classes/x-slide-menu.php:418
+msgid "Sub menu text indent"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:245
+msgid "Submission error"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:76
+msgid "Submission failed"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:75 
+#: includes/BricksExtrasInteractions.php:244
+msgid "Submission success"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:653 
+#: components/traits/media-player-trait.php:4300
+msgid "Subtitles"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:896
+msgid "Suggested Max"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:885
+msgid "Suggested Min"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:740 
+#: components/classes/x-dynamic-table.php:757
+msgid "Summary"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:352 
+#: components/classes/x-color-scheme-toggle.php:414
+msgid "Sun ray distance"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:331
+msgid "Sun ray size"
+msgstr ""
+
+#: components/classes/x-calendar.php:706 components/classes/x-calendar.php:714 
+#: components/classes/x-calendar.php:744
+msgid "Sunday"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:815
+msgid "Support horizontal for slider"
+msgstr ""
+
+#: components/classes/x-pro-slider-gallery.php:446
+msgid "Support lazy load"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:580
+msgid "Swipe down"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:582
+msgid "Swipe left"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:583
+msgid "Swipe right"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:581
+msgid "Swipe up"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:100
+msgid "Switch"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:194 
+#: components/classes/x-toggle-switch.php:843
+msgid "Switch content"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:374 
+#: components/classes/x-toggle-switch.php:842
+msgid "Switch pricing"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:809
+msgid "Switch tabs"
+msgstr ""
+
+#: components/classes/x-tabs.php:452
+msgid "Switch the keyboard navigration to use Up/Down for vertical tabs"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:206
+msgid "Switch to new item"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:208
+msgid "Switch to specific item"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:236
+msgid "Switched"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:115
+msgid "Switched media"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:237
+msgid "Switched to"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:204
+msgid "Switched to accordion"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:205
+msgid "Switched to tabs"
+msgstr ""
+
+#: components/classes/x-offcanvas-nestable.php:331 
+#: components/classes/x-offcanvas.php:341
+msgid "Sync burger triggers"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:152 
+#: components/classes/x-color-scheme-toggle.php:156 
+#: components/classes/x-color-scheme-toggle.php:1477 
+#: components/classes/x-color-scheme-toggle.php:1609
+msgid "System"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:494
+msgid "System icon"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:90
+msgid "T&Cs"
+msgstr ""
+
+#: components/classes/x-tabs.php:982 components/classes/x-tabs.php:1082
+msgid "Tab Content Item"
+msgstr ""
+
+#: components/classes/x-tabs.php:1035 components/classes/x-tabs.php:1135
+msgid "Tab Panel"
+msgstr ""
+
+#: components/classes/x-tabs.php:1071 components/classes/x-tabs.php:1171
+msgid "Tab content here"
+msgstr ""
+
+#: components/classes/x-tabs.php:403
+msgid "Tab selection on hover"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:1079 
+#: components/classes/x-fluent-form.php:1092
+msgid "Table head"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:274 
+#: components/classes/x-dynamic-table.php:375
+msgid "Table head scope"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:481
+msgid "Table of Contents"
+msgstr ""
+
+#: components/classes/x-table-of-contents.php:46 
+#: components/classes/x-table-of-contents.php:922 
+#: components/classes/x-table-of-contents.php:1000
+msgid "Table of contents"
+msgstr ""
+
+#: components/classes/x-tabs.php:969
+msgid "Tabs Content"
+msgstr ""
+
+#: components/classes/x-tabs.php:892
+msgid "Tabs list"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1042 
+#: includes/BricksExtrasConditions.php:1098 
+#: includes/BricksExtrasHelpers.php:464
+msgid "Tag archive"
+msgstr ""
+
+#: includes/BricksExtrasQueryLoop.php:159
+msgid "Taxonomy adjacent posts must have in common."
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1101
+msgid "Taxonomy archive"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:350 includes/BricksExtrasMain.php:366
+msgid "Template"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:452
+msgid "Tension"
+msgstr ""
+
+#: components/classes/x-favorite.php:605
+msgid "Text (max. reached)"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4307
+msgid "Text Track"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:124 
+#: components/classes/x-media-player.php:145 
+#: components/classes/x-media-playlist.php:93 
+#: components/classes/x-media-playlist.php:662 
+#: components/traits/media-player-trait.php:4309
+msgid "Text Tracks"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:287
+msgid "Text color"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:143
+msgid "Text only"
+msgstr ""
+
+#: components/classes/x-copy-to-clipboard.php:128
+msgid "Text to copy"
+msgstr ""
+
+#: components/classes/x-content-switcher.php:90
+msgid ""
+"toggle switch element"
+msgstr ""
+
+#. %s is the time unit (milliseconds)
+#: components/classes/x-pro-slider.php:762
+msgid "The duration (%s) before accepting next wheel"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:388
+msgid "The number of slides to move at once"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:2186
+msgid ""
+"of slides, either by using a Pro Slider Gallery element or manually using a "
+"code element."
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:329
+msgid ""
+"list under EXTRAS section near the bottom."
+msgstr ""
+
+#: components/classes/x-popover.php:661
+msgid "The selector of the target elements"
+msgstr ""
+
+#: components/classes/x-before-after-image.php:700
+msgid "The touchable size of the control on touch devices for dragging"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:810 
+#: components/classes/x-pro-slider-control.php:1412
+msgid "Thickness"
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:431
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: components/classes/x-toast-notification.php:144
+msgid "This element must be placed inside of a Toast element."
+msgstr ""
+
+#: components/classes/x-image-hotspot-marker.php:114
+msgid "This element must be placed inside of an Image Hotspot element."
+msgstr ""
+
+#: components/classes/x-media-control.php:110
+msgid "This element should be placed inside of the Media Player"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:115 
+#: components/classes/x-pro-slider-gallery.php:99
+msgid "This element should be placed outside of the Pro Slider"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:695 
+#: components/traits/media-player-trait.php:4344
+msgid "Thumbnails"
+msgstr ""
+
+#: components/classes/x-calendar.php:710 components/classes/x-calendar.php:748
+msgid "Thursday"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:3058
+msgid "Tick mark"
+msgstr ""
+
+#: includes/BricksExtrasInteractive.php:335
+msgid "Tilt hover effect"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:262
+msgid "Time Measurement"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:178 
+#: components/classes/x-pro-modal.php:213
+msgid "Time inactive"
+msgstr ""
+
+#: components/classes/x-media-control.php:150 
+#: components/classes/x-media-player-audio.php:498 
+#: components/classes/x-media-player.php:390 
+#: components/classes/x-media-player.php:623 
+#: components/traits/media-player-trait.php:181 
+#: components/traits/media-player-trait.php:3197
+msgid "Time slider"
+msgstr ""
+
+#: components/traits/media-player-trait.php:3361
+msgid "Time slider value"
+msgstr ""
+
+#: components/classes/x-calendar.php:853
+msgid "Time slot duration"
+msgstr ""
+
+#: components/classes/x-calendar.php:867
+msgid "Time to scroll to when timeline views load"
+msgstr ""
+
+#: components/classes/x-content-timeline.php:854
+msgid "Timeline Item"
+msgstr ""
+
+#: components/classes/x-calendar.php:843
+msgid "Timeline end time"
+msgstr ""
+
+#: components/classes/x-calendar.php:833
+msgid "Timeline start time"
+msgstr ""
+
+#: components/classes/x-calendar.php:804
+msgid "Timeline views"
+msgstr ""
+
+#: components/classes/x-calendar.php:162 components/classes/x-calendar.php:311 
+#: components/classes/x-calendar.php:341 components/classes/x-calendar.php:371 
+#: components/classes/x-calendar.php:408 components/classes/x-calendar.php:437 
+#: components/classes/x-calendar.php:466
+msgid "Title"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:1472
+msgid "Titles"
+msgstr ""
+
+#: components/classes/x-toast.php:59 includes/BricksExtrasMain.php:486
+msgid "Toast"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:59 
+#: includes/BricksExtrasMain.php:491
+msgid "Toast Notification"
+msgstr ""
+
+#: components/classes/x-calendar.php:310 components/classes/x-calendar.php:340 
+#: components/classes/x-calendar.php:370 components/classes/x-calendar.php:407 
+#: components/classes/x-calendar.php:436 components/classes/x-calendar.php:465 
+#: components/classes/x-calendar.php:922
+msgid "Today"
+msgstr ""
+
+#: components/classes/x-calendar.php:1346
+msgid "Today Background"
+msgstr ""
+
+#: components/classes/x-calendar.php:919
+msgid "Today Button"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:1462
+msgid "Toggle"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:59 includes/BricksExtrasMain.php:497
+msgid "Toggle Switch"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:185
+msgid "Toggle aria-label"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4498
+msgid "Toggle captions"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:338 
+#: components/traits/media-player-trait.php:4478
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: components/classes/x-pro-accordion.php:983 
+#: components/classes/x-pro-accordion.php:1079 
+#: components/classes/x-tabs.php:1019 components/classes/x-tabs.php:1119
+msgid "Toggle icon"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4468
+msgid "Toggle mute"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4488
+msgid "Toggle picture-in-picture"
+msgstr ""
+
+#: components/classes/x-image-hotspot-marker.php:156 
+#: components/classes/x-image-hotspot-marker.php:820 
+#: components/classes/x-image-hotspots.php:237 
+#: components/classes/x-image-hotspots.php:244
+msgid "Toggle popover"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:132
+msgid "Toggle switch"
+msgstr ""
+
+#: components/classes/x-media-player.php:922
+msgid "Token Expiry Time"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:739
+msgid "Token Expiry Time (seconds)"
+msgstr ""
+
+#: includes/BricksExtrasHeaderExtras.php:222
+msgid "Tolerance"
+msgstr ""
+
+#: includes/BricksExtrasBunnyStream.php:137
+msgid "Too many requests"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:243
+msgid "Tooltip position"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:230
+msgid "Tooltip text"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:109 
+#: components/classes/x-media-player-audio.php:119 
+#: components/classes/x-media-player.php:132 
+#: components/classes/x-popover.php:101
+msgid "Tooltips"
+msgstr ""
+
+#: components/classes/x-media-control.php:2218
+msgid "Tooltips will first need to enabled in the media player settings"
+msgstr ""
+
+#: components/classes/x-toast.php:120
+msgid "Top Center"
+msgstr ""
+
+#. Popover positioning: top-right corner
+#: components/classes/x-copy-to-clipboard.php:398 
+#: components/classes/x-favorite.php:702 
+#: components/classes/x-image-hotspots.php:698 
+#: components/classes/x-media-control.php:120 
+#: components/classes/x-media-control.php:539 
+#: components/classes/x-page-tour-step.php:115 
+#: components/classes/x-popover.php:560 
+#: components/traits/media-player-trait.php:154 
+#: components/traits/media-player-trait.php:1813
+msgid "Top End"
+msgstr ""
+
+#: components/classes/x-toast.php:119
+msgid "Top Left"
+msgstr ""
+
+#: includes/BricksExtrasQueryLoop.php:381
+msgid "Top Level Items Only"
+msgstr ""
+
+#: components/classes/x-toast.php:121
+msgid "Top Right"
+msgstr ""
+
+#. Popover positioning: top-left corner
+#: components/classes/x-copy-to-clipboard.php:397 
+#: components/classes/x-favorite.php:701 
+#: components/classes/x-image-hotspots.php:697 
+#: components/classes/x-media-control.php:119 
+#: components/classes/x-page-tour-step.php:114 
+#: components/classes/x-popover.php:559 
+#: components/traits/media-player-trait.php:153 
+#: components/traits/media-player-trait.php:1812
+msgid "Top Start"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:380 
+#: components/classes/x-media-player.php:234 
+#: components/classes/x-media-player.php:437
+msgid "Top controls"
+msgstr ""
+
+#: components/classes/x-reading-progress-bar.php:110 
+#: components/classes/x-reading-progress-bar.php:114 
+#: components/classes/x-reading-progress-bar.php:122
+msgid "Top of viewport"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:73 
+#: components/classes/x-pro-slider-control.php:499
+msgid "Total slides"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:395
+msgid "Touch device instructions text"
+msgstr ""
+
+#: components/classes/x-before-after-image.php:706
+msgid "Touch size"
+msgstr ""
+
+#: components/classes/x-offcanvas-nestable.php:282 
+#: components/classes/x-offcanvas.php:292
+msgid "Trap focus"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:95
+msgid "Triggers"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:285
+msgid "Triggers and Actions for elements"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:157 
+#: components/classes/x-pro-modal.php:192
+msgid "Triggers to show modal"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:435
+msgid "Triggers to show notification"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:665
+msgid "Trim space"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:667
+msgid "Trim spaces before and after the slider"
+msgstr ""
+
+#: components/classes/x-calendar.php:731 components/classes/x-calendar.php:734 
+#: components/classes/x-panorama-viewer.php:988
+msgid "True"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:576
+msgid "Truncate title (Max characters)"
+msgstr ""
+
+#: components/classes/x-calendar.php:708 components/classes/x-calendar.php:746
+msgid "Tuesday"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:113 
+#: components/classes/x-toggle-switch.php:118
+msgid "Two labels and switch"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:124 
+#: components/classes/x-qr-code.php:250
+msgid "Type"
+msgstr ""
+
+#: components/classes/x-media-player.php:417 
+#: components/classes/x-media-player.php:421
+msgid "Type 1"
+msgstr ""
+
+#: components/classes/x-media-player.php:418
+msgid "Type 2"
+msgstr ""
+
+#: components/classes/x-toast-notification.php:234 
+#: components/classes/x-toast-notification.php:326
+msgid "Typography"
+msgstr ""
+
+#: components/classes/x-media-player.php:888
+msgid "UI"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:359 
+#: components/classes/x-media-player.php:406 
+#: components/classes/x-media-player.php:413
+msgid "UI type"
+msgstr ""
+
+#: components/classes/x-calendar.php:899
+msgid "URL"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:841
+msgid "URL hash navigation"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:250 
+#: components/classes/x-pro-modal.php:286
+msgid "URL parameter includes"
+msgstr ""
+
+#: components/classes/x-social-share.php:337
+msgid "URL to Share"
+msgstr ""
+
+#: components/classes/x-dynamic-lightbox.php:1040
+msgid "Under content"
+msgstr ""
+
+#: components/classes/x-media-playlist.php:765
+msgid "Unique identifier for this download (use in download button settings)"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:176 
+#: components/classes/x-panorama-scene.php:300
+msgid ""
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:287
+msgid "Units for values"
+msgstr ""
+
+#: components/classes/x-media-control.php:324 
+#: components/classes/x-media-control.php:328 
+#: components/classes/x-media-control.php:2712 
+#: components/traits/media-player-trait.php:344 
+#: components/traits/media-player-trait.php:960
+msgid "Unmute"
+msgstr ""
+
+#: components/classes/x-calendar.php:241
+msgid "Until Date"
+msgstr ""
+
+#. %s is the keyboard key name (Ctrl/Cmd)
+#: components/classes/x-panorama-viewer.php:382
+msgid "Use %s + scroll to zoom"
+msgstr ""
+
+#. %s is the dynamic tag placeholder
+#: includes/BricksExtrasQueryLoop.php:400
+msgid "Use %s for current menu ID if inside menu query."
+msgstr ""
+
+#: components/classes/x-popover.php:650
+msgid "Use as tooltip"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:326
+msgid "Use dynamic data"
+msgstr ""
+
+#: components/classes/x-calendar.php:258
+msgid "Use dynamic data tags to pull from custom fields"
+msgstr ""
+
+#: components/classes/x-calendar.php:889
+msgid "Use dynamic tags inside of the template to show post-specific data"
+msgstr ""
+
+#: components/classes/x-table-of-contents.php:865
+msgid "Use heading text"
+msgstr ""
+
+#: components/classes/x-media-player.php:845
+msgid "Use native fullscreen where available"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:1815
+msgid "Use negative number to reverse"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:316
+msgid ""
+"manually or using dynamic data)."
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:182
+msgid "Use query loop for.."
+msgstr ""
+
+#: components/classes/x-header-search.php:967
+msgid "Use the Filter Search element inside this element"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:263 
+#: components/classes/x-dynamic-table.php:364
+msgid "Use this column to control the initial sort order"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:397
+msgid "Use two fingers to navigate"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:203
+msgid "Use {x_color_scheme} as placeholder for the current mode label"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:361
+msgid ""
+"styles"
+msgstr ""
+
+#: components/classes/x-before-after-image.php:100 
+#: components/classes/x-panorama-viewer.php:97
+msgid "User Interaction"
+msgstr ""
+
+#: components/classes/x-favorite.php:128
+msgid "User access"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:345 
+#: includes/BricksExtrasConditions.php:352 
+#: includes/BricksExtrasConditions.php:368 
+#: includes/BricksExtrasConditions.php:375 
+#: includes/BricksExtrasConditions.php:453 
+#: includes/BricksExtrasConditions.php:458 
+#: includes/BricksExtrasConditions.php:474 
+#: includes/BricksExtrasConditions.php:479
+msgid "User belongs to"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:346 
+#: includes/BricksExtrasConditions.php:347 
+#: includes/BricksExtrasConditions.php:348 
+#: includes/BricksExtrasConditions.php:349 
+#: includes/BricksExtrasConditions.php:369 
+#: includes/BricksExtrasConditions.php:370 
+#: includes/BricksExtrasConditions.php:371 
+#: includes/BricksExtrasConditions.php:372 
+#: includes/BricksExtrasConditions.php:455 
+#: includes/BricksExtrasConditions.php:456 
+#: includes/BricksExtrasConditions.php:476 
+#: includes/BricksExtrasConditions.php:477
+msgid "User belongs to "
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:350 
+#: includes/BricksExtrasConditions.php:373 
+#: includes/BricksExtrasConditions.php:454 
+#: includes/BricksExtrasConditions.php:475
+msgid "User does not belong to"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:386
+msgid "User has active membership"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2138 
+#: includes/BricksExtrasHelpers.php:604
+msgid "User has order with status"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:407
+msgid "User has paid membership"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2112 
+#: includes/BricksExtrasHelpers.php:600
+msgid "User has pending order"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2572
+msgid "User has subscription"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2592 
+#: includes/BricksExtrasConditions.php:2611
+msgid "User just purchased FluentCart product"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1932 
+#: includes/BricksExtrasConditions.php:1950 
+#: includes/BricksExtrasHelpers.php:617
+msgid "User just purchased product"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:155 
+#: includes/BricksExtrasConditions.php:287
+msgid "User membership"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:174 
+#: includes/BricksExtrasConditions.php:306
+msgid "User membership ID"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2086 
+#: includes/BricksExtrasHelpers.php:608
+msgid "User purchased current product"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:201
+msgid "User purchased download"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:220
+msgid "User purchased download ID"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1892 
+#: includes/BricksExtrasConditions.php:1911 
+#: includes/BricksExtrasConditions.php:2496 
+#: includes/BricksExtrasHelpers.php:613
+msgid "User purchased product"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:2515
+msgid "User purchased product ID"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4642
+msgid "User settings stored in browser storage"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:242
+msgid "User subscription"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:261
+msgid "User subscription ID"
+msgstr ""
+
+#: components/classes/x-page-tour-step.php:133
+msgid ""
+msgstr ""
+
+#: components/classes/x-favorite.php:141
+msgid "Users selections saves in user meta"
+msgstr ""
+
+#: components/classes/x-favorite.php:148
+msgid "Users selections saves in user meta, logged out user saved as cookie"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:247
+msgid "Validate fail"
+msgstr ""
+
+#: components/classes/x-fluent-form.php:130
+msgid "Validation Errors"
+msgstr ""
+
+#: components/traits/media-player-trait.php:3391
+msgid "Value Y Offset"
+msgstr ""
+
+#: components/classes/x-media-control.php:1259 
+#: components/traits/media-player-trait.php:3377
+msgid "Value display"
+msgstr ""
+
+#: components/classes/x-media-control.php:1274
+msgid "Value offset"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:1510
+msgid "Value range"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:796
+msgid "Values"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:958
+msgid "Values from all datasets in single tooltip"
+msgstr ""
+
+#: components/classes/x-dynamic-chart.php:959
+msgid "Values from nearest dataset in separate tooltips"
+msgstr ""
+
+#: components/classes/x-media-control.php:304
+msgid "Vertical (above)"
+msgstr ""
+
+#: components/classes/x-media-control.php:305
+msgid "Vertical (below)"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:722
+msgid "Vertical position"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:584
+msgid "Vertical split"
+msgstr ""
+
+#: includes/VideoProvidersPage.php:237
+msgid "Video Library ID"
+msgstr ""
+
+#: components/classes/x-media-player.php:665 
+#: components/classes/x-media-player.php:684
+msgid "Video buffering"
+msgstr ""
+
+#: components/classes/x-media-player.php:258 
+#: components/classes/x-media-player.php:306 
+#: components/classes/x-media-player.php:363 
+#: components/classes/x-media-player.php:472 
+#: components/classes/x-media-player.php:532 
+#: components/classes/x-media-player.php:591
+msgid "Video loaded"
+msgstr ""
+
+#: components/classes/x-media-player.php:639
+msgid "Video opacity (when controls show)"
+msgstr ""
+
+#: components/classes/x-media-player.php:259 
+#: components/classes/x-media-player.php:307 
+#: components/classes/x-media-player.php:364 
+#: components/classes/x-media-player.php:473 
+#: components/classes/x-media-player.php:533 
+#: components/classes/x-media-player.php:592
+msgid "Video played"
+msgstr ""
+
+#: components/classes/x-color-scheme-toggle.php:567
+msgid "View transition"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:306
+msgid "Viewer"
+msgstr ""
+
+#: components/classes/x-panorama-scene.php:86 
+#: components/classes/x-panorama-viewer.php:87
+msgid "Viewer Settings"
+msgstr ""
+
+#: components/classes/x-pro-modal-nestable.php:262 
+#: components/classes/x-pro-modal.php:298
+msgid "Views"
+msgstr ""
+
+#: components/classes/x-header-row.php:159
+msgid "Visibility in overlay header"
+msgstr ""
+
+#: components/classes/x-header-row.php:190 
+#: components/classes/x-notification-bar.php:382
+msgid "Visibility in sticky header"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:973
+msgid "Visitor"
+msgstr ""
+
+#: components/classes/x-media-control.php:151 
+#: components/traits/media-player-trait.php:182
+msgid "Volume"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4538
+msgid "Volume down"
+msgstr ""
+
+#: components/classes/x-media-control.php:286 
+#: components/classes/x-media-control.php:1431 
+#: components/traits/media-player-trait.php:325 
+#: components/traits/media-player-trait.php:3712
+msgid "Volume slider"
+msgstr ""
+
+#: components/traits/media-player-trait.php:4528
+msgid "Volume up"
+msgstr ""
+
+#: components/classes/x-media-control.php:1604
+msgid "Volume value"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:290 includes/BricksExtrasQueryLoop.php:98
+msgid "WP Menu"
+msgstr ""
+
+#: includes/WPGridBuilderStyler.php:45
+msgid "WPGB Facets"
+msgstr ""
+
+#: includes/BricksExtrasInteractions.php:348
+msgid "Wait for exit fullscreen then allow"
+msgstr ""
+
+#: components/classes/x-ws-forms.php:1252
+msgid "Warning messages"
+msgstr ""
+
+#: components/classes/x-media-control.php:616 
+#: components/classes/x-media-player-audio.php:173
+msgid "Waveform"
+msgstr ""
+
+#: includes/BricksExtrasInteractive.php:181
+msgid "We recommend keeping the speed between -5 and +5"
+msgstr ""
+
+#: components/classes/x-calendar.php:709 components/classes/x-calendar.php:747
+msgid "Wednesday"
+msgstr ""
+
+#: components/classes/x-calendar.php:940
+msgid "Week"
+msgstr ""
+
+#: components/classes/x-calendar.php:937
+msgid "Week Button"
+msgstr ""
+
+#: components/classes/x-calendar.php:314 components/classes/x-calendar.php:344 
+#: components/classes/x-calendar.php:374 components/classes/x-calendar.php:411 
+#: components/classes/x-calendar.php:440 components/classes/x-calendar.php:469 
+#: components/classes/x-calendar.php:653
+msgid "Week Grid"
+msgstr ""
+
+#: components/classes/x-calendar.php:319 components/classes/x-calendar.php:349 
+#: components/classes/x-calendar.php:379 components/classes/x-calendar.php:416 
+#: components/classes/x-calendar.php:445 components/classes/x-calendar.php:474 
+#: components/classes/x-calendar.php:657
+msgid "Week List"
+msgstr ""
+
+#: components/classes/x-calendar.php:251
+msgid "Week Start"
+msgstr ""
+
+#: components/classes/x-calendar.php:316 components/classes/x-calendar.php:346 
+#: components/classes/x-calendar.php:376 components/classes/x-calendar.php:413 
+#: components/classes/x-calendar.php:442 components/classes/x-calendar.php:471 
+#: components/classes/x-calendar.php:655
+msgid "Week Timeline"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:755
+msgid "Wheel sleep"
+msgstr ""
+
+#: components/classes/x-interactive-cursor.php:167
+msgid "When cursor passes over any of the chosen hover selectors (above)."
+msgstr ""
+
+#. %s is the HTML attribute name
+#: components/classes/x-interactive-cursor.php:213
+msgid "When hovering over elements with a %s attribute."
+msgstr ""
+
+#: components/classes/x-media-control.php:608 
+#: components/traits/media-player-trait.php:533
+msgid "When ready to play"
+msgstr ""
+
+#: components/classes/x-page-tour.php:1017
+msgid "When target elements not found:"
+msgstr ""
+
+#: components/classes/x-media-player-audio.php:261 
+#: components/classes/x-media-player-audio.php:266 
+#: components/classes/x-media-player.php:866 
+#: components/classes/x-media-player.php:871
+msgid "When visible"
+msgstr ""
+
+#: components/classes/x-media-player.php:892 
+#: components/classes/x-media-player.php:895
+msgid "When visible (lazy)"
+msgstr ""
+
+#: components/classes/x-lottie.php:141
+msgid "When visible in viewport"
+msgstr ""
+
+#: components/classes/x-copy-to-clipboard.php:394 
+#: components/classes/x-favorite.php:698 
+#: components/classes/x-image-hotspots.php:694 
+#: components/classes/x-image-hotspots.php:706 
+#: components/classes/x-popover.php:556 components/classes/x-popover.php:568
+msgid "Where there is enough space"
+msgstr ""
+
+#: components/classes/x-page-tour.php:137
+msgid "Window Event"
+msgstr ""
+
+#: includes/BricksExtrasMain.php:280
+msgid "Wishlist"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:126 
+#: components/classes/x-toggle-switch.php:282 
+#: components/traits/media-player-trait.php:4795
+msgid "Within the same component"
+msgstr ""
+
+#: components/classes/x-pro-slider-control.php:124 
+#: components/classes/x-pro-slider-control.php:128 
+#: components/classes/x-toggle-switch.php:280 
+#: components/classes/x-toggle-switch.php:285 
+#: components/traits/media-player-trait.php:4793 
+#: components/traits/media-player-trait.php:4798
+msgid "Within the same section"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:296
+msgid "X-Ray Mode"
+msgstr ""
+
+#: components/classes/x-calendar.php:967
+msgid "Year"
+msgstr ""
+
+#: components/classes/x-calendar.php:964
+msgid "Year Button"
+msgstr ""
+
+#: components/classes/x-calendar.php:321 components/classes/x-calendar.php:351 
+#: components/classes/x-calendar.php:381 components/classes/x-calendar.php:418 
+#: components/classes/x-calendar.php:447 components/classes/x-calendar.php:476 
+#: components/classes/x-calendar.php:659
+msgid "Year List"
+msgstr ""
+
+#: components/classes/x-toggle-switch.php:841
+msgid "Yearly"
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:426
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:409
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:417
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: includes/BricksExtrasLicense.php:435
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:315 
+#: components/classes/x-panorama-viewer.php:318
+msgid "Zoom in"
+msgstr ""
+
+#: components/classes/x-panorama-viewer.php:325 
+#: components/classes/x-panorama-viewer.php:328
+msgid "Zoom out"
+msgstr ""
+
+#: components/classes/x-calendar.php:1012
+msgid "all-day"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:548
+msgid "aria-label"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:74
+msgid "arrow"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:75
+msgid "arrow-alt"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:76
+msgid "arrowturn"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:77
+msgid "boring"
+msgstr ""
+
+#: components/classes/x-breadcrumbs.php:1266
+msgid "breadcrumbs"
+msgstr ""
+
+#: components/classes/x-pro-slider.php:2436
+msgid "carousel"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:78
+msgid "collapse"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:528
+msgid "cost"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:79
+msgid "elastic"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1316
+msgid "every"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1806 
+#: includes/BricksExtrasConditions.php:1808
+msgid "for this post type"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1898 
+#: includes/BricksExtrasConditions.php:1917 
+#: includes/BricksExtrasConditions.php:2502 
+#: includes/BricksExtrasConditions.php:2521
+msgid "has not purchased"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1897 
+#: includes/BricksExtrasConditions.php:1900 
+#: includes/BricksExtrasConditions.php:1916 
+#: includes/BricksExtrasConditions.php:1919 
+#: includes/BricksExtrasConditions.php:2501 
+#: includes/BricksExtrasConditions.php:2504 
+#: includes/BricksExtrasConditions.php:2520 
+#: includes/BricksExtrasConditions.php:2523
+msgid "has purchased"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1078 
+#: includes/BricksExtrasConditions.php:1081
+msgid "in the past"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1737 
+#: includes/BricksExtrasConditions.php:1739 
+#: includes/BricksExtrasConditions.php:1760 
+#: includes/BricksExtrasConditions.php:1762
+msgid "is in the future"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1735 
+#: includes/BricksExtrasConditions.php:1759
+msgid "is in the past"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1736
+msgid "is today"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:520
+msgid "items"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:80
+msgid "minus"
+msgstr ""
+
+#: components/classes/x-calendar.php:985
+msgid "next"
+msgstr ""
+
+#: components/classes/x-calendar.php:1003
+msgid "next year"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:792 
+#: components/classes/x-dynamic-table.php:796 
+#: components/classes/x-dynamic-table.php:1565 
+#: components/classes/x-pro-slider-control.php:1640
+msgid "of"
+msgstr ""
+
+#: components/classes/x-image-hotspot-marker.php:166 
+#: components/classes/x-image-hotspots.php:190 
+#: components/classes/x-image-hotspots.php:193
+msgid "popover"
+msgstr ""
+
+#: components/classes/x-calendar.php:976
+msgid "prev"
+msgstr ""
+
+#: components/classes/x-calendar.php:994
+msgid "prev year"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1317
+msgid "sequence pattern"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:81
+msgid "slider"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:82
+msgid "squeeze"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:617
+msgid "thankyou page"
+msgstr ""
+
+#: components/classes/x-dynamic-table.php:779 
+#: components/classes/x-dynamic-table.php:783 
+#: components/classes/x-dynamic-table.php:1564
+msgid "to"
+msgstr ""
+
+#: includes/BricksExtrasConditions.php:1079
+msgid "today"
+msgstr ""
+
+#: includes/BricksExtrasHelpers.php:416
+msgid "visitor"
+msgstr ""
+
+#: components/classes/x-burger-trigger.php:83
+msgid "vortex"
+msgstr ""
